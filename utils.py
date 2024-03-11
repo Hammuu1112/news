@@ -54,7 +54,7 @@ class WebHookData:
                     "color": self.color_scheme[self.data_type],
                     "footer": {
                         "text": self.date,
-                        "icon_url": "https://s1.pearlcdn.com/KR/contents/img/common/favicon48_bdo.ico"
+                        "icon_url": "https://www.karanda.kr/assets/assets/icons/bdo.png"
                     },
                     "image": {
                         "url": self.thumbnail

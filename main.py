@@ -9,9 +9,9 @@ from lab_update import lab_update
 if __name__ == '__main__':
     argv = sys.argv
     del argv[0]
-    if len(argv) >= 5:
+    if len(argv) >= 6:
         kr_notice(argv[0])
-        kr_update(argv[1])
-        kr_event(argv[2])
-        lab_notice(argv[3])
-        lab_update(argv[4])
+        kr_update(argv[1], argv[2])
+        kr_event(argv[3])
+        lab_notice(argv[4])
+        lab_update(argv[5])

@@ -10,7 +10,8 @@ start_with = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '[']
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-def kr_update(web_hook_url: str):
+
+def kr_update(major_web_hook_url: str, normal_web_hook_url: str):
     with open(os.path.join(BASE_DIR, 'news', 'kr_update.json'), 'r', encoding='utf-8') as file:
         old_updates: dict = json.load(file)
     response = requests.request(method='get', url='https://www.kr.playblackdesert.com/ko-KR/News/Notice?boardType=2')
@@ -33,9 +34,11 @@ def kr_update(web_hook_url: str):
         if desc != '' and desc[0] not in start_with:
             major = True
         if content_id not in old_updates:
-            web_hook_data = WebHookData(title=title, url=url, description=desc, thumbnail=thumbnail, data_type="update",
-                                        date=date)
-            post_to_webhook(url=web_hook_url, data=web_hook_data.to_json())
+            web_hook_data = WebHookData(title=title, url=url, description=desc if major else '', thumbnail=thumbnail,
+                                        data_type="update", date=date)
+            post_to_webhook(url=normal_web_hook_url, data=web_hook_data.to_json())
+            if major:
+                post_to_webhook(url=major_web_hook_url, data=web_hook_data.to_json())
         updates[content_id] = {'title': title, 'date': date, 'url': url, 'thumbnail': thumbnail, 'desc': desc,
                                'description': description, 'content_id': content_id, 'major': major}
 
