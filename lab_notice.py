@@ -22,7 +22,7 @@ def lab_notice(web_hook_url: str):
 
     notices = {}
     for item in table:
-        title = item.find_next('strong').getText().split(' (최종 수정')[0].strip()
+        title = item.find_next('strong').find_next('em').next_sibling.split(' (최종 수정')[0].strip()
         date = item.find_next('strong').find_next('span', {'class', 'date'}).getText()
         desc = item.find_next('strong').find_next('span', {'class', 'desc'}).getText()
         url = item.find_next('a').get('href')
