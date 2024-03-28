@@ -1,4 +1,13 @@
 {
+	"2255": {
+		"title": "3월 28일(목) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "24.03.28",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2255&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/D2RVMZPO07JQ81XM20240328043937730.400x225.jpg",
+		"desc": "",
+		"description": "안녕하세요. 검은사막입니다. 3월 28일 목요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.펄어비스 검은사막",
+		"content_id": "2255"
+	},
 	"2249": {
 		"title": "[한국] 3월 27일(수) 업데이트 및 이벤트, 펄 상점 안내",
 		"date": "24.03.27",
@@ -205,14 +214,5 @@
 		"desc": "12월 1일(금) 업데이트 안내",
 		"description": "안녕하세요. 검은사막 연구소입니다. 2023년 12월 1일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 캐릭터현재 클래스 간 PvP 밸런스 조정과 검증 작업이 진행 중입니다. 밸런스 조정 시에 고려할 요소로는 방어 판정, 상태 이상, 피해량 등이 고려되어야만 하는데요. 클래스의 PvP 변경점은 PvE 변경점과 달리 하나의 변경점이 서로에게 상대적으로 영향을 주는 부분이 ...",
 		"content_id": "2114"
-	},
-	"2108": {
-		"title": "11월 24일(금) 업데이트 안내",
-		"date": "23.11.24",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2108&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2023/YKK3JMOHVZOCONQA20231124120819002.400x225.jpg",
-		"desc": "11월 24일(금) 업데이트 안내",
-		"description": "안녕하세요. 검은사막 연구소입니다. 2023년 11월 24일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 아르샤 서버새로운 규칙의 아르샤 서버가 추가되었습니다.이 서버에서는 파티원을 제외한 모든 사람들의 정보가 표시되지 않아, 모든 모험가가 '강인한 모험가'로 표시되어 부담 없이 자유롭게 전투하실 수 있습니다.기존의 강제 전투 모드 활성화도 필요하지 않으며, 길드원 또한...",
-		"content_id": "2108"
 	}
 }
