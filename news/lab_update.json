@@ -1,4 +1,13 @@
 {
+	"2279": {
+		"title": "4월 18일(목) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "24.04.18",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2279&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/4JKC4ESOO51C7IOC20240418041753706.400x225.jpg",
+		"desc": "",
+		"description": "안녕하세요. 검은사막입니다. 4월 18일 목요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.펄어비스 검은사막",
+		"content_id": "2279"
+	},
 	"2273": {
 		"title": "4월 15일(월) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "24.04.15",
@@ -205,14 +214,5 @@
 		"desc": "1월 5일(금) 업데이트 안내",
 		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 1월 5일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 추가 및 개선 사항캐릭터 지난 검은사막 연구소 업데이트 안내 이후, 각 권역의 많은 모험가 여러분께서 각 방안에 대한 의견을 많이 보내 주셨습니다.이 중, 두 번째 방법에 대해 특히 모험가 여러분께서 많은 의견을 주셨는데요.많은 모험가 여러분께서 의견을 주셨던 방안인 만...",
 		"content_id": "2147"
-	},
-	"2141": {
-		"title": "12월 29일(금) 업데이트 안내",
-		"date": "23.12.29",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2141&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2023/DS7CEANGG7XM41GG20231229120450971.400x225.jpg",
-		"desc": "",
-		"description": "안녕하세요. 검은사막 연구소입니다. 2023년 12월 29일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 추가 및 개선 사항캐릭터 지난주 연구소에 적용됐던 밸런스 패치의 목적은, 방어 판정이 빈약한 클래스의 사냥 안정성을 높이고, 대규모 전투에서 너무 쉽게 넘어지고 빠르게 죽는 현상을 해결하고자 하였습니다. 이를 먼저 확실하게 하고, 이후 1:1이나 소규모 전투의 밸런스...",
-		"content_id": "2141"
 	}
 }
