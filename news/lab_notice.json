@@ -1,4 +1,13 @@
 {
+	"2294": {
+		"title": "5월 3일(금) 서비스 정기점검 안내",
+		"date": "24.05.01",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2294&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/IN6R7OD7CSHSAJ4F20240430155903695.400x225.jpg",
+		"desc": "",
+		"description": "안녕하세요. 검은사막 연구소입니다. 5월 3일 금요일, 검은사막 연구소 정기점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  정기점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2024년 5월 3일(금) 15:00 ~ 18:00 (GMT / UTC +9) 점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가  홈페이지 점검 안내 - 점검 대상 : 검...",
+		"content_id": "2294"
+	},
 	"2285": {
 		"title": "[완료] 4월 26일(금) 서비스 정기점검 안내",
 		"date": "24.04.24",
@@ -205,14 +214,5 @@
 		"desc": "",
 		"description": "안녕하세요. 검은사막 연구소입니다.2023년 12월 17일(일) 정기점검 일정이 서비스 안정화 작업으로 인해정기점검 시간이 아래와 같이 연장되었습니다.점검 연장 안내- 점검 대상 : 검은사막 연구소 유럽 및 북미(중부) 서버 및 웹 통합 거래소- 점검 일시 : 2023년 12월 15일(금) 15:00 ~ 2023년 12월 17일(일) 14:00 15:00 16:00 (GMT / UTC +9)※ 유럽 서버는 서비스 안정화 작업으로 인해 정기점검 시간이 연장되었습니다. - 아시아, 북미(중부) 서버는 정기점검이 종료되어 정상적으로...",
 		"content_id": "2123"
-	},
-	"2117": {
-		"title": "[완료] 12월 8일(금) 서비스 정기점검 안내",
-		"date": "23.12.06",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2117&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2023/BMAOOQU39N3NJ9QL20231206035014833.400x225.jpg",
-		"desc": "",
-		"description": "안녕하세요. 검은사막 연구소입니다. 12월 8일 금요일, 검은사막 연구소 정기점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  정기점검 안내 - 점검 대상 :  게임 서버 및 웹 통합 거래소 - 점검 일시 : 2023년 12월 8일(금) 15:00 ~ 18:00 (GMT / UTC +9)점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가  홈페이지 점검 안내 - 점검 대상 ...",
-		"content_id": "2117"
 	}
 }
