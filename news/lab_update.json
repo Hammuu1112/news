@@ -1,4 +1,13 @@
 {
+	"2297": {
+		"title": "5월 3일(금) 업데이트 안내",
+		"date": "24.05.03",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2297&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/LSFKC2VJIXHOW4DI20240503115937321.400x225.jpg",
+		"desc": "5월 3일(금) 업데이트 안내",
+		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 5월 3일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 추가 및 개선 사항캐릭터 지난 검은사막 개발자 코멘터리에서 소개해드렸던 모든 클래스의 타격수 조정을 많이 기다려주고 계신데요, 오늘은 이 작업의 진행상황과 앞으로의 방향까지 함께 정리하여 공유드리고자 합니다.우선 모든 클래스의 타격수는 1차적으로 조정이 완료된 상태입니다...",
+		"content_id": "2297"
+	},
 	"2291": {
 		"title": "4월 26일(금) 업데이트 안내",
 		"date": "24.04.26",
@@ -205,14 +214,5 @@
 		"desc": "1월 19일(금) 업데이트 안내",
 		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 1월 19일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 추가 및 개선 사항스칼라역중력역중력 기술의 패시브 효과인 모든 치유 효과 감소 효과 아이콘이 디버프 칸에 노출되도록 개선되었습니다.역중력 기술의 패시브 효과인 모든 치유 효과 감소 효과가 아군 및 적군에 해당하지 않는 일반 플레이어에게도 적용되던 현상이 수정되었습니다....",
 		"content_id": "2174"
-	},
-	"2171": {
-		"title": "1월 18일(목) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "24.01.18",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2171&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/GCW5R23PXM8GMYIA20240118141914394.400x225.jpg",
-		"desc": "",
-		"description": "안녕하세요. 검은사막입니다. 1월 18일 목요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다.수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.펄어비스 검은사막",
-		"content_id": "2171"
 	}
 }
