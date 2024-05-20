@@ -4,10 +4,10 @@
 name: Python application
 
 on:
-  #push:
-    #branches: [ "main" ]
-  #pull_request:
-    #branches: [ "main" ]
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
   schedule:
     - cron: '1 1,4,8,11,13,15 * * *'  # UTC기준(GMT+0) = KST-9  (=0, 10, 13, 17, 20, 22)
 
