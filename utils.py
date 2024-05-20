@@ -25,10 +25,10 @@ def get_content_id_from_url(url: str) -> str:
         return result
 
 
-def get_date() -> datetime:
+def get_date() -> str:
     now = (datetime.now(timezone.utc) + timedelta(hours=9)).replace(tzinfo=None)
     now_date = datetime.combine(now, datetime.min.time())
-    return now_date
+    return now_date.strftime('%Y-%m-%d')
 
 
 def post_to_webhook(url: str, data: str) -> None:
