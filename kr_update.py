@@ -41,7 +41,7 @@ def kr_update(major_web_hook_url: str, normal_web_hook_url: str):
                 post_to_webhook(url=major_web_hook_url, data=web_hook_data.to_json())
             dded = get_date()
         else:
-            added = old_events[content_id]['added'] if 'added' in old_events[content_id] else get_date()
+            added = old_updates[content_id]['added'] if 'added' in old_updates[content_id] else get_date()
         updates[content_id] = {'title': title, 'date': date, 'url': url, 'thumbnail': thumbnail, 'desc': desc,
                                'description': description, 'content_id': content_id, 'major': major, 'added': added}
 
