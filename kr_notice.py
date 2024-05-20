@@ -34,7 +34,7 @@ def kr_notice(web_hook_url: str):
             post_to_webhook(url=web_hook_url, data=web_hook_data.to_json())
             added = get_date()
         else:
-            added = old_events[content_id]['added'] if 'added' in old_events[content_id] else get_date()
+            added = old_notices[content_id]['added'] if 'added' in old_notices[content_id] else get_date()
         notices[content_id] = {'title': title, 'date': date, 'url': url, 'thumbnail': thumbnail, 'desc': desc,
                                'description': description, 'content_id': content_id, 'added': added}
 
