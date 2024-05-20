@@ -3,6 +3,7 @@ import logging
 
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime, timedelta, timezone
 
 
 def get_description(url: str) -> str:
@@ -22,6 +23,12 @@ def get_content_id_from_url(url: str) -> str:
         logging.error(f"Cannot parse url: {url}")
     finally:
         return result
+
+
+def get_date() -> datetime:
+    now = (datetime.now(timezone.utc) + timedelta(hours=9)).replace(tzinfo=None)
+    now_date = datetime.combine(now, datetime.min.time())
+    return now_date
 
 
 def post_to_webhook(url: str, data: str) -> None:
