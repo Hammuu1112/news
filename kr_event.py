@@ -5,7 +5,7 @@ from datetime import datetime, timezone, timedelta
 import requests
 from bs4 import BeautifulSoup
 
-from utils import get_description, get_content_id_from_url, WebHookData, post_to_webhook
+from utils import get_description, get_content_id_from_url, get_date, WebHookData, post_to_webhook
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -43,8 +43,11 @@ def kr_event(web_hook_url: str):
             web_hook_data = WebHookData(title=title, url=url, description=description, thumbnail=thumbnail,
                                         data_type="event", date=deadline if deadline != '-' else '상시')
             post_to_webhook(url=web_hook_url, data=web_hook_data.to_json())
+            added = get_date()
+        else:
+            added = old_events[content_id]['added'] if 'added' in old_events[content_id] else get_data()
         events[content_id] = {'title': title, 'deadline': deadline, 'count': count, 'url': url, 'thumbnail': thumbnail,
-                              'description': description, 'content_id': content_id, 'new_tag': new_tag}
+                              'description': description, 'content_id': content_id, 'new_tag': new_tag, 'added': added}
 
     with open(os.path.join(BASE_DIR, 'news', 'kr_event.json'), 'w+', encoding='utf-8') as json_file:
         json.dump(events, json_file, ensure_ascii=False, indent='\t')
