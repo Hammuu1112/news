@@ -34,7 +34,7 @@ def lab_update(web_hook_url: str):
             web_hook_data = WebHookData(title=title, url=url, description=desc, thumbnail=thumbnail, data_type="lab",
                                         date=date)
             post_to_webhook(url=web_hook_url, data=web_hook_data.to_json())
-            dded = get_date()
+            added = get_date()
         else:
             added = old_updates[content_id]['added'] if 'added' in old_updates[content_id] else get_date()
         updates[content_id] = {'title': title, 'date': date, 'url': url, 'thumbnail': thumbnail, 'desc': desc,
