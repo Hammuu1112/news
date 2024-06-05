@@ -1,4 +1,14 @@
 {
+	"2336": {
+		"title": "6월 7일(금) 서비스 정기점검 안내",
+		"date": "24.06.05",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2336&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/1HX3JCWU54MCTZ8N20240605073619923.400x225.jpg",
+		"desc": "",
+		"description": "안녕하세요. 검은사막 연구소입니다. 6월 7일 금요일, 검은사막 연구소 정기점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  정기점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2024년 6월 7일(금) 15:00 ~ 18:00 (GMT / UTC +9) 점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가  홈페이지 점검 안내 - 점검 대상 : 검...",
+		"content_id": "2336",
+		"added": "2024-06-05"
+	},
 	"2330": {
 		"title": "[완료] 5월 31일(금) 서비스 정기점검 안내",
 		"date": "24.05.29",
@@ -227,16 +237,6 @@
 		"desc": "",
 		"description": "안녕하세요. 검은사막 연구소입니다. 1월 12일 금요일, 검은사막 연구소 정기점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  정기점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2024년 1월 12일(금) 15:00 ~ 18:00 (GMT / UTC +9) 점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가  홈페이지 점검 안내 - 점검 대상 ...",
 		"content_id": "2159",
-		"added": "2024-05-20"
-	},
-	"2153": {
-		"title": "[완료] 1월 10일(수) 검은사막 연구소 임시 점검 안내",
-		"date": "24.01.08",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2153&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/4Q0G6PI22ARP1VQV20240108083946708.400x225.jpg",
-		"desc": "",
-		"description": "안녕하세요. 검은사막 연구소입니다. 1월 10일 수요일, 검은사막 연구소 임시점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2024년 1월 10일(수) 09:00 ~ 13:00 (GMT / UTC +9) 점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가  홈페이지 점검 안내 - 점검 대상 : ...",
-		"content_id": "2153",
 		"added": "2024-05-20"
 	}
 }
