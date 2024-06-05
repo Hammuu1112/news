@@ -1,4 +1,14 @@
 {
+	"625": {
+		"title": "알려진 문제점 (최종수정 : 2024-06-05 18:10)",
+		"date": "24.06.05",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=625&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/News/e38d9bf127c20200604160910117.jpg",
+		"desc": "알려진 문제점 안내",
+		"description": "안녕하세요. 검은사막 연구소입니다. 현재 확인 중인 게임 내 알려진 문제점에 대해 안내 드립니다.아래 내용에 대해서 빠른 수정 작업을 진행하고 있으며,조치가 완료되면 공지를 통해 다시 안내드릴 수 있도록 하겠습니다.게임 이용에 불편을 드려 대단히 죄송합니다.신속한 문제 해결을 위해 노력하겠습니다.감사합니다.알려진 문제점[매화/무사] 클래스의 일부 기술 피해량이 비정상적으로 적용되는 현상이 확인됩니다.해당 현상은 추후 업데이트를 통해 수정될 예정입니다.",
+		"content_id": "625",
+		"added": "2024-06-05"
+	},
 	"2336": {
 		"title": "6월 7일(금) 서비스 정기점검 안내",
 		"date": "24.06.05",
@@ -227,16 +237,6 @@
 		"desc": "",
 		"description": "안녕하세요. 검은사막 연구소입니다. 1월 19일 금요일, 검은사막 연구소 정기점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  정기점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2024년 1월 19일(금) 15:00 ~ 18:00 (GMT / UTC +9) 점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가  홈페이지 점검 안내 - 점검 대상 ...",
 		"content_id": "2168",
-		"added": "2024-05-20"
-	},
-	"2159": {
-		"title": "[완료] 1월 12일(금) 서비스 정기점검 안내",
-		"date": "24.01.11",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2159&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/2OJ8NQWKVDCSQMLW20240111053042353.400x225.jpg",
-		"desc": "",
-		"description": "안녕하세요. 검은사막 연구소입니다. 1월 12일 금요일, 검은사막 연구소 정기점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  정기점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2024년 1월 12일(금) 15:00 ~ 18:00 (GMT / UTC +9) 점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가  홈페이지 점검 안내 - 점검 대상 ...",
-		"content_id": "2159",
 		"added": "2024-05-20"
 	}
 }
