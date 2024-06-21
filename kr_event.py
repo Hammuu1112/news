@@ -40,9 +40,10 @@ def kr_event(web_hook_url: str):
         thumbnail = event.find_next('img').get('src')
         description = get_description(url)
         if content_id not in old_events:
-            web_hook_data = WebHookData(title=title, url=url, description=description, thumbnail=thumbnail,
-                                        data_type="event", date=deadline if deadline != '-' else '상시')
-            post_to_webhook(url=web_hook_url, data=web_hook_data.to_json())
+            if new_tag:
+                web_hook_data = WebHookData(title=title, url=url, description=description, thumbnail=thumbnail,
+                                            data_type="event", date=deadline if deadline != '-' else '상시')
+                post_to_webhook(url=web_hook_url, data=web_hook_data.to_json())
             added = get_date()
         else:
             added = old_events[content_id]['added'] if 'added' in old_events[content_id] else get_date()
