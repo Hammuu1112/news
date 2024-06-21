@@ -1,4 +1,14 @@
 {
+	"2351": {
+		"title": "6월 21일(금) 업데이트 안내",
+		"date": "24.06.21",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2351&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/FK0T6NY3A7WXHU8D20240621114724018.400x225.jpg",
+		"desc": "6월 21일(금) 업데이트 안내",
+		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 6월 21일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 클래스 수정 및 변경 사항[위자드, 위치] 강 : 파멸의 불덩이 기술의 이펙트가 줄어들었던 현상이 수정되었습니다.[노바] 전승 : 눈 위에 내린 서리 기술의 설명 문구 중, 피해량이 실제 효과에 맞게 수정되었습니다.[란] 진 : 반월무 기술의 설명 문구 중, 마상 상태...",
+		"content_id": "2351",
+		"added": "2024-06-21"
+	},
 	"2345": {
 		"title": "6월 14일(금) 업데이트 안내",
 		"date": "24.06.14",
@@ -227,16 +237,6 @@
 		"desc": "",
 		"description": "안녕하세요. 검은사막입니다. 2월 29일 목요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.펄어비스 검은사막",
 		"content_id": "2216",
-		"added": "2024-05-20"
-	},
-	"2213": {
-		"title": "2월 23일(금) 업데이트 안내",
-		"date": "24.02.23",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2213&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/3ZV1IZTBDQX7RZ2R20240223120030033.400x225.jpg",
-		"desc": "2월 23일(금) 업데이트 안내",
-		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 2월 23일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다.  추가 및 개선 사항캐릭터 최대 생명력 증가 효과를 적용받을 때, 효과가 다음과 같이 적용되도록 변경되었습니다.변경 전변경 후최대 생명력 수치만 증가효과를 획득하기 전, 최대 생명력 대비 현재 생명력의 비율을 유지※ 이에 따라 다음 기술 사용 시 최대 생명력 효과의 증...",
-		"content_id": "2213",
 		"added": "2024-05-20"
 	}
 }
