@@ -1,4 +1,15 @@
 {
+	"12380": {
+		"title": "[창작 아트웍] 내가 만드는 도사, 실력을 뽐낼 기회!",
+		"deadline": "2024-07-17",
+		"count": "17 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12380&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/5WW47H54YA63PZQQ20240701121134347.400x225.jpg",
+		"description": "상도방의 도사, 아트웍 이벤트! 구름 속에서 홀연히 나타나,안개와 함께 사라지는 상도방의 도사! 검은사막을 찾아올 도사 클래스를팬아트, 4컷 만화, 피규어, 코스프레 등다양한 방법으로 표현해 주세요!이벤트 기간2024년 7월 1일(월) ~ 2024년 7월 17일(수) 23:59 까지   1이벤트에 어떻게 참여할 수 있나요?검은사막 연구소 사전체험 혹은 트레일러 영상을 통해 도사의 모습 미리 확인하기!도사 사전체험 자세히 보기도사 트레일러 영상 확인하기도사 의상 자세히 보기      다양한 방법으로 ‘도사’ 클래스 표현하기 (...",
+		"content_id": "12380",
+		"new_tag": true,
+		"added": "2024-07-01"
+	},
 	"12362": {
 		"title": "상도방의 빛을 잃은 검, 빛의 기운으로 되찾은 빛!",
 		"deadline": "2024-07-17",
@@ -251,16 +262,5 @@
 		"content_id": "10363",
 		"new_tag": false,
 		"added": "2024-06-12"
-	},
-	"10335": {
-		"title": "더욱 커진 핫타임 혜택과 함께하는 모험!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10335&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/B2MZI4RO8IKV60CY20230517141501285.400x225.jpg",
-		"description": "매일 매일, 뜨거운 핫타임!2023년 5월 17일 (수) 정기점검 후 – 추후 공지 시   1 더 길~어진 일반 서버 핫타임![월/화/수/목] 매일 16:00 ~ 익일 02:00100%전투 경험치20%기술 경험치   주말에 더 커지는 혜택!매주 금요일 16:00 ~ 월요일 2:00까지!200%전투 경험치30%기술 경험치  채집뾰족/단단한 흑결정 조각 획득 개수 증가!낚시고대 유적의 결정 조각 획득 확률 증가!사냥블랙스톤 (무기/방어구) 획득 확률 증가!    2  더 커~진 올비아 서버 핫타임!24시간 내내!200%전투 ...",
-		"content_id": "10335",
-		"new_tag": false,
-		"added": "2024-07-01"
 	}
 }
