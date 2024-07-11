@@ -1,4 +1,15 @@
 {
+	"12441": {
+		"title": "7월 11일(목) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2024.07.11",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12441&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/D9ZVKSZLK7R8L8GT20240711164349768.400x225.jpg",
+		"desc": "7월 11일(목) 보안 모듈 최신 버전 업데이트 안내",
+		"description": "안녕하세요. 검은사막입니다. 7월 11일 목요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 및 정밀한 검출 강화를 위한 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.펄어비스 검은사막",
+		"content_id": "12441",
+		"major": false,
+		"added": "2024-07-11"
+	},
 	"12439": {
 		"title": "7월 11일(목) 임시 점검 업데이트 안내",
 		"date": "2024.07.11",
@@ -251,16 +262,5 @@
 		"content_id": "12207",
 		"major": true,
 		"added": "2024-05-31"
-	},
-	"12177": {
-		"title": "5월 17일(금) 일부 서버 점검 업데이트 안내",
-		"date": "2024.05.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12177&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/STPWPAB7333CX3NO20240517161756775.400x225.jpg",
-		"desc": "5월 17일(금) 일부 서버 점검 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 5월 17일 금요일 검은사막 일부 서버 점검 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항불퇴의 깃발 수량이 상이하게 노출되는 현상이 수정되었습니다.* 일부 서버 점검 이후 거점/점령전에 참여하시는 모험가님들께서는 원활한 진행을 위해 게임을 재접속 해주시기 바랍니다.* 만료된 불퇴의 깃발을 보유 중인 경우, 모두 삭제 처리될 예정입니다. 삭제된 불퇴의 깃발이 확인될 경우, 게임을 재접속 해주시기 바랍니다.  늘 검은사막과 ...",
-		"content_id": "12177",
-		"major": false,
-		"added": "2024-05-20"
 	}
 }
