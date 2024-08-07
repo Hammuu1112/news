@@ -1,4 +1,15 @@
 {
+	"12597": {
+		"title": "8월 7일(수) 임시 점검 업데이트 안내",
+		"date": "2024.08.07",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12597&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/HBKYVA4MN6HOYCFS20240807173313611.400x225.jpg",
+		"desc": "8월 7일 수요일 임시 점검 업데이트 사항을 안내드립니다.",
+		"description": "안녕하세요. 검은사막입니다. 8월 7일 수요일 검은사막 임시 점검 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항아침의 나라 : 서울 메인 의뢰의 분기 선택 시 의뢰 진행이 불가능한 현상이 수정되었습니다.아침의 나라 : 서울 메인 의뢰 일부 컷신에 오디오가 추가되었습니다.아침의 나라 황해도 인근 바다에 이동이 원활하지 않은 지형이 제거되었습니다.아침의 나라 : 서울 메인 의뢰 [폐세자전]의 컷신 중, 죽엽군 병사가 움직이는 현상이 수정되었습니다.아침의 ...",
+		"content_id": "12597",
+		"major": false,
+		"added": "2024-08-07"
+	},
 	"12586": {
 		"title": "8월 7일(수) 업데이트 안내",
 		"date": "2024.08.07",
@@ -251,16 +262,5 @@
 		"content_id": "12372",
 		"major": false,
 		"added": "2024-06-27"
-	},
-	"12371": {
-		"title": "6월 26일(수) 검은사막 공식 홈페이지 업데이트 안내",
-		"date": "2024.06.26",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12371&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/HTAPNAEHCLH47PB820240626171436217.400x225.jpg",
-		"desc": "6월 26일(수) 검은사막 공식 홈페이지 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 6월 26일(수) 검은사막 공식 홈페이지 업데이트 사항을 안내해 드립니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다.수정 및 변경 사항6월 26일(수) 정기점검 이후, 특정 상황에서 간헐적으로 휴면 해제가 진행되지 않던 현상이 수정되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다. 펄어비스 검은사막",
-		"content_id": "12371",
-		"major": false,
-		"added": "2024-06-26"
 	}
 }
