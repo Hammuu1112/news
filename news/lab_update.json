@@ -1,4 +1,14 @@
 {
+	"2420": {
+		"title": "8월 12일(월) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "24.08.12",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2420&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/X5FFC89J3DAW7VCL20240812092318339.400x225.jpg",
+		"desc": "",
+		"description": "안녕하세요. 검은사막입니다. 8월 12일 월요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"content_id": "2420",
+		"added": "2024-08-12"
+	},
 	"2417": {
 		"title": "8월 9일(금) 업데이트 안내",
 		"date": "24.08.09",
@@ -227,16 +237,6 @@
 		"desc": "5월 3일(금) 업데이트 안내",
 		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 5월 3일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 추가 및 개선 사항캐릭터 지난 검은사막 개발자 코멘터리에서 소개해드렸던 모든 클래스의 타격수 조정을 많이 기다려주고 계신데요, 오늘은 이 작업의 진행상황과 앞으로의 방향까지 함께 정리하여 공유드리고자 합니다.우선 모든 클래스의 타격수는 1차적으로 조정이 완료된 상태입니다...",
 		"content_id": "2297",
-		"added": "2024-05-20"
-	},
-	"2291": {
-		"title": "4월 26일(금) 업데이트 안내",
-		"date": "24.04.26",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2291&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/N0T31BMWGRAY79GW20240426115745510.400x225.jpg",
-		"desc": "4월 26일(금) 업데이트 안내",
-		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 4월 26일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다.  거점전 개편처음 검은사막 월드에 추가된 이후부터, 모험가 여러분과 크고 작은 변화를 함께하던 '거점전'이 한 차례 더 변화합니다.이번 거점전 개편은 참여 난이도 완화, 활발하고 건강한 전투, 편의성에 중점을 두었는데요.이에 따라 개편된 거점전은 보다 가볍게 준비하고,...",
-		"content_id": "2291",
 		"added": "2024-05-20"
 	}
 }
