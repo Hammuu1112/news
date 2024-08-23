@@ -1,4 +1,15 @@
 {
+	"12707": {
+		"title": "8월 23일(금) 최신 버전 업데이트 안내",
+		"date": "2024.08.23",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12707&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/XREZBFBYPROE6GR020240823182538896.400x225.jpg",
+		"desc": "8월 23일 금요일 최신 버전 업데이트 사항을 안내드립니다.",
+		"description": "안녕하세요. 검은사막입니다. 8월 23일 금요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항특정 상황에서 현록당에 가구를 설치할 경우, 간헐적으로 클라이언트가 종료되던 현상이 수정되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"content_id": "12707",
+		"major": false,
+		"added": "2024-08-23"
+	},
 	"12663": {
 		"title": "8월 21일(수) 순차 점검 업데이트 안내",
 		"date": "2024.08.21",
@@ -251,16 +262,5 @@
 		"content_id": "12472",
 		"major": true,
 		"added": "2024-07-17"
-	},
-	"12460": {
-		"title": "[검은사막+] 7월 16일(화) 업데이트 안내",
-		"date": "2024.07.16",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12460&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/GSP6W19BYMMUE9VS20240716155550476.400x225.jpg",
-		"desc": "7월 16일(화) 검은사막+ 최신 업데이트 내용을 안내드립니다.",
-		"description": "안녕하세요. 검은사막입니다.  7월 16일(화) 검은사막+ 최신 업데이트 내용을 안내드립니다.AOS 2.6.36iOS 2.6.17검은사막 전용 애플리케이션 검은사막+ 사용법과 관련된 자세한 내용은 [검은사막+ 모험가 가이드] 를 참고해 주세요. [검은사막+] 수정사항수정 및 변경 사항AOS Android Target API 버전이 34(Android 14)로 향상되었습니다.AOS 기기의 뒤로가기 제스처와 앱 동작이 충돌하던 현상이 수정되었습니다.IOS 최소 지원 버전이 IOS 13.4 이상으로 변경되었습니다.한국 지역에서 ...",
-		"content_id": "12460",
-		"major": false,
-		"added": "2024-07-16"
 	}
 }
