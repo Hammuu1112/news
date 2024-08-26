@@ -1,4 +1,14 @@
 {
+	"2435": {
+		"title": "8월 26일(월) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "24.08.26",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2435&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/HOML6VHOHKRNMXLL20240826050119772.400x225.jpg",
+		"desc": "",
+		"description": "안녕하세요. 검은사막입니다. 8월 26일 월요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"content_id": "2435",
+		"added": "2024-08-26"
+	},
 	"2432": {
 		"title": "8월 23일(금) 업데이트 안내",
 		"date": "24.08.23",
@@ -227,16 +237,6 @@
 		"desc": "5월 17일(금) 업데이트 안내",
 		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 5월 17일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다.추가 및 개선 사항콘텐츠길드 직책과 권한이 분리되었습니다.기존에는 모든 길드가 길드 직책에 따라 권한이 부여되어 있던 구조여서, 경우에 따라서는 길드 임무나 거점전 부속 건물 해체 등의 기능을 위해 직책을 부여해주어야만 했었는데요.이제는 직책과 무관하게 별도로 권한을 설...",
 		"content_id": "2312",
-		"added": "2024-05-20"
-	},
-	"2306": {
-		"title": "5월 10일(금) 업데이트 안내",
-		"date": "24.05.10",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2306&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/16GGMHHYZHVMF2XA20240510114525638.400x225.jpg",
-		"desc": "5월 10일(금) 업데이트 안내",
-		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 5월 10일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다.  아이템'망각의 별' 100개를 공작하여 데보레카 반지를 제작할 수 있도록 가공식이 추가되었습니다.  몬스터에레테아의 시련에레테아의 시련 입장 후 '잊혀진 망각의 증표' 입장권을 건네 시련을 시작할 때 카메라 연출이 추가되었습니다. 에레테아의 시련에서 획득할 수 있는 ...",
-		"content_id": "2306",
 		"added": "2024-05-20"
 	}
 }
