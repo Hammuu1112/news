@@ -1,4 +1,15 @@
 {
+	"12831": {
+		"title": "9월 13일(금) 최신 버전 업데이트 안내",
+		"date": "2024.09.13",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12831&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/L5KZBWDLHQQWEA3N20240913173316963.400x225.jpg",
+		"desc": "9월 13일 금요일 최신 버전 업데이트 사항을 안내드립니다.",
+		"description": "안녕하세요. 검은사막입니다. 9월 13일 금요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항2024년 9월 19일(목) 정기점검 시 출시 예정인 의상의 품질 향상 작업이 진행되었습니다.일부 소셜액션 동작 중 캐릭터의 표정이 보다 자연스럽게 개선되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"content_id": "12831",
+		"major": false,
+		"added": "2024-09-13"
+	},
 	"12829": {
 		"title": "9월 12일(목) 최신 버전 업데이트 안내",
 		"date": "2024.09.12",
@@ -251,16 +262,5 @@
 		"content_id": "12586",
 		"major": false,
 		"added": "2024-08-07"
-	},
-	"12541": {
-		"title": "7월 31일(수) 최신 버전 업데이트 안내",
-		"date": "2024.07.31",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12541&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/CRVPOYSZ2LAWVKLB20240731144407647.400x225.jpg",
-		"desc": "7월 31일 수요일 최신 버전 업데이트 사항을 안내드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 7월 31일 수요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항[다크나이트] 포에트 갑옷 착용 시 하의 외형이 부자연스럽게 표시되는 현상이 수정되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
-		"content_id": "12541",
-		"major": false,
-		"added": "2024-07-31"
 	}
 }
