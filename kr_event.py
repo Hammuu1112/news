@@ -30,7 +30,7 @@ def kr_event(web_hook_url: str):
             deadline = "-"
         else:
             deadline = (today + timedelta(days=int(count.split(' ')[0]) - 1)).strftime('%Y-%m-%d')
-        tag = event.find_next('img').find_next('i')
+        tag = event.find_next('i')
         new_tag = False
         if tag is not None:
             if tag.getText() == 'New':
