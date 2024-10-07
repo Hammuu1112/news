@@ -1,15 +1,4 @@
 {
-	"12901": {
-		"title": "10월 5일 토요일, 깜짝 불꽃 놀이 이벤트!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12901&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/6AORF0B2K803I3FS20241004213107637.400x225.jpg",
-		"description": "10월 5일 토요일,깜짝 불꽃 놀이 이벤트!유난히 더웠던 올해 여름도 어느새 지나가고,선선한 바람과 함께 가을이 살며시 다가왔어요-! 날씨와 함께 기분도 전환할 겸모험가분들께 또 하나의 소소한 추억 만들어 드리기 위해[GM]이 깜짝 불꽃 놀이 이벤트를 마련해보았답니다! ⸜(*ˊᗜˋ*)⸝ 잠시 후 19시 10분! 밤과 함께 하늘을 수놓을 수많은 폭죽이 등장한다고 해요-!그럼, 함께 불꽃 놀이 구경을 떠나볼까요? * 아르샤, 아르샤 : 무명, NEW 올비아 서버 외 전 서버에서 불꽃 놀이가 진행됩니다.* * 불꽃 놀이가 진행되는...",
-		"content_id": "12901",
-		"new_tag": true,
-		"added": "2024-10-05"
-	},
 	"12886": {
 		"title": "가을 바람을 타고 날아온 일일 접속 보상!",
 		"deadline": "2024-11-06",
@@ -262,5 +251,16 @@
 		"content_id": "7056",
 		"new_tag": false,
 		"added": "2024-08-15"
+	},
+	"2783": {
+		"title": "신규&복귀 모험가님을 위한 놓칠 수 없는 혜택 (최종수정 : 2022-06-30 14:30)",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2783&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/4KM094V3X82N5SE720220630143044011.400x225.jpg",
+		"description": "검은사막에 첫 걸음을 내딛어주신 신규 모험가님이신가요? 환영합니다!오랜만에 찾아온 복귀 모험가님! 어서오세요. 애타게 기다리고 있었어요. 처음부터 어떻게 준비하고 모험을 떠나야 할까?고민인 신규/복귀 모험가 분들 걱정은 NOPE! 아래 푸짐한 혜택들을 천천히 읽어보시고,시작부터 화끈-하게 검은사막 여정을 떠나보시길 바랍니다. [TIP]아, 참! 신규 모험가님은 캐릭터 7 레벨을 달성하면 채팅창이 활성화됩니다.이 때 파란색 글씨로 보이는 '달무리 여관' 채팅 그룹에 자동 입장하게 되는데요. ▲ Enter 를 눌러 채팅 입력창...",
+		"content_id": "2783",
+		"new_tag": false,
+		"added": "2024-10-07"
 	}
 }
