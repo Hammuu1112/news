@@ -1,4 +1,15 @@
 {
+	"12935": {
+		"title": "[아이템 전이] 전이에 필요한 연료는 단 1개!",
+		"deadline": "2024-10-23",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12935&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/2QH7JVK4Z10KS53A20241008212744806.400x225.png",
+		"description": "전이에 필요한 연료는 단 1개!원하는 클래스로 자유롭게 전이할 시간!2024년 10월 09일(수) 07:30 ~ 2024년 10월 23일(수) 정기점검 전* 아래 기간 중 마르니의 불안정한 연료를 소모한 모험가님께는2024년 10월 16일(수) 정기점검 시 사용한 아이템을 되돌려드릴 예정입니다.- 2024년 10월 8일(화) 정기점검 후 ~ 2024년 10월 9일(수) 06:00  캐릭터 전환으로 전이 캐릭터와 경험치 획득을 함께!아이템 전이로 장비까지 공유![Tip!] 시즌 캐릭터를 졸업한 모험가님들께서도캐릭터 전환 → 경...",
+		"content_id": "12935",
+		"new_tag": true,
+		"added": "2024-10-09"
+	},
 	"12923": {
 		"title": "새로운 여정의 시작, 접속 시 발크스의 조언(+150)!",
 		"deadline": "2024-10-31",
@@ -251,16 +262,5 @@
 		"content_id": "2269",
 		"new_tag": false,
 		"added": "2024-10-08"
-	},
-	"485": {
-		"title": "매일 참여 가능한 상시 이벤트 안내 (최종수정 : 2024-02-14 16:55)",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=485&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/6ZMKAX8WAKIMWHTR20240214165457430.400x225.jpg",
-		"description": "매일 참여 가능한 상시 이벤트 안내 365일 언제나 참여할 수 있는 상시 이벤트!이벤트 1. 드리간 탐험대 모집!이벤트 2. 매일매일 흑정령의 모험!이벤트 3. 칼페온의 마지막 공주, 노바의 발자취를 따라..   1  드리간 탐험대 모집! 드리간의 보물상자를 찾고, 군수품도 지급 받을 기회!지금 바로 탐험대에 지원해보세요!룰루피가 새로운 지역 탐험을 준비하고 있어요. 지금 룰루피를 찾아오면 의뢰 보상으로 [룰루피의 깃발] 3개를 준대요! 이 깃발들을 드리간에서 사용하면[봉인된 드리간의 보물상자]를 3개 얻을 수 있다는 사실!...",
-		"content_id": "485",
-		"new_tag": false,
-		"added": "2024-10-09"
 	}
 }
