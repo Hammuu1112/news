@@ -1,4 +1,14 @@
 {
+	"2492": {
+		"title": "10월 21일(월) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "24.10.21",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2492&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/NOTKDHZD3W2463V320241021042552368.400x225.jpg",
+		"desc": "",
+		"description": "안녕하세요. 검은사막입니다. 10월 21일 월요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"content_id": "2492",
+		"added": "2024-10-21"
+	},
 	"2489": {
 		"title": "10월 18일(금) 업데이트 안내",
 		"date": "24.10.18",
@@ -228,15 +238,5 @@
 		"description": "안녕하세요. 검은사막입니다. 7월 11일 목요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.펄어비스 검은사막",
 		"content_id": "2378",
 		"added": "2024-07-11"
-	},
-	"2372": {
-		"title": "7월 5일(금) 업데이트 안내",
-		"date": "24.07.05",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2372&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/XDILR84WK2WE7BB620240705114626279.400x225.jpg",
-		"desc": "7월 5일(금) 업데이트 안내",
-		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 7월 5일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다.추가 및 개선 사항소서러망자 유린 I~III망자 유린 I~III 기술의 회전 타격 성공 시, 순간적으로 느려지던 현상이 강하게 적용되던 부분이 완화되었습니다. 무사옹추 가르기옹추 가르기 기술의 타격 성공 시, 간헐적으로 극 옹추 가르기가 발동되지 않던 현상이 수정되었습니다...",
-		"content_id": "2372",
-		"added": "2024-07-05"
 	}
 }
