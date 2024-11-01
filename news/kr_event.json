@@ -1,15 +1,4 @@
 {
-	"13033": {
-		"title": "[검은사막 운동회] 각성 도사 연승전 ON-Air!",
-		"deadline": "2024-11-01",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13033&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/SG4K6YN2HJGOVG9620241031133212593.400x225.png",
-		"description": "[검은사막 운동회]각성 도사 VS 각성 도사최대 3연승을 기록할 도사는 과연?[GM]이 준비한 우당탕탕 즉흥 운동회에 참여하고 [GM]의 사랑이 담긴 소소한 연승 보상까지!2024년 11월 1일, 금요일 저녁! 모험가님들께 공식 채널로 찾아갑니다.3연승에 도전할 모험가님들께서는 아래를 참고해 주세요. (੭˙ ˘ ˙)੭  생방송 일정 안내[검은사막 운동회] 각성 도사 연승전 11월 1일(금) 18:30 ~검은사막 유튜브 공식채널 바로가기검은사막 치지직 공식채널 바로가기 생방송 중계진사다새합랑  1 이보게, 연승전은 언제 펼쳐지는...",
-		"content_id": "13033",
-		"new_tag": true,
-		"added": "2024-10-31"
-	},
 	"13029": {
 		"title": "돌아온 할로윈 모험일지 OPEN!",
 		"deadline": "2024-11-06",
@@ -260,6 +249,17 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/XUB2WUEKJ4FT2WLH20230912215312196.400x225.png",
 		"description": "더 간단해진 시즌 패스로졸업까지 가자~!2023년 9월 13일(수) ~ 추후 공지 시  시즌 패스로 받을 수 있는 보상은 뭐가 있나요?* 본 시즌 패스는 2023년 9월 13일(수) 정기점검 후에 생성한 시즌 캐릭터로 진행할 수 있습니다. 지난 여름 시즌에 참여했던 이력이 있는 모험가님께서는 여름 시즌을 졸업한 후 새로운 시즌 캐릭터를 생성해야만 신규 시즌 패스가 적용됩니다. (추가)    가방 슬롯 4칸 확장권   마패 : 명마의 자격     동(V) 투발라 반지동(V) 투발라 귀걸이     [이벤트] 샤카투의 빛나는 상자...",
 		"content_id": "10977",
+		"new_tag": false,
+		"added": "2024-11-01"
+	},
+	"10366": {
+		"title": "검은사막 월드에서 만나는 통통한 실러캔스!",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10366&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/NUPYTH2T4EGO7A9920230523201411973.400x225.png",
+		"description": "검은사막 월드에서 만나는통통한 실러캔스!검은사막 월드 곳곳에 찾아온 통통한 실러캔스!모든 서버에서 낚시를 통해 낚고 다양한 보상으로 교환해보세요. 2023년 5월 24일(수) 정기점검 후 ~ 추후 공지 시    통통한 실러캔스실러캔스는 모든 서버의 아래 위치에서 낚을 수 있어요!   ▲ 벨리아 마을, NPC 크리오 좌측으로 이동해 보세요! ▲ 하이델, 창고지기 NPC 아메리고 앞으로 찾아가 보세요! ▲ 알티노바, 마구간지기 NPC 메이샤 뒷 편에서 확인해 보세요!  ▲ 발렌시아, NPC 다니오 앞에서 낚싯대를 던져보세요! ...",
+		"content_id": "10366",
 		"new_tag": false,
 		"added": "2024-11-01"
 	}
