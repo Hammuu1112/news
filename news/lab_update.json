@@ -1,4 +1,14 @@
 {
+	"2504": {
+		"title": "11월 1일(금) 업데이트 안내",
+		"date": "24.11.01",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2504&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/NX0WGSPTG5L2J9CP20241101114853514.400x225.jpg",
+		"desc": "11월 1일(금) 업데이트 안내",
+		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 11월 1일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다.  아이템'카라자드 액세서리' 업데이트 이후, 많은 모험가 여러분께서 카라자드 액세서리를 제작해주시고 계신데요, 이와 더불어, 기존에 PvP와 관련된 세팅을 보유하고 있지 않던 모험가님께서도 원, 본 수정을 통해 조금 더 다양한 능력치를 갖출 수 있게 되었습니다. 카라자...",
+		"content_id": "2504",
+		"added": "2024-11-01"
+	},
 	"2498": {
 		"title": "10월 25일(금) 업데이트 안내",
 		"date": "24.10.25",
@@ -228,15 +238,5 @@
 		"description": "안녕하세요. 검은사막입니다. 7월 15일 월요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.펄어비스 검은사막",
 		"content_id": "2384",
 		"added": "2024-07-15"
-	},
-	"2381": {
-		"title": "7월 12일(금) 업데이트 안내",
-		"date": "24.07.12",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2381&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/P1RGSZA5N5VJRL1Z20240712120146610.400x225.jpg",
-		"desc": "7월 12일(금) 업데이트 안내",
-		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 7월 12일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다.  워리어흐름 : 망자 가르기 기술 조작 방법이 개선되었습니다.무덤 가르기 기술 사용 중 시프트 + 우클릭 또는 우클릭 내용에 대한 설명 문구가 실제에 맞게 추가되었습니다. 도사점프 공격의 이동 거리가 증가하였습니다. 무게가 초과하여 캐릭터가 느려졌을 때, 다음 기술을 ...",
-		"content_id": "2381",
-		"added": "2024-07-12"
 	}
 }

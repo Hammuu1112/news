@@ -1,4 +1,15 @@
 {
+	"13039": {
+		"title": "11월 1일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2024.11.01",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13039&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/AO7HNKS1624DE39920241101120627057.400x225.jpg",
+		"desc": "11월 1일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"description": "안녕하세요. 검은사막입니다. 11월 1일 금요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"content_id": "13039",
+		"major": false,
+		"added": "2024-11-01"
+	},
 	"13032": {
 		"title": "10월 30일(수) 최신 버전 업데이트 안내",
 		"date": "2024.10.30",
@@ -251,16 +262,5 @@
 		"content_id": "12824",
 		"major": true,
 		"added": "2024-09-11"
-	},
-	"12796": {
-		"title": "9월 5일(목) 임시 점검 업데이트 안내",
-		"date": "2024.09.05",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12796&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/4QXEWNQH9QTVC6OV20240905062334856.400x225.jpg",
-		"desc": "9월 5일 목요일 임시 점검 업데이트 사항을 안내드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 9월 5일 목요일 검은사막 임시 점검 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항이벤트 우두머리 '불사신 조드'의 등장 알림이 실제 출현 시간과 상이한 현상이 수정되었습니다.특정 상황에서 오킬루아의 눈에 위치한 심연의 우물을 이용할 수 없는 현상이 수정되었습니다.심연의 우물(지역 이동) 이용 및 심연의 혈관 지식 획득(월드맵 아이콘 표시)의 조건이 다음과 같이 수정되었습니다. (추가)심연의 우물(지역 이동) 이용- '[지...",
-		"content_id": "12796",
-		"major": false,
-		"added": "2024-09-05"
 	}
 }
