@@ -1,4 +1,14 @@
 {
+	"2516": {
+		"title": "11월 8일(금) 업데이트 안내",
+		"date": "24.11.08",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2516&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/NR84WA2CRY6428AK20241108120405007.400x225.jpg",
+		"desc": "",
+		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 11월 8일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다.  추가 및 개선 사항캐릭터소서러소서러는 전승/각성 모두 기본 공격력이 낮은 대신 어둠의 조각을 흡수하는 공격력 증가 효과로 다른 캐릭터와 동일한 수준의 공격력 획득을 할 수 있게 되어있었는데요, 이에 따라 검은사당 - 황해도, 데키아 - 올룬 등의 파티형 사냥터에서 다...",
+		"content_id": "2516",
+		"added": "2024-11-08"
+	},
 	"2507": {
 		"title": "11월 4일(월) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "24.11.04",
@@ -228,15 +238,5 @@
 		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 7월 22일(월) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 캐릭터오늘 검은사막 연구소를 통해 캐릭터와 관련된 여러 패치가 진행되었습니다.우선 첫 번째로 속도 감소 관련 디버프의 효과 조정입니다. 속도 감소는 캐릭터의 액션에 직접적으로 영향을 주기 때문에 그 체감이 너무 컸는데요, 그런 만큼 실제 플레이에 답답함을 주는 요인이...",
 		"content_id": "2396",
 		"added": "2024-07-22"
-	},
-	"2390": {
-		"title": "7월 18일(목) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "24.07.18",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2390&countryType=ko-KR&boardType=2&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/WZ3N40G3YWU4V6A920240718050506735.400x225.jpg",
-		"desc": "",
-		"description": "안녕하세요. 검은사막입니다. 7월 18일 목요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
-		"content_id": "2390",
-		"added": "2024-07-18"
 	}
 }
