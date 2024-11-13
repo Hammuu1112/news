@@ -30,6 +30,9 @@ def lab_update(web_hook_url: str):
         content_id = get_content_id_from_url(url)
         thumbnail = item.find_next('img').get('src')
         description = get_description(url)
+        major = False
+        if ') 업데이트 안내' in title:
+            major = True
         if content_id not in old_updates:
             web_hook_data = WebHookData(title=title, url=url, description=desc, thumbnail=thumbnail, data_type="lab",
                                         date=date)
@@ -38,7 +41,7 @@ def lab_update(web_hook_url: str):
         else:
             added = old_updates[content_id]['added'] if 'added' in old_updates[content_id] else get_date()
         updates[content_id] = {'title': title, 'date': date, 'url': url, 'thumbnail': thumbnail, 'desc': desc,
-                               'description': description, 'content_id': content_id, 'added': added}
+                               'description': description, 'content_id': content_id, 'major': major, 'added': added}
 
     with open(os.path.join(BASE_DIR, 'news', 'lab_update.json'), 'w+', encoding='utf-8') as json_file:
         json.dump(updates, json_file, ensure_ascii=False, indent='\t')
