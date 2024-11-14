@@ -1,4 +1,14 @@
 {
+	"2525": {
+		"title": "Global Lab Login Method Changing Soon",
+		"date": "24.11.14",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2525&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/SXB307VTEKWR2QFW20241114060725292.400x225.jpg",
+		"desc": "검은사막 연구소 로그인 수단 변경 예정 안내",
+		"description": "Greetings, Adventurers. On November 28, 2024 (Thu), login method for Black Desert Global Lab will be changed to use Pearl Abyss ID, which is currently used to log in to our live servers. With this change, Global Lab will also have access to account and privacy security features provided by Pear...",
+		"content_id": "2525",
+		"added": "2024-11-14"
+	},
 	"2522": {
 		"title": "11월 15일(금) 서비스 정기점검 안내",
 		"date": "24.11.13",
@@ -228,15 +238,5 @@
 		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 6월 28일 금요일 예정된 검은사막 연구소의 점검이 아래의 시간과 같이 변경되었습니다. 정기점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2024년 6월 28일(금) 15:00 ~ 7월 1일(월) 18:00 (GMT / UTC +9)  ※ 자세한 일정은 추후 본 공지를 통해 안내해 드릴 예정입니다. ※ 연구소 업데이트에 관한 상세 내용은 점검 종료시간과 동일한 시간에 공개됩니다. 검은사막 연구소에서 미리 만나보실 수 있는 신규 클래스 '도사'의 최종 ...",
 		"content_id": "2354",
 		"added": "2024-06-26"
-	},
-	"2348": {
-		"title": "[완료] 6월 21일(금) 서비스 정기점검 안내",
-		"date": "24.06.20",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2348&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/L0YCQBAPW2HAWGI520240620041255083.400x225.jpg",
-		"desc": "",
-		"description": "안녕하세요. 검은사막 연구소입니다. 6월 21일 금요일, 검은사막 연구소 정기점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  정기점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2024년 6월 21일(금) 15:00 ~ 18:00 (GMT / UTC +9) 점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가  홈페이지 점검 안내 - 점검 대상 :...",
-		"content_id": "2348",
-		"added": "2024-06-20"
 	}
 }
