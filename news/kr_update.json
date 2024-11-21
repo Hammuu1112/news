@@ -1,4 +1,15 @@
 {
+	"13149": {
+		"title": "11월 21일(목) 최신 버전 업데이트 안내",
+		"date": "2024.11.21",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13149&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/R8BI804UWXUYWVIY20241121201642149.400x225.jpg",
+		"desc": "11월 21일(목) 최신 버전 업데이트 사항을 안내드립니다.",
+		"description": "안녕하세요. 검은사막입니다. 11월 21일 목요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항'[메디아][분기 II] 상인회의 재건'의 일부 의뢰를 정상적으로 진행할 수 없는 현상이 확인되어 해당 분기를 선택할 수 없도록 임시 조치 되었습니다.이미 의뢰를 진행 중이신 모험가님들께서는 아래 내용을 참고하시어 불편이 없으시기를 바랍니다.- '[메디아] 신뢰라는 이름' 의뢰를 수주 후 재접속 시 해당 의뢰가 완료되며, 다음 의뢰인 '[...",
+		"content_id": "13149",
+		"major": false,
+		"added": "2024-11-21"
+	},
 	"13142": {
 		"title": "11월 20일(수) 업데이트 안내",
 		"date": "2024.11.20",
@@ -251,16 +262,5 @@
 		"content_id": "12890",
 		"major": true,
 		"added": "2024-10-02"
-	},
-	"12869": {
-		"title": "9월 27일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "2024.09.27",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12869&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/J53JY200AI9T2UFO20240927101435118.400x225.jpg",
-		"desc": "9월 27일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"description": "안녕하세요. 검은사막입니다. 9월 27일 금요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
-		"content_id": "12869",
-		"major": false,
-		"added": "2024-09-27"
 	}
 }
