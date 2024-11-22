@@ -1,6 +1,16 @@
 {
+	"2537": {
+		"title": "Global Lab Login Method Change Details",
+		"date": "24.11.22",
+		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2537&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/KH2STEQXKR6TI85620241122082044781.400x225.jpg",
+		"desc": "검은사막 연구소 로그인 수단 변경에 따른 세부 사항 안내",
+		"description": "Greetings, Adventurers. The login method for the Black Desert Global Lab will be changedto the Pearl Abyss ID you are using on the live servers after the maintenance.   In the previous [Announcement] Global Lab Login Method Changing Soon post,we briefly introduced the login method change.  Throug...",
+		"content_id": "2537",
+		"added": "2024-11-22"
+	},
 	"2534": {
-		"title": "11월 22일(금) 서비스 정기점검 안내",
+		"title": "[완료] 11월 22일(금) 서비스 정기점검 안내",
 		"date": "24.11.20",
 		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2534&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
 		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/I6SXWWQUZWSYBF0O20241120114352535.400x225.jpg",
@@ -228,15 +238,5 @@
 		"description": "안녕하세요. 검은사막 연구소입니다. 7월 12일 금요일, 검은사막 연구소 정기점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  정기점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2024년 7월 12일(금) 15:00 ~ 18:00 (GMT / UTC +9) 점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가  홈페이지 점검 안내 - 점검 대상 :...",
 		"content_id": "2375",
 		"added": "2024-07-10"
-	},
-	"2366": {
-		"title": "[완료] 7월 5일(금) 서비스 정기점검 안내",
-		"date": "24.07.05",
-		"url": "https://www.global-lab.playblackdesert.com/News/Notice/Detail?boardNo=2366&countryType=ko-KR&boardType=1&searchType=&searchText=&currentPage=1",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/VY0GL7M5PRLP1AXQ20240704044826739.400x225.jpg",
-		"desc": "",
-		"description": "안녕하세요. 검은사막 연구소입니다. 7월 5일 금요일, 검은사막 연구소 정기점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  정기점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2024년 7월 5일(금) 15:00 ~ 18:00 (GMT / UTC +9) 점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가  홈페이지 점검 안내 - 점검 대상 : 검...",
-		"content_id": "2366",
-		"added": "2024-07-05"
 	}
 }
