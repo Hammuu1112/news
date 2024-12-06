@@ -1,4 +1,15 @@
 {
+	"7442": {
+		"title": "12월 6일(금) 업데이트 안내",
+		"date": "2024.12.06 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7442",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2024/12/06/fc552550d2920241206085809495.jpg",
+		"desc": "업데이트",
+		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 12월 6일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다.  추가 및 개선 사항소서러각성본 : 망자 유린본 : 망자 유린 기술 타격 후, 마지막 내려찍기 동작에서 어둠의 조각을 소모하는 추가 공격이 간헐적으로 발동되지 않던 현상이 수정되었습니다. 자이언트각성거신의 일격다른 기술 사용 후 거신의 일격 기술의 3타격으로 빠르게 연...",
+		"content_id": "7442",
+		"major": true,
+		"added": "2024-12-06"
+	},
 	"7425": {
 		"title": "11월 29일(금) 업데이트 안내",
 		"date": "2024.11.29 (UTC+3)",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "7383",
 		"major": true,
-		"added": "2024-12-03"
-	},
-	"7381": {
-		"title": "8월 12일(월) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "2024.08.12 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7381",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/X5FFC89J3DAW7VCL20240812092318339.400x225.jpg",
-		"desc": "업데이트",
-		"description": "",
-		"content_id": "7381",
-		"major": false,
 		"added": "2024-12-03"
 	}
 }
