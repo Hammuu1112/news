@@ -31,7 +31,7 @@ def kr_update(major_web_hook_url: str, normal_web_hook_url: str):
         thumbnail = item.find_next('img').get('src')
         description = get_description(url)
         major = False
-        if title.split(')')[1].strip() == "업데이트 안내" and !title.startswith('['):
+        if title.split(')')[1].strip() is "업데이트 안내" and !title.startswith('['):
         #if desc != '' and desc[0] not in start_with:
             major = True
         if content_id not in old_updates:
