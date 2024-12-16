@@ -1,4 +1,15 @@
 {
+	"13272": {
+		"title": "12월 16일(월) 카마실비아-1 서버 점검 업데이트 안내",
+		"date": "2024.12.16",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13272&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/7REJ22XX7OAZKT2T20241216163435474.400x225.jpg",
+		"desc": "",
+		"description": "안녕하세요. 검은사막입니다. 12월 16일 월요일 검은사막 일부 서버 점검 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항카마실비아-1 서버의 카마실비아 영지 거점전 콘텐츠에 대한 안정화 작업이 진행되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"content_id": "13272",
+		"major": false,
+		"added": "2024-12-16"
+	},
 	"13243": {
 		"title": "12월 12일(목) 최신 버전 업데이트 안내",
 		"date": "2024.12.12",
@@ -251,16 +262,5 @@
 		"content_id": "12986",
 		"major": false,
 		"added": "2024-10-18"
-	},
-	"12985": {
-		"title": "10월 17일(목) 임시 점검 업데이트 안내",
-		"date": "2024.10.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12985&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/J904NT3QNTZ1P98A20241017150710027.400x225.jpg",
-		"desc": "10월 17일 목요일 임시 점검 업데이트 사항을 안내드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 10월 17일 목요일 검은사막 임시 점검 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항'[발레노스] 풀숲의 늑대' 의뢰 이후로 메인의뢰를 정상적으로 진행할 수 없던 현상이 수정되었습니다.카마실비아 메인의뢰 진행 과정에서 일부 지형 지물 등으로 인해 의뢰 진행이 원활하지 않던 현상이 수정되었습니다.'[전투 승급] 심기 불편한 해달' 의뢰 진행이 특정 상황에서 원활하지 않던 현상이 수정되었습니다. 늘 검은사막과 함께해주시는 모...",
-		"content_id": "12985",
-		"major": false,
-		"added": "2024-10-17"
 	}
 }
