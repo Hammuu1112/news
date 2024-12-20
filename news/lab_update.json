@@ -1,4 +1,15 @@
 {
+	"7482": {
+		"title": "12월 20일(금) 업데이트 안내 (최종수정 : 2024-12-20 18:28)",
+		"date": "2024.12.20 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7482",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2024/12/20/b091d35fee820241220085621341.jpg",
+		"desc": "업데이트",
+		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 12월 20일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 쏠 땐 그냥 쏘는 거야. 말 없이. '데드아이' 커너리 갱단의 두목, '데드아이'가 12월 24일(화) 공식 서버 업데이트를 통해 모험가 여러분께 찾아옵니다.검은사막 연구소에서는 각 대도시에 위치한 <검은사막 연구소 상인> 에오라 NPC를 통해 '각성 비전...",
+		"content_id": "7482",
+		"major": true,
+		"added": "2024-12-20"
+	},
 	"7464": {
 		"title": "12월 16일(월) 업데이트 안내",
 		"date": "2024.12.16 (UTC+3)",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "7386",
 		"major": false,
-		"added": "2024-12-03"
-	},
-	"7385": {
-		"title": "8월 23일(금) 업데이트 안내",
-		"date": "2024.08.23 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7385",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/7L2E4YBJFT33HCA320240823120348970.400x225.jpg",
-		"desc": "업데이트",
-		"description": "",
-		"content_id": "7385",
-		"major": true,
 		"added": "2024-12-03"
 	}
 }
