@@ -1,4 +1,14 @@
 {
+	"6782": {
+		"title": "알려진 문제점 (최종수정 : 2024-12-21 13:40)",
+		"date": "2024.12.21 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=6782",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/News/e38d9bf127c20200604160910117.jpg",
+		"desc": "공지사항",
+		"description": "안녕하세요. 검은사막 연구소입니다. 현재 확인 중인 게임 내 알려진 문제점에 대해 안내 드립니다.아래 내용에 대해서 빠른 수정 작업을 진행하고 있으며,조치가 완료되면 공지를 통해 다시 안내드릴 수 있도록 하겠습니다.게임 이용에 불편을 드려 대단히 죄송합니다.신속한 문제 해결을 위해 노력하겠습니다.감사합니다. 알려진 문제점● 현재 개발중인 일부 콘텐츠에 대한 플레이가 가능한 것으로 확인되어, 플레이할 수 없도록 임시 조치되었습니다.",
+		"content_id": "6782",
+		"added": "2024-12-21"
+	},
 	"7470": {
 		"title": "[완료] 12월 20일(금) 서비스 정기점검 안내",
 		"date": "2024.12.18 (UTC+3)",
@@ -227,16 +237,6 @@
 		"desc": "공지사항",
 		"description": "",
 		"content_id": "7382",
-		"added": "2024-12-04"
-	},
-	"7379": {
-		"title": "[완료] 8월 9일(금) 서비스 정기점검 안내",
-		"date": "2024.08.07 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7379",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/B37YBIHNFSKHP6VZ20240807104933181.400x225.jpg",
-		"desc": "공지사항",
-		"description": "",
-		"content_id": "7379",
 		"added": "2024-12-04"
 	}
 }
