@@ -164,17 +164,6 @@
 		"new_tag": false,
 		"added": "2024-06-19"
 	},
-	"12162": {
-		"title": "시즌 생성권 한개 더!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=12162&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/514LM88Y5X46TPBG20240703090038902.400x225.jpg",
-		"description": "시즌 생성권 한개 더!상도방의 도사 등장! 최대 캐릭터 슬롯 35개로 확장!2024년 7월 3일(수) 정기점검을 통해 시즌 생성권 1개가 추가 지급되었습니다.※ 단, 시즌 캐릭터 이용권의 최대 보유 수량인 5개를 보유 중인 모험가님의 경우 시즌 캐릭터 이용권이 지급되지 않습니다.시즌 캐릭터 생성 및 레벨업!시즌 패스 보상으로 \"[시즌] 여정의 인장\" 획득!미니맵 좌측 - 통합 재화 UI 에서 다양한 아이템으로 교환!    꿈을 부르는 향로   전투/기술 경험치교환권   무기 교환권 상자   발크스의 조언(+120)폭풍 성장시...",
-		"content_id": "12162",
-		"new_tag": false,
-		"added": "2024-05-20"
-	},
 	"10946": {
 		"title": "새로워진 Twitch Drops를 매일매일 만나보세요!",
 		"deadline": "-",
@@ -262,5 +251,16 @@
 		"content_id": "7056",
 		"new_tag": false,
 		"added": "2024-12-24"
+	},
+	"2783": {
+		"title": "신규&복귀 모험가님을 위한 놓칠 수 없는 혜택!",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2783&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/4KM094V3X82N5SE720220630143044011.400x225.jpg",
+		"description": "* 2024년 12월 24일(화) 기준 적용되는 혜택입니다.    [TIP] 이 외에도 모르는 점이 있다면 달무리 여관 모험가님들께 조언을 구해보세요!아, 참! 신규 모험가님은 캐릭터 7 레벨을 달성하면 채팅창이 활성화됩니다.이 때 파란색 글씨로 보이는 '달무리 여관' 채팅 그룹에 자동 입장하게 되는데요. ▲ Enter 를 눌러 채팅 입력창을 활성화 시킨 후 Alt+7 단축키를 누르고달무리 여관에 있는 선배 모험가님께 검은사막에 대한 다양한 질문을 건네보세요. ✦‿✦ + 모험가 노트(F2)에 작성된 검은사막의 방대한 지식도 하...",
+		"content_id": "2783",
+		"new_tag": false,
+		"added": "2024-12-26"
 	}
 }
