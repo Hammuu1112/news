@@ -1,4 +1,15 @@
 {
+	"13345": {
+		"title": "12월 26일(목) 웹 업데이트 안내",
+		"date": "2024.12.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13345&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/YFNV8P71TCNVL5TR20241226140028049.400x225.jpg",
+		"desc": "12월 26일(목) 웹 업데이트 사항을 안내드립니다.",
+		"description": "안녕하세요. 검은사막입니다.12월 26일 목요일 검은사막 웹 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항검은사막+ 애플리케이션과 공식 홈페이지의 통합거래소에서 데드아이 클래스의 일부 의상명이 정상적으로 노출되지 않던 현상이 수정되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"content_id": "13345",
+		"major": false,
+		"added": "2024-12-26"
+	},
 	"13337": {
 		"title": "12월 24일(화) 업데이트 안내",
 		"date": "2024.12.24",
@@ -251,16 +262,5 @@
 		"content_id": "13039",
 		"major": false,
 		"added": "2024-11-01"
-	},
-	"13032": {
-		"title": "10월 30일(수) 최신 버전 업데이트 안내",
-		"date": "2024.10.30",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13032&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/J0ELM35B15HG2V7B20241030153304765.400x225.jpg",
-		"desc": "10월 30일(수) 최신 버전 업데이트 사항을 안내드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 10월 30일 수요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항아침의 나라 사냥터 에서 사냥 중 프레임이 하락하는 현상에 대한 1차적인 완화 작업이 진행되었습니다.더욱 원활한 플레이를 하실 수 있도록 남은 개선 작업 또한 진행될 예정인 점 안내해 드립니다.[다크나이트, 세이지] 에스페라 의상 착용 시, 특정 상황...",
-		"content_id": "13032",
-		"major": false,
-		"added": "2024-10-30"
 	}
 }
