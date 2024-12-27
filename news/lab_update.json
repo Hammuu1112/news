@@ -1,4 +1,15 @@
 {
+	"7502": {
+		"title": "12월 27일(금) 업데이트 안내",
+		"date": "2024.12.27 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7502",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2024/12/27/8678c79d81a20241227085802486.jpg",
+		"desc": "업데이트",
+		"description": "안녕하세요. 검은사막 연구소입니다. 2024년 12월 27일(금) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 추가 및 개선 사항캐릭터데드아이공통석양을 꿰뚫는 일격 기술을 제외한, 실탄 상태의 리볼버 공격의 사거리가 샷건보다 길게 적용되도록 변경되었습니다.말 탑승 시 일부 동작이 보다 자연스럽게 개선되었습니다.주무기풍차걸음풍차걸음 기술을 기술 슬롯에 등록하여 사용할 수 있도록...",
+		"content_id": "7502",
+		"major": true,
+		"added": "2024-12-27"
+	},
 	"7486": {
 		"title": "12월 23일(월) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2024.12.23 (UTC+3)",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "7389",
 		"major": false,
-		"added": "2024-12-03"
-	},
-	"7388": {
-		"title": "8월 30일(금) 업데이트 안내",
-		"date": "2024.08.30 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7388",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/1ZX0Y3387MPB19L620240830115157748.400x225.jpg",
-		"desc": "업데이트",
-		"description": "",
-		"content_id": "7388",
-		"major": true,
 		"added": "2024-12-03"
 	}
 }
