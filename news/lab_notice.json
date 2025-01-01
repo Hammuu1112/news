@@ -1,4 +1,14 @@
 {
+	"7508": {
+		"title": "1월 3일(금) 서비스 정기점검 안내",
+		"date": "2025.01.01 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7508",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2024/12/31/7efc73356d520241231011014465.jpg",
+		"desc": "공지사항",
+		"description": "안녕하세요. 검은사막 연구소입니다. 1월 3일 금요일, 검은사막 연구소 정기점검이 진행될 예정입니다. 점검이 진행되는 중에는 게임 접속 및 웹 통합 거래소 서비스, 홈페이지 이용 등이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  정기점검 안내 - 점검 대상 : 게임 서버 및 웹 통합 거래소 - 점검 일시 : 2025년 1월 3일(금) 15:00 ~ 18:00 (GMT / UTC +9) 점검 영향 - 게임 접속 불가 - 웹 통합 거래소 이용 불가 ※ 주의 사항 - 점검이 시작되면 순차적으로...",
+		"content_id": "7508",
+		"added": "2025-01-01"
+	},
 	"7497": {
 		"title": "[완료] 12월 27일(금) 서비스 정기점검 안내",
 		"date": "2024.12.25 (UTC+3)",
@@ -227,16 +237,6 @@
 		"desc": "공지사항",
 		"description": "",
 		"content_id": "7387",
-		"added": "2024-12-04"
-	},
-	"7384": {
-		"title": "[완료] 8월 23일(금) 서비스 정기점검 안내",
-		"date": "2024.08.21 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7384",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/Z8WIPFU5ULSAKMR020240821092459484.400x225.jpg",
-		"desc": "공지사항",
-		"description": "",
-		"content_id": "7384",
 		"added": "2024-12-04"
 	}
 }
