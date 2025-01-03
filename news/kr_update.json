@@ -1,4 +1,15 @@
 {
+	"13374": {
+		"title": "1월 3일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2025.01.03",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13374&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/38A93ZYNAWVHJK0N20250103110143074.400x225.jpg",
+		"desc": "1월 3일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"description": "안녕하세요. 검은사막입니다. 1월 3일 금요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"content_id": "13374",
+		"major": false,
+		"added": "2025-01-03"
+	},
 	"13371": {
 		"title": "12월 31일(화) 최신 버전 업데이트 안내",
 		"date": "2024.12.31",
@@ -251,16 +262,5 @@
 		"content_id": "13102",
 		"major": true,
 		"added": "2024-11-13"
-	},
-	"13072": {
-		"title": "11월 8일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "2024.11.08",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13072&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/CSWNCGJW7AQ4M4S420241108105251555.400x225.jpg",
-		"desc": "11월 8일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"description": "안녕하세요. 검은사막입니다. 11월 8일 금요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
-		"content_id": "13072",
-		"major": false,
-		"added": "2024-11-08"
 	}
 }
