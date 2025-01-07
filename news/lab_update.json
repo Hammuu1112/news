@@ -1,4 +1,15 @@
 {
+	"7521": {
+		"title": "1월 7일(화) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2025.01.07 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7521",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/01/07/afb27c1600b20250107023308056.jpg",
+		"desc": "업데이트",
+		"description": "안녕하세요. 검은사막입니다. 1월 7일 화요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"content_id": "7521",
+		"major": false,
+		"added": "2025-01-07"
+	},
 	"7516": {
 		"title": "1월 6일(월) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2025.01.06 (UTC+3)",
@@ -249,17 +260,6 @@
 		"desc": "업데이트",
 		"description": "",
 		"content_id": "7397",
-		"major": true,
-		"added": "2024-12-03"
-	},
-	"7394": {
-		"title": "9월 20일(금) 업데이트 안내",
-		"date": "2024.09.20 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7394",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/3FPU38NORZDPVB0320240920115917640.400x225.jpg",
-		"desc": "업데이트",
-		"description": "",
-		"content_id": "7394",
 		"major": true,
 		"added": "2024-12-03"
 	}
