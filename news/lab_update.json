@@ -1,4 +1,15 @@
 {
+	"7533": {
+		"title": "1월 10일(금) 업데이트 안내",
+		"date": "2025.01.10 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7533",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/01/10/639c838492320250110085734795.jpg",
+		"desc": "업데이트",
+		"description": "안녕하세요. 검은사막 연구소입니다. 2025년 1월 10일(수) 업데이트 내용을 안내해 드립니다.검은사막 연구소의 업데이트 사항은 검은사막 연구소에만 적용되는 내용이며, 공식 서버에 업데이트될 때에는 변경될 수 있으니, 이 점 모험가 여러분의 참고 부탁드립니다. 벼락과 같이 공간을 뛰어넘는 뇌전마 '볼타리온(Voltarion)'환상마 볼타리온번개의 힘을 지닌 볼타리온이 갇혀있던 시공간을 뚫고 나오자, 세상에 그 흔적이 발견되기 시작했습니다.볼타리온은 빠른 이동 속도를 바탕으로 공간을 빠르게 도약하는 기술과 번개 공격으로 빠르게...",
+		"content_id": "7533",
+		"major": true,
+		"added": "2025-01-10"
+	},
 	"7521": {
 		"title": "1월 7일(화) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2025.01.07 (UTC+3)",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "7396",
 		"major": false,
-		"added": "2024-12-03"
-	},
-	"7397": {
-		"title": "9월 27일(금) 업데이트 안내",
-		"date": "2024.09.27 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7397",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/Z2C140K2BEYBDJ1B20240927114515881.400x225.jpg",
-		"desc": "업데이트",
-		"description": "",
-		"content_id": "7397",
-		"major": true,
 		"added": "2024-12-03"
 	}
 }
