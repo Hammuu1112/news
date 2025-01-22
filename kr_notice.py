@@ -16,6 +16,7 @@ def kr_notice(web_hook_url: str):
     response.encoding = None
     html = response.content
     soup = BeautifulSoup(html, 'html.parser')
+    print(soup.select('#wrap > div > div.container > article > div.tab_container > div > div.thumb_nail_area > ul'))
     data = soup.select('#wrap > div > div.container > article > div.tab_container > div > div.thumb_nail_area > ul')[0]
     table = data.findAll('li')
 
