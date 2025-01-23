@@ -1,4 +1,14 @@
 {
+	"7559": {
+		"title": "1월 24일(금) 정기점검 미진행 안내",
+		"date": "2025.01.22 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7559",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/01/22/1aa181bd79120250122074640880.jpg",
+		"desc": "공지사항",
+		"description": "안녕하세요. 검은사막 연구소입니다. 1월 24일 금요일에는 설 연휴로 인해 검은사막 연구소 정기점검이 진행되지 않을 예정입니다. 다음 연구소 정기점검은 1월 31일 금요일에 진행될 예정이며, 해당 일 이후부터는 다시 정상적으로 매주 금요일에 정기점검이 진행됩니다. 이 점 참고하시어 게임 이용에 불편이 없으시기를 바랍니다. 감사합니다.펄어비스 검은사막 연구소",
+		"content_id": "7559",
+		"added": "2025-01-23"
+	},
 	"7544": {
 		"title": "[완료] 1월 17일(금) 서비스 정기점검 안내",
 		"date": "2025.01.15 (UTC+3)",
@@ -227,16 +237,6 @@
 		"desc": "공지사항",
 		"description": "",
 		"content_id": "7393",
-		"added": "2024-12-04"
-	},
-	"7392": {
-		"title": "[완료] 9월 13일(금) 서비스 정기점검 안내",
-		"date": "2024.09.11 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7392",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/W625ZL7YM4JPHHRT20240911075439422.400x225.jpg",
-		"desc": "공지사항",
-		"description": "",
-		"content_id": "7392",
 		"added": "2024-12-04"
 	}
 }
