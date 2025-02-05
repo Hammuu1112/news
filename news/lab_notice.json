@@ -1,4 +1,14 @@
 {
+	"7576": {
+		"title": "2월 6일(목) 검은사막 연구소 홈페이지 점검 안내",
+		"date": "2025.02.04 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7576",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/02/04/5d05198085920250204015719403.jpg",
+		"desc": "공지사항",
+		"description": "안녕하세요. 검은사막 연구소입니다. 2월 6일 목요일, 서비스 안정화를 위한 검은사막 연구소 홈페이지 점검이 진행될 예정입니다. 점검이 진행되는 중에는 검은사막 연구소 홈페이지를 이용하는 모든 서비스 이용이 중단됩니다.자세한 내용은 아래를 참고하시어 게임 이용에 불편이 없으시기 바랍니다.  홈페이지 점검 안내 - 점검 대상 : 검은사막 연구소 홈페이지 - 점검 일시 : 2025년 2월 6일(목) 07:00 ~ 09:00 (GMT / UTC + 9) 점검 영향 - 홈페이지 내 전체 서비스 이용 불가  늘 검은사막과 함께해주시는 ...",
+		"content_id": "7576",
+		"added": "2025-02-06"
+	},
 	"7569": {
 		"title": "[완료] 1월 31일(금) 서비스 정기점검 안내",
 		"date": "2025.01.29 (UTC+3)",
@@ -227,16 +237,6 @@
 		"desc": "공지사항",
 		"description": "",
 		"content_id": "7398",
-		"added": "2024-12-04"
-	},
-	"7395": {
-		"title": "[완료] 9월 27일(금) 서비스 정기점검 안내",
-		"date": "2024.09.25 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7395",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/3D8BKEYGZ08B3CP620240925050119706.400x225.jpg",
-		"desc": "공지사항",
-		"description": "",
-		"content_id": "7395",
 		"added": "2024-12-04"
 	}
 }
