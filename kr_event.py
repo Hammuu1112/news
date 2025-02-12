@@ -38,7 +38,8 @@ def kr_event(web_hook_url: str):
         url = event.find_next('a').get('href')
         content_id = get_content_id_from_url(url)
         thumbnail = event.find_next('img').get('src')
-        description = get_description(url)
+        # description = get_description(url)
+        description = ''
         if content_id not in old_events:
             if new_tag:
                 web_hook_data = WebHookData(title=title, url=url, description=description, thumbnail=thumbnail,

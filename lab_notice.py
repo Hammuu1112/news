@@ -29,7 +29,8 @@ def lab_notice(web_hook_url: str):
         url = item.find_next('a').get('href')
         content_id = get_content_id_from_url(url)
         thumbnail = item.find_next('img').get('src')
-        description = get_description(url)
+        # description = get_description(url)
+        description = ''
         if content_id not in old_notices:
             web_hook_data = WebHookData(title=title, url=url, description=desc, thumbnail=thumbnail, data_type="lab",
                                         date=date)
