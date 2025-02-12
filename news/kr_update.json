@@ -1,11 +1,33 @@
 {
+	"13538": {
+		"title": "2월 12일(수) 최신 버전 업데이트 안내",
+		"date": "2025.02.12",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13538&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KPN86WJ6M909SU7320250212180224274.400x225.jpg",
+		"desc": "2월 12일(수) 최신 버전 업데이트 사항을 안내해 드립니다.",
+		"description": "",
+		"content_id": "13538",
+		"major": false,
+		"added": "2025-02-12"
+	},
+	"13537": {
+		"title": "2월 12일(수) 업데이트 안내",
+		"date": "2025.02.12",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13537&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YAS7IAWIH1VOCXZY20250212055315488.400x225.jpg",
+		"desc": "황혼의 날개, 긴급 회피 개선, 클래스 변경 사항, 눈꽃 설원 : 질주, 바다의 눈물이 담긴 에벤루스의 놀, 에벤루스의 놀 내구도 제거, 바다 지형 개선, 작업 중인 일꾼의 기술 변경, 일꾼 거래소 필터 기능 추가, 메이드/집사 창고에 자동 넣기 기능 등의 업데이트",
+		"description": "",
+		"content_id": "13537",
+		"major": true,
+		"added": "2025-02-12"
+	},
 	"13516": {
 		"title": "2월 5일(수) 최신 버전 업데이트 안내",
 		"date": "2025.02.05",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13516&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MZ8M9J750OLT9N3W20250205220324519.400x225.jpg",
 		"desc": "2월 5일(수) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 2월 5일 수요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항퀵슬롯에 등록한 소셜 액션을 사용할 경우, 등록하지 않은 소셜 액션이 작동하거나 시스템 메시지가 노출되는 현상이 수정되었습니다.선박에 교역품을 싣는 '화물 적재' 메뉴를 이용할 때, '물물교환 정보' UI에서 일리야 섬 창고 아이콘을 통해 창고에서 보유 ...",
+		"description": "",
 		"content_id": "13516",
 		"major": false,
 		"added": "2025-02-06"
@@ -16,7 +38,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13510&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YW3ISYCKKMHHLNKH20250205133801449.400x225.jpg",
 		"desc": "2월 5일 수요일 임시 점검 업데이트 사항을 안내드립니다.",
-		"description": "안녕하세요. 검은사막입니다.2월 5일 수요일 검은사막 임시 점검 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항보유 중인 아이템을 창고로 이동할 수 없거나, 가방 등에서 보이지 않는 현상이 수정되었습니다.창고관리 메이드/집사를 통해 캐릭터가 현재 위치한 영지의 창고로 보물 아이템을 이동할 수 없는 현상이 수정되었습니다.NPC 상점에 판매하여 까마귀 주화를 획득할 수 있는 아이템의 툴팁에 판매가격에 대한 정보가 표시되지 않는 현상이 수정되었습니다. 늘 검...",
+		"description": "",
 		"content_id": "13510",
 		"major": false,
 		"added": "2025-02-06"
@@ -27,7 +49,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13508&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/UPWWV1CGWHA1V6WF20250205073439075.400x225.jpg",
 		"desc": "물물교환 콘텐츠 편의 기능 추가 및 교역품 교환 개선, 대양 사냥터 개선 및 항해 의뢰 보상 강화, 루살카 해원석 추가, 솔라레의 창 전장 테두리, 소셜 액션, 퀵슬롯 등록, 월드맵 키보드 이동 기능 등의 업데이트",
-		"description": "2월 5일(수) 업데이트 사항 정정 안내물물교환 정보 UI : UI에서 적재품 바로 싣기 (2025-02-05 19:10 내용 추가)물물교환 정보 UI에서 선박/창고에 보유 중인 품목을 확인할 수 있도록 개선되었습니다.또한, 선박 및 창고 아이콘을 누르면 보유 중인 교역품을 바로 옮길 수 있도록 기능이 추가되었습니다.기능 활용 예시 : 창고에 보관 중인 아이템 개수 확인 후 바로 화물을 적재하는 모습     안녕하세요.  검은사막입니다. 2월 5일(수) 정기점검 후 최신 업데이트 내용을 안내해 드립니다. 오늘 업데이트를 통...",
+		"description": "",
 		"content_id": "13508",
 		"major": true,
 		"added": "2025-02-06"
@@ -38,7 +60,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13476&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/NC1LQJKTGQ17S1EQ20250124164358126.400x225.jpg",
 		"desc": "1월 24일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"description": "안녕하세요. 검은사막입니다. 1월 24일 금요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"description": "",
 		"content_id": "13476",
 		"major": false,
 		"added": "2025-01-24"
@@ -49,7 +71,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13471&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0BJU78TXWTBLCK9A20250122185003847.400x225.jpg",
 		"desc": "1월 22일(수) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 1월 22일 수요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항우당탕탕쿵탕 눈꽃 설원 이벤트에서 재생되는 이벤트 배경음악이 추가되었습니다.시간 제한 의뢰 진행 중 클라이언트가 종료되던 현상이 수정되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"description": "",
 		"content_id": "13471",
 		"major": false,
 		"added": "2025-01-23"
@@ -60,7 +82,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13457&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DU403H9Q3TV9KUQE20250121201043474.400x225.jpg",
 		"desc": "솔라레의 창 정규 시즌, 일꾼 콘텐츠 개선 사항, 의뢰 검색 기능과 보유 중인 물고기 가격 안내 기능 등의 업데이트",
-		"description": "1월 22일(수) 업데이트 사항 정정 안내솔라레의 창 정규 시즌휴면 페널티수정 전:솔라레의 창 일정 점수 이상일 때 휴면 강등되는 시간과 주기는 아래와 같습니다.솔라레 : 마지막 경기 후 2일 뒤 30점 감소, 하루마다 30점 감소영광의 창 : 마지막 경기 후 3일 뒤 20점 감소, 하루마다 20점 감소여명의 창 : 마지막 경기 후 5일 뒤 15점 감소, 하루마다 15점 감소수정 후 : 솔라레의 창 랭크 대전에서 일정 점수 이상일 때 휴면 강등되는 시간과 주기는 아래와 같습니다. (2025-01-22 13:50 내용 수정)...",
+		"description": "",
 		"content_id": "13457",
 		"major": true,
 		"added": "2025-01-22"
@@ -71,7 +93,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13443&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O215RBKAW1J3MIKY20250116174331954.400x225.jpg",
 		"desc": "1월 16일(목) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 1월 16일 목요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항이벤트 미니게임 보드를 게임 패드 모드로 조작할 수 있도록 개선되었습니다.이벤트 미니게임 보드에 좌우 이동 단축키 설정이 적용되도록 개선되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"description": "",
 		"content_id": "13443",
 		"major": false,
 		"added": "2025-01-16"
@@ -82,7 +104,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13438&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IGN6DNIGQI8DNE0K20250115191641706.400x225.jpg",
 		"desc": "1월 16일 목요일 임시 점검 업데이트 사항을 안내드립니다.",
-		"description": "안녕하세요. 검은사막입니다.1월 16일 목요일 검은사막 임시 점검 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항탑승물 성장 가능 상승폭의 최대 수치(1.3)가 적용되지 않는 현상이 수정되었습니다.자세한 내용은 [공지사항]을 참고하시어 게임 이용에 불편이 없으시기를 바랍니다.펄 상점(F3) 달의 축복 초기화 후 다음 190펄 사용 보상을 수령할 수 없는 현상이 수정되었습니다.특정 상황에서 얼음 낚시 미니게임을 실패하는 현상이 수정되었습니다.2025년 1...",
+		"description": "",
 		"content_id": "13438",
 		"major": false,
 		"added": "2025-01-16"
@@ -93,7 +115,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13436&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/697KQFA0MNG2D39420250115165231500.400x225.jpg",
 		"desc": "1월 15일(수) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 1월 15일 수요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항말을 탑승한 상태에서 크로그달로의 깃털 사용 시, 알림 메세지가 표시되도록 개선되었습니다.일부 클래스로 보드 탑승 시, 보드 외형이 부자연스럽게 노출되던 현상이 수정되었습니다.[아처] 눈보라 : 파푸 의상 착용 시, 눈보라 보드가 기본 클래식 보드 외형...",
+		"description": "",
 		"content_id": "13436",
 		"major": false,
 		"added": "2025-01-15"
@@ -104,7 +126,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13435&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/60YMV3MIWXJL8E1Y20250115054816235.400x225.jpg",
 		"desc": "환상마 볼타리온, 데드아이 기술 심화 및 흑정령의 분노 확장, 탑승물 성장 시뮬레이터와 메모장 기능 확장 등의 업데이트",
-		"description": "1월 15일(수) 업데이트 사항 정정 안내벼락과 같이 공간을 뛰어넘는 뇌전마 '볼타리온'벽력돌진공중에서 사용 시 빠른 속도로 돌진 후 섬멸하는 낙뢰로 벼락과 같이 떨어져 주변에 번개 공격을 가합니다. (2025-01-15 12:19 내용 수정)수정 전 : 타격 성공 시 기절 및 낙마 효과수정 후 : 타격 성공 시 기절넉다운 및 낙마 효과  수정 및 변경 사항왕실 공방 UI를 연 상태에서 월드맵을 열었을 때, 왕실 공방 UI가 닫히도록 수정되었습니다. (2025-01-22 18:24 내용 추가)    안녕하세요.  검은사막입...",
+		"description": "",
 		"content_id": "13435",
 		"major": true,
 		"added": "2025-01-15"
@@ -115,7 +137,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13409&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ZTJ2EWN329RSYVHX20250110143704465.400x225.jpg",
 		"desc": "1월 10일(금) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 1월 10일 금요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항[소서러, 발키리] 눈보라 의상의 보드 중 2종의 염색이 불가하던 현상이 수정되었습니다.[샤이] 눈보라 : 고글 아이템 착용 시 얼굴 외형이 부자연스럽게 노출되던 현상이 수정되었습니다.특정 상황에서 일부 캐릭터 접속이 원활하지 않을 수 있던 현상이 수정...",
+		"description": "",
 		"content_id": "13409",
 		"major": false,
 		"added": "2025-01-10"
@@ -126,7 +148,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13408&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6QQLUSOTE2D30K2L20250109151233625.400x225.jpg",
 		"desc": "1월 9일(목) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 1월 9일 목요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항길드(G) - 길드 창고 - 길드 보유 자금을 클릭하여 출금을 시도할 경우, 클라이언트가 종료되는 현상이 수정되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"description": "",
 		"content_id": "13408",
 		"major": false,
 		"added": "2025-01-09"
@@ -137,7 +159,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13405&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MYRWD6FNFGPIY4VG20250108185010621.400x225.jpg",
 		"desc": "1월 8일(수) 순차 점검 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 1월 8일 수요일 검은사막 순차 점검 업데이트 사항을 안내해 드립니다. 이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다.수정 및 변경 사항서버 안정화 작업이 진행되었습니다.간헐적으로 창고관리 메이드/집사 이용 시 아이템 이동이 원활하지 않던 현상이 수정되었습니다.[남클래스] 눈보라 의상 착용 시 일부 외형이 보다 자연스럽게 출력되도록 수정되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 ...",
+		"description": "",
 		"content_id": "13405",
 		"major": false,
 		"added": "2025-01-08"
@@ -148,7 +170,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13398&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/9VUUSID6CJ8FACGE20250108053538667.400x225.jpg",
 		"desc": "프리오네 액세서리 및 생활 숙련도 확장, 생활 숙련도 도구 추가와 생활 장비 변경 사항, 아이템 이동/보관 기능 확장 등의 업데이트",
-		"description": "안녕하세요.  검은사막입니다. 1월 8일(수) 정기점검 후 최신 업데이트 내용을 안내해 드립니다. 오늘 업데이트를 통해 프리오네 액세서리 및 생활 숙련도 확장, 생활 숙련도 도구 추가와 생활 장비 변경 사항, 아이템 이동/보관 기능 확장 등의 업데이트(패치용량 약 2.01 GB)가 진행되었습니다.모험가 여러분께서는 게임 내에서 더욱 멋진 모험을 즐겨주시기 바랍니다. 목차1.이벤트2.프리오네 액세서리2.1.프리오네 액세서리2.2.프리오네 액세서리 교환(획득) 의뢰2.3.프리오네 액세서리 강화 규칙2.4.프리오네 액세서리 능력...",
+		"description": "",
 		"content_id": "13398",
 		"major": true,
 		"added": "2025-01-08"
@@ -159,7 +181,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13388&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MP4XBAUT73VOM05A20250106184632929.400x225.jpg",
 		"desc": "1월 7일(화) 보안 모듈 최신 버전 업데이트 안내",
-		"description": "안녕하세요. 검은사막입니다. 1월 7일 화요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"description": "",
 		"content_id": "13388",
 		"major": false,
 		"added": "2025-01-07"
@@ -170,7 +192,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13374&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/38A93ZYNAWVHJK0N20250103110143074.400x225.jpg",
 		"desc": "1월 3일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"description": "안녕하세요. 검은사막입니다. 1월 3일 금요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"description": "",
 		"content_id": "13374",
 		"major": false,
 		"added": "2025-01-03"
@@ -181,7 +203,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13371&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/69GTE8WHUPJJ6HK620241231193920884.400x225.jpg",
 		"desc": "12월 31일(화) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 12월 31일 화요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항로딩 화면에서 간헐적으로 게임이 종료될 수 있던 현상이 수정되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"description": "",
 		"content_id": "13371",
 		"major": false,
 		"added": "2024-12-31"
@@ -192,7 +214,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13370&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/T7B6XPJNEJ7C2OBQ20241231185603879.400x225.jpg",
 		"desc": "12월 31일 화요일 임시 점검 업데이트 사항을 안내드립니다.",
-		"description": "안녕하세요. 검은사막입니다.12월 31일 화요일 검은사막 임시 점검 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항'이스라히드 고원' 사냥터 지형 일부가 부자연스럽게 노출되며, 해당 영역 접근 시 캐릭터 이동이 원활하지 않던 현상이 수정되었습니다.[검은 사당] 금돼지왕 우두머리 토벌 시 육재시니, 칠재시니 단계의 피해량이 높게 적용되던 현상이 수정되었습니다.[검은 사당] 산군 팔/구/십재시니 선택 후 토벌 순위 UI 진입 시 산군 기록만 노출되던 현상 ...",
+		"description": "",
 		"content_id": "13370",
 		"major": false,
 		"added": "2024-12-31"
@@ -203,7 +225,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13364&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/NZZV2Q06UC2URSP320241231074119154.400x225.jpg",
 		"desc": "검은 사당 - 동해도(개인) : 팔/구/십재시니, 순수한 마력 덩어리 및 세스라의 유물 - 무역 경험치 획득처 추가, [베니아] 메르브의 수선도구 개선 등의 업데이트",
-		"description": "12월 31일(화) 업데이트 사항 정정 안내세스라의 유물 - 무역 경험치무역 경험치 획득 대상에 상점 판매 대상인 일부 이벤트 물고기가 포함되어 있어, 목록이 갱신되었습니다. (2024-12-31 11:03 내용 수정)쥐가오리, 대왕쥐가오리, 보석 왕쭈꾸미, 촉촉한 이브루그, 진주 숭어 (삭제)금일 추가된 세스라의 유물 - 무역 경험치, 생활 숙련도, 생활 경험치 및 불완전한 풀의 광명석 획득 방식이 무역품 판매 시가 아닌 돌발 의뢰를 통해 획득하는 것으로 내용이 수정되었습니다. (2024-12-31 17:36 내용 수정)...",
+		"description": "",
 		"content_id": "13364",
 		"major": true,
 		"added": "2024-12-31"
@@ -214,7 +236,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13347&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/G6ALL81RBN773A6X20241226203143654.400x225.jpg",
 		"desc": "12월 26일(목) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "안녕하세요. 검은사막입니다. 12월 26일 목요일 검은사막 최신 버전 업데이트 사항을 안내해 드립니다.이미 접속 중인 모험가님의 경우, 게임 종료 후 업데이트를 받으시면 해당 사항이 적용됩니다.자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항게임 클라이언트의 안정화 작업이 진행되어, 간헐적으로 게임이 종료되던 현상이 완화되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"description": "",
 		"content_id": "13347",
 		"major": false,
 		"added": "2024-12-26"
@@ -225,7 +247,7 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13345&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/YFNV8P71TCNVL5TR20241226140028049.400x225.jpg",
 		"desc": "12월 26일(목) 웹 업데이트 사항을 안내드립니다.",
-		"description": "안녕하세요. 검은사막입니다.12월 26일 목요일 검은사막 웹 업데이트 사항을 안내해 드립니다. 자세한 내용은 아래를 참고하시어 이용에 불편이 없으시기 바랍니다. 수정 및 변경 사항검은사막+ 애플리케이션과 공식 홈페이지의 통합거래소에서 데드아이 클래스의 일부 의상명이 정상적으로 노출되지 않던 현상이 수정되었습니다. 늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
+		"description": "",
 		"content_id": "13345",
 		"major": false,
 		"added": "2024-12-26"
@@ -236,31 +258,9 @@
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13337&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/CHEL4AKNZ2P6SDYU20241224060600150.400x225.jpg",
 		"desc": "커너리 갱단의 두목 '데드아이' 출시 및 꿈결 환상마 지급,캐릭터 순서 변경 기능 등의 업데이트",
-		"description": "12월 24일(화) 업데이트 사항 정정 안내꿈결 환상마※ 꿈결 환상마 선택 상자를 통해 획득한 꿈결 환상마는 탑승물 성장 초기화 아이템을 이용하여 초기화를 진행하더라도 모든 기술 습득, 모든 기술의 숙련도 100% 상태가 계속 유지됩니다. (2024-12-24 10:00 내용 추가) UI캐릭터 순서 변경 기능게임 종료 화면의 '간소화 보기' 상태에서 배치된 캐릭터의 순서를 변경할 수 있는 기능이 추가되었습니다.※ 캐릭터 순서 변경 기능이 추가됨에 따라, 캐릭터 선택 창에서는 캐릭터 순서 변경을 이용할 수 없도록 변경되었습니...",
+		"description": "",
 		"content_id": "13337",
 		"major": true,
 		"added": "2024-12-24"
-	},
-	"13306": {
-		"title": "[검은사막+] 12월 20일(금) 업데이트 안내",
-		"date": "2024.12.20",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13306&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/LBMNKEGSX8T78BSK20241219162006514.400x225.jpg",
-		"desc": "12월 20일(금) 검은사막+ 최신 업데이트 내용을 안내드립니다.",
-		"description": "안녕하세요. 검은사막입니다.  12월 20일(금) 검은사막+ 최신 업데이트 내용을 안내드립니다.AOS 2.6.43iOS 2.6.23검은사막 전용 애플리케이션 검은사막+ 사용법과 관련된 자세한 내용은 [검은사막+ 모험가 가이드] 를 참고해 주세요. [검은사막+] 수정사항수정 및 변경 사항알림 기능의 사용성이 개선되었습니다. 검은사막에서 더욱 즐거운 시간을 보내시기 바랍니다.감사합니다.",
-		"content_id": "13306",
-		"major": false,
-		"added": "2024-12-20"
-	},
-	"13307": {
-		"title": "12월 20일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "2024.12.20",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13307&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/BVDF3LF5DRTQ4RE220241220101857485.400x225.jpg",
-		"desc": "12월 20일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"description": "안녕하세요. 검은사막입니다. 12월 20일 금요일 보안 모듈 최신 버전 업데이트 사항을 안내해 드립니다. 수정 및 변경 사항보안 모듈 호환성 강화 및 최신 버전 업데이트가 진행되었습니다.  늘 검은사막과 함께해주시는 모험가님들께 감사드립니다.",
-		"content_id": "13307",
-		"major": false,
-		"added": "2024-12-20"
 	}
 }
