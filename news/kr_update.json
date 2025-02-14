@@ -1,4 +1,15 @@
 {
+	"13543": {
+		"title": "2월 14일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2025.02.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13543&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/65MYGXNMH5AWFCS720250214105625078.400x225.jpg",
+		"desc": "2월 14일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"description": "",
+		"content_id": "13543",
+		"major": false,
+		"added": "2025-02-14"
+	},
 	"13538": {
 		"title": "2월 12일(수) 최신 버전 업데이트 안내",
 		"date": "2025.02.12",
@@ -251,16 +262,5 @@
 		"content_id": "13345",
 		"major": false,
 		"added": "2024-12-26"
-	},
-	"13337": {
-		"title": "12월 24일(화) 업데이트 안내",
-		"date": "2024.12.24",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13337&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/CHEL4AKNZ2P6SDYU20241224060600150.400x225.jpg",
-		"desc": "커너리 갱단의 두목 '데드아이' 출시 및 꿈결 환상마 지급,캐릭터 순서 변경 기능 등의 업데이트",
-		"description": "",
-		"content_id": "13337",
-		"major": true,
-		"added": "2024-12-24"
 	}
 }
