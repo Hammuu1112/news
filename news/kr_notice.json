@@ -1,4 +1,24 @@
 {
+	"2989": {
+		"title": "알려진 문제점",
+		"date": "2025.02.19",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
+		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
+		"description": "",
+		"content_id": "2989",
+		"added": "2024-05-20"
+	},
+	"13566": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/02/19)",
+		"date": "2025.02.19",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13566&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EREBEJF33Y5I2D8620250218232237562.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/02/19)",
+		"description": "",
+		"content_id": "13566",
+		"added": "2025-02-19"
+	},
 	"13562": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/02/17)",
 		"date": "2025.02.17",
@@ -10,7 +30,7 @@
 		"added": "2025-02-17"
 	},
 	"13561": {
-		"title": "2월 19일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"title": "[완료] 2월 19일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2025.02.17",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13561&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/WZSWCAI6JJZX49FL20250217165925742.400x225.jpg",
@@ -28,16 +48,6 @@
 		"description": "",
 		"content_id": "13555",
 		"added": "2025-02-14"
-	},
-	"2989": {
-		"title": "알려진 문제점",
-		"date": "2025.02.13",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
-		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
-		"description": "",
-		"content_id": "2989",
-		"added": "2024-05-20"
 	},
 	"13535": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/02/12)",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "13437",
 		"added": "2025-01-16"
-	},
-	"13428": {
-		"title": "채팅금지요청 개선 사항 안내",
-		"date": "2025.01.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13428&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/N1BN2KJP6K7AU4J320250114202649667.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "13428",
-		"added": "2025-01-15"
 	}
 }
