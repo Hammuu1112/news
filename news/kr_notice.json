@@ -1,4 +1,14 @@
 {
+	"13584": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/02/24)",
+		"date": "2025.02.24",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13584&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/4UNT5SWYMOS7M20X20250224174542363.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/02/24)",
+		"description": "",
+		"content_id": "13584",
+		"added": "2025-02-24"
+	},
 	"13581": {
 		"title": "2월 26일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2025.02.24",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "13451",
 		"added": "2025-01-20"
-	},
-	"13446": {
-		"title": "[정상화] 서버 불안정 현상 및 게임 접속이 원활하지 않은 현상 안내",
-		"date": "2025.01.18",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13446&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/2XJVHZY9FXCLBTPV20250118145457414.400x225.jpg",
-		"desc": "일부 모험가님께서 서버 불안정 현상 및 게임에 접속할 수 없는 현상이 확인되어 자세한 내용 및 원인 파악을 진행하고 있습니다.",
-		"description": "",
-		"content_id": "13446",
-		"added": "2025-01-18"
 	}
 }
