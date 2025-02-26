@@ -1,4 +1,15 @@
 {
+	"13597": {
+		"title": "2월 26일(수) 업데이트 안내",
+		"date": "2025.02.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13597&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ROXKDYHCH1SHGJD920250225192650671.400x225.jpg",
+		"desc": "솔라레의 창 리플레이 기능, 검은별 및 고드아이드 무기의 고대의 모루 수치 조정, 금돼지굴 사냥터 개선 등의 업데이트",
+		"description": "",
+		"content_id": "13597",
+		"major": true,
+		"added": "2025-02-26"
+	},
 	"13572": {
 		"title": "[검은사막+] 2월 20일(목) 업데이트 안내",
 		"date": "2025.02.20",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13370",
 		"major": false,
-		"added": "2024-12-31"
-	},
-	"13364": {
-		"title": "12월 31일(화) 업데이트 안내",
-		"date": "2024.12.31",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13364&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2024/NZZV2Q06UC2URSP320241231074119154.400x225.jpg",
-		"desc": "검은 사당 - 동해도(개인) : 팔/구/십재시니, 순수한 마력 덩어리 및 세스라의 유물 - 무역 경험치 획득처 추가, [베니아] 메르브의 수선도구 개선 등의 업데이트",
-		"description": "",
-		"content_id": "13364",
-		"major": true,
 		"added": "2024-12-31"
 	}
 }
