@@ -1,14 +1,4 @@
 {
-	"13602": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/02/27)",
-		"date": "2025.02.27",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13602&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/2YZJDWRHJEZS1FED20250227161450168.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/02/27)",
-		"description": "",
-		"content_id": "13602",
-		"added": "2025-02-27"
-	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.02.27",
@@ -18,6 +8,16 @@
 		"description": "",
 		"content_id": "2989",
 		"added": "2024-05-20"
+	},
+	"13602": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/02/27)",
+		"date": "2025.02.27",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13602&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/2YZJDWRHJEZS1FED20250227161450168.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/02/27)",
+		"description": "",
+		"content_id": "13602",
+		"added": "2025-02-27"
 	},
 	"13598": {
 		"title": "현재 사용 중인 마일리지 초기화 및 시스템 개편 안내",
