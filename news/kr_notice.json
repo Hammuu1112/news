@@ -1,4 +1,14 @@
 {
+	"13609": {
+		"title": "3월 5일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2025.03.04",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13609&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/7IBBA0BBROAY3AX920250304101736128.400x225.jpg",
+		"desc": "3월 5일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "13609",
+		"added": "2025-03-04"
+	},
 	"13607": {
 		"title": "[완료] 2월 28일(금) 통합 거래소 점검 안내",
 		"date": "2025.02.28",
@@ -227,16 +237,6 @@
 		"desc": "운영정책 위반 사용자 조치 안내 (2025/01/24)",
 		"description": "",
 		"content_id": "13478",
-		"added": "2025-01-24"
-	},
-	"13475": {
-		"title": "1월 29일(수) 정기점검 미진행 안내",
-		"date": "2025.01.24",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13475&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/Q50MGEKOWJ3P0Y2L20250124143658759.400x225.jpg",
-		"desc": "1월 29일(수) 정기점검 미진행 안내",
-		"description": "",
-		"content_id": "13475",
 		"added": "2025-01-24"
 	}
 }
