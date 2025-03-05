@@ -1,4 +1,48 @@
 {
+	"13628": {
+		"title": "봄과 함께 찾아온 달의 축복!",
+		"deadline": "2025-03-26",
+		"count": "22 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13628&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/Z5S23IE9OEX8N2T020250304192311949.400x225.jpg",
+		"description": "",
+		"content_id": "13628",
+		"new_tag": true,
+		"added": "2025-03-05"
+	},
+	"13627": {
+		"title": "흑정령 챌린지 2차 : 성취(붉은 전장, 아토락시온)",
+		"deadline": "2025-03-19",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13627&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/OF7CU58E1B3YCZHY20250304192159032.400x225.png",
+		"description": "",
+		"content_id": "13627",
+		"new_tag": true,
+		"added": "2025-03-05"
+	},
+	"13626": {
+		"title": "마지막 겨울을 녹여버릴 핫타임이 찾아왔어요!",
+		"deadline": "2025-03-19",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13626&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/C44D7U4P6JJ9PPTU20250304192050346.400x225.jpg",
+		"description": "",
+		"content_id": "13626",
+		"new_tag": true,
+		"added": "2025-03-05"
+	},
+	"13625": {
+		"title": "빠르게 등장하는 순수한 선원, 획득 경험치도 2배 UP!",
+		"deadline": "2025-03-19",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13625&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/JOZNW1P51DBJQIHI20250304191915599.400x225.jpg",
+		"description": "",
+		"content_id": "13625",
+		"new_tag": true,
+		"added": "2025-03-05"
+	},
 	"13596": {
 		"title": "온누리에 울려퍼진 그날의 함성!",
 		"deadline": "2025-03-05",
@@ -7,7 +51,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/I270DQDBX0RRYTY320250225183256817.400x225.png",
 		"description": "",
 		"content_id": "13596",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-02-26"
 	},
 	"13595": {
@@ -18,7 +62,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/70MUUESS0MTT9FBU20250225183119143.400x225.jpg",
 		"description": "",
 		"content_id": "13595",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-02-26"
 	},
 	"13593": {
@@ -29,7 +73,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/TGSUH7KV428X9YZL20250225185304719.400x225.jpg",
 		"description": "",
 		"content_id": "13593",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-02-26"
 	},
 	"13592": {
@@ -40,7 +84,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/2YYQKUR7FTWTOG1P20250225180248940.400x225.jpg",
 		"description": "",
 		"content_id": "13592",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-02-26"
 	},
 	"13532": {
@@ -51,19 +95,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/9BNT3M4IPSKZ03KC20250211195423780.400x225.png",
 		"description": "",
 		"content_id": "13532",
-		"new_tag": true,
-		"added": "2025-02-12"
-	},
-	"13463": {
-		"title": "놓쳐서 아쉬웠던 보상 총출동! 데일리 스페셜 & 스페셜 패스!",
-		"deadline": "2025-03-05",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13463&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/1BVIA64NCQTZH95620250121204633568.400x225.jpg",
-		"description": "",
-		"content_id": "13463",
 		"new_tag": false,
-		"added": "2025-01-22"
+		"added": "2025-02-12"
 	},
 	"13462": {
 		"title": "나만의 개성으로 꾸며보자! 캐릭터 선택화면 사생대회!",

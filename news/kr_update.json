@@ -1,4 +1,15 @@
 {
+	"13631": {
+		"title": "3월 5일(수) 업데이트 안내",
+		"date": "2025.03.05",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13631&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/PVPBGRAJ6BUCZPZ020250305064153454.400x225.jpg",
+		"desc": "부선장, 선원 관리 UI, 솔라레의 창 등급별 테두리 및 상시 입장 금돼지굴 사냥터 등의 업데이트",
+		"description": "",
+		"content_id": "13631",
+		"major": true,
+		"added": "2025-03-05"
+	},
 	"13605": {
 		"title": "2월 28일(금) 최신 버전 업데이트 안내",
 		"date": "2025.02.28",
@@ -251,16 +262,5 @@
 		"content_id": "13398",
 		"major": true,
 		"added": "2025-01-08"
-	},
-	"13388": {
-		"title": "1월 7일(화) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "2025.01.07",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13388&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MP4XBAUT73VOM05A20250106184632929.400x225.jpg",
-		"desc": "1월 7일(화) 보안 모듈 최신 버전 업데이트 안내",
-		"description": "",
-		"content_id": "13388",
-		"major": false,
-		"added": "2025-01-07"
 	}
 }
