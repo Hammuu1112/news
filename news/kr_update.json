@@ -1,4 +1,15 @@
 {
+	"13634": {
+		"title": "3월 5일(수) 최신 버전 업데이트 안내",
+		"date": "2025.03.05",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13634&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/TX5AS9YQFFP2PGG820250305133431098.400x225.jpg",
+		"desc": "3월 5일(수) 최신 버전 업데이트 사항을 안내해 드립니다.",
+		"description": "",
+		"content_id": "13634",
+		"major": false,
+		"added": "2025-03-05"
+	},
 	"13631": {
 		"title": "3월 5일(수) 업데이트 안내",
 		"date": "2025.03.05",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13405",
 		"major": false,
-		"added": "2025-01-08"
-	},
-	"13398": {
-		"title": "1월 8일(수) 업데이트 안내",
-		"date": "2025.01.08",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13398&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/9VUUSID6CJ8FACGE20250108053538667.400x225.jpg",
-		"desc": "프리오네 액세서리 및 생활 숙련도 확장, 생활 숙련도 도구 추가와 생활 장비 변경 사항, 아이템 이동/보관 기능 확장 등의 업데이트",
-		"description": "",
-		"content_id": "13398",
-		"major": true,
 		"added": "2025-01-08"
 	}
 }
