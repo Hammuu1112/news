@@ -1,4 +1,15 @@
 {
+	"13655": {
+		"title": "3월 12일(수) 업데이트 안내",
+		"date": "2025.03.12",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13655&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KEYJHR4CYFMSFJSO20250312063926414.400x225.png",
+		"desc": "하드코어 프리시즌 시작, 캐릭터 밸런스 조정 등의 업데이트",
+		"description": "",
+		"content_id": "13655",
+		"major": true,
+		"added": "2025-03-12"
+	},
 	"13634": {
 		"title": "3월 5일(수) 최신 버전 업데이트 안내",
 		"date": "2025.03.05",
@@ -251,16 +262,5 @@
 		"content_id": "13408",
 		"major": false,
 		"added": "2025-01-09"
-	},
-	"13405": {
-		"title": "1월 8일(수) 순차 점검 업데이트 안내",
-		"date": "2025.01.08",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13405&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MYRWD6FNFGPIY4VG20250108185010621.400x225.jpg",
-		"desc": "1월 8일(수) 순차 점검 업데이트 사항을 안내해 드립니다.",
-		"description": "",
-		"content_id": "13405",
-		"major": false,
-		"added": "2025-01-08"
 	}
 }
