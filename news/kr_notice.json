@@ -1,4 +1,14 @@
 {
+	"13660": {
+		"title": "[완료] 3월 12일(수) 하드코어 서버 점검 안내",
+		"date": "2025.03.12",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13660&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3MU7AX7SFIZLQF4O20250312172814163.400x225.jpg",
+		"desc": "3월 12일 수요일 하드코어 서버 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "13660",
+		"added": "2025-03-12"
+	},
 	"13659": {
 		"title": "[완료] 하드코어 서버 퇴장 시 적용되지 않던 모험일지 능력치 적용 완료 안내",
 		"date": "2025.03.12",
@@ -227,16 +237,6 @@
 		"desc": "운영정책 위반 사용자 조치 안내 (2025/02/07)",
 		"description": "",
 		"content_id": "13519",
-		"added": "2025-02-12"
-	},
-	"13517": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/02/06)",
-		"date": "2025.02.06",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13517&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/F98P7S608O4WXYDU20250206192131018.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/02/06)",
-		"description": "",
-		"content_id": "13517",
 		"added": "2025-02-12"
 	}
 }
