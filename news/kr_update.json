@@ -1,4 +1,15 @@
 {
+	"13666": {
+		"title": "3월 14일(금) 일부 서버 점검 업데이트 안내",
+		"date": "2025.03.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13666&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/HZ23WQNGVLXNYGB320250314163507836.400x225.jpg",
+		"desc": "3월 14일(금) 일부 서버 점검 업데이트 사항을 안내해 드립니다.",
+		"description": "",
+		"content_id": "13666",
+		"major": false,
+		"added": "2025-03-14"
+	},
 	"13664": {
 		"title": "3월 14일(금) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2025.03.14",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13436",
 		"major": false,
-		"added": "2025-01-15"
-	},
-	"13435": {
-		"title": "1월 15일(수) 업데이트 안내",
-		"date": "2025.01.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13435&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/60YMV3MIWXJL8E1Y20250115054816235.400x225.jpg",
-		"desc": "환상마 볼타리온, 데드아이 기술 심화 및 흑정령의 분노 확장, 탑승물 성장 시뮬레이터와 메모장 기능 확장 등의 업데이트",
-		"description": "",
-		"content_id": "13435",
-		"major": true,
 		"added": "2025-01-15"
 	}
 }

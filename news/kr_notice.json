@@ -1,4 +1,14 @@
 {
+	"13665": {
+		"title": "3월 14일(금) 하드코어 서버 점검 안내",
+		"date": "2025.03.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13665&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KW27E3AZGK31NXJE20250314134545035.400x225.jpg",
+		"desc": "3월 14일 금요일 하드코어 서버 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "13665",
+		"added": "2025-03-14"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.03.13",
@@ -227,16 +237,6 @@
 		"desc": "2월 12일 수요일 검은사막 정기점검이 진행될 예정입니다.",
 		"description": "",
 		"content_id": "13523",
-		"added": "2025-02-12"
-	},
-	"13519": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/02/07)",
-		"date": "2025.02.07",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13519&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/J9PHXW9SWQPQQ2DZ20250207171751273.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/02/07)",
-		"description": "",
-		"content_id": "13519",
 		"added": "2025-02-12"
 	}
 }
