@@ -1,4 +1,15 @@
 {
+	"13702": {
+		"title": "3월 21일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2025.03.21",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13702&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/A8D946NEC00P1IPO20250321101314859.400x225.jpg",
+		"desc": "3월 21일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"description": "",
+		"content_id": "13702",
+		"major": false,
+		"added": "2025-03-21"
+	},
 	"13695": {
 		"title": "3월 19일(수) 최신 버전 업데이트 안내",
 		"date": "2025.03.19",
@@ -251,16 +262,5 @@
 		"content_id": "13471",
 		"major": false,
 		"added": "2025-01-23"
-	},
-	"13457": {
-		"title": "1월 22일(수) 업데이트 안내",
-		"date": "2025.01.22",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13457&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DU403H9Q3TV9KUQE20250121201043474.400x225.jpg",
-		"desc": "솔라레의 창 정규 시즌, 일꾼 콘텐츠 개선 사항, 의뢰 검색 기능과 보유 중인 물고기 가격 안내 기능 등의 업데이트",
-		"description": "",
-		"content_id": "13457",
-		"major": true,
-		"added": "2025-01-22"
 	}
 }
