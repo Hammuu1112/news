@@ -1,4 +1,15 @@
 {
+	"13720": {
+		"title": "3월 26일(수) 업데이트 안내",
+		"date": "2025.03.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13720&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/C7PMRW8Y0NBKTQ0W20250326064146307.400x225.png",
+		"desc": "아토락시온 오르제키아, 클래스 밸런스 조정, 길드 임무 개편, 길드 리그 등의 업데이트",
+		"description": "",
+		"content_id": "13720",
+		"major": true,
+		"added": "2025-03-26"
+	},
 	"13702": {
 		"title": "3월 21일(금) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2025.03.21",
@@ -251,16 +262,5 @@
 		"content_id": "13476",
 		"major": false,
 		"added": "2025-01-24"
-	},
-	"13471": {
-		"title": "1월 22일(수) 최신 버전 업데이트 안내",
-		"date": "2025.01.22",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13471&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0BJU78TXWTBLCK9A20250122185003847.400x225.jpg",
-		"desc": "1월 22일(수) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "",
-		"content_id": "13471",
-		"major": false,
-		"added": "2025-01-23"
 	}
 }

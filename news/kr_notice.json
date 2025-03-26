@@ -1,7 +1,27 @@
 {
+	"13719": {
+		"title": "검은사막 런처 '오류보고' 기능 최신 버전 업데이트 안내",
+		"date": "2025.03.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13719&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DVYD5XUK5TDHOCIB20250325212119546.400x225.jpg",
+		"desc": "검은사막 런처 오류보고 기능의 업데이트를 위한 점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "13719",
+		"added": "2025-03-26"
+	},
+	"13717": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/03/26)",
+		"date": "2025.03.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13717&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MJCEVXYCPIWLG4X820250325202615184.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/03/26)",
+		"description": "",
+		"content_id": "13717",
+		"added": "2025-03-26"
+	},
 	"2989": {
 		"title": "알려진 문제점",
-		"date": "2025.03.25",
+		"date": "2025.03.26",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
 		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
@@ -10,7 +30,7 @@
 		"added": "2024-05-20"
 	},
 	"13708": {
-		"title": "3월 26일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"title": "[완료] 3월 26일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2025.03.24",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13708&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/D7IK065BP1QZVBK820250324114122864.400x225.jpg",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "13581",
 		"added": "2025-02-24"
-	},
-	"13573": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/02/20)",
-		"date": "2025.02.20",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13573&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/153K9P5H5LD0P9ZC20250220165149291.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/02/20)",
-		"description": "",
-		"content_id": "13573",
-		"added": "2025-02-20"
-	},
-	"13566": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/02/19)",
-		"date": "2025.02.19",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13566&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EREBEJF33Y5I2D8620250218232237562.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/02/19)",
-		"description": "",
-		"content_id": "13566",
-		"added": "2025-02-19"
 	}
 }
