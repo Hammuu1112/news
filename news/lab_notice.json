@@ -1,6 +1,16 @@
 {
+	"7696": {
+		"title": "3월 28일(금) 서비스 정기점검 안내",
+		"date": "2025.03.27 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7696",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/03/26/67b12da057620250326043758840.400x225.jpg",
+		"desc": "공지사항",
+		"description": "",
+		"content_id": "7696",
+		"added": "2025-03-27"
+	},
 	"7699": {
-		"title": "3월 27일(목) 일부 서버 점검 안내",
+		"title": "[완료] 3월 27일(목) 일부 서버 점검 안내",
 		"date": "2025.03.26 (UTC+3)",
 		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7699",
 		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/03/26/8cbaed0977820250326044746970.400x225.jpg",
@@ -227,16 +237,6 @@
 		"desc": "공지사항",
 		"description": "",
 		"content_id": "7420",
-		"added": "2024-12-04"
-	},
-	"7419": {
-		"title": "[완료] 11월 22일(금) 서비스 정기점검 안내",
-		"date": "2024.11.20 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7419",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/I6SXWWQUZWSYBF0O20241120114352535.400x225.400x225.jpg",
-		"desc": "공지사항",
-		"description": "",
-		"content_id": "7419",
 		"added": "2024-12-04"
 	}
 }
