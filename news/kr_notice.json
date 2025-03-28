@@ -1,4 +1,14 @@
 {
+	"13753": {
+		"title": "[정상화] 검은사막 클라이언트 다운로드 불가 현상 안내",
+		"date": "2025.03.28",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13753&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/RTS2XVQP6X6FP3CA20250328173700954.400x225.jpg",
+		"desc": "검은사막 클라이언트 다운로드가 불가다하는 모험가님들의 문의가 접수되어 자세한 내용을 확인 중입니다.",
+		"description": "",
+		"content_id": "13753",
+		"added": "2025-03-28"
+	},
 	"13752": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/03/28)",
 		"date": "2025.03.28",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "13607",
 		"added": "2025-02-28"
-	},
-	"13602": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/02/27)",
-		"date": "2025.02.27",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13602&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/2YZJDWRHJEZS1FED20250227161450168.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/02/27)",
-		"description": "",
-		"content_id": "13602",
-		"added": "2025-02-27"
 	}
 }

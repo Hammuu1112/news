@@ -1,4 +1,15 @@
 {
+	"7709": {
+		"title": "3월 28일(금) 업데이트 안내",
+		"date": "2025.03.28 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7709",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/03/28/fd0c61bda2a20250328085448346.400x225.jpg",
+		"desc": "업데이트",
+		"description": "",
+		"content_id": "7709",
+		"major": true,
+		"added": "2025-03-28"
+	},
 	"7690": {
 		"title": "3월 24일(월) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2025.03.24 (UTC+3)",
@@ -251,16 +262,5 @@
 		"content_id": "7425",
 		"major": true,
 		"added": "2024-12-04"
-	},
-	"7421": {
-		"title": "11월 22일(금) 업데이트 안내",
-		"date": "2024.11.22 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7421",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/LSIJ6LNEZ5ENOX9920241122115109992.400x225.400x225.jpg",
-		"desc": "업데이트",
-		"description": "",
-		"content_id": "7421",
-		"major": true,
-		"added": "2024-12-03"
 	}
 }
