@@ -1,4 +1,14 @@
 {
+	"7713": {
+		"title": "4월 4일(금) 서비스 정기점검 안내",
+		"date": "2025.04.02 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7713",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/04/01/25caa05792820250401021327110.400x225.jpg",
+		"desc": "공지사항",
+		"description": "",
+		"content_id": "7713",
+		"added": "2025-04-02"
+	},
 	"7696": {
 		"title": "[완료] 3월 28일(금) 서비스 정기점검 안내",
 		"date": "2025.03.27 (UTC+3)",
@@ -227,16 +237,6 @@
 		"desc": "공지사항",
 		"description": "",
 		"content_id": "7422",
-		"added": "2024-12-04"
-	},
-	"7420": {
-		"title": "Global Lab Login Method Change Details",
-		"date": "2024.11.22 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7420",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/KH2STEQXKR6TI85620241122082044781.400x225.400x225.jpg",
-		"desc": "공지사항",
-		"description": "",
-		"content_id": "7420",
 		"added": "2024-12-04"
 	}
 }
