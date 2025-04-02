@@ -1,25 +1,58 @@
 {
-	"13751": {
-		"title": "얼렁뚱땅, 만우절 기운이 흩뿌린 엉뚱한 아이템을 찾아서",
-		"deadline": "2025-04-02",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13751&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/88ICIL2KDX9A1B1R20250328160001079.400x225.jpg",
-		"description": "",
-		"content_id": "13751",
-		"new_tag": true,
-		"added": "2025-03-28"
-	},
 	"13733": {
 		"title": "[진행중인 이벤트 모아보기]",
 		"deadline": "-",
 		"count": "상시",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/WOCV94CAHT4UBNLR20250326085121111.400x225.png",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/RQRSC7CV5YTRMUGW20250402090022248.400x225.png",
 		"description": "",
 		"content_id": "13733",
 		"new_tag": true,
 		"added": "2025-03-26"
+	},
+	"13773": {
+		"title": "[검사학교] 특강 방송 - 성장 II/뷰티 계열",
+		"deadline": "2025-04-03",
+		"count": "2 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13773&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IKVS93V7VB01LBZE20250401213128663.400x225.png",
+		"description": "",
+		"content_id": "13773",
+		"new_tag": true,
+		"added": "2025-04-02"
+	},
+	"13772": {
+		"title": "전 권역 모험가님들의 선택, 보물 찾기/낚시 특별 수업 OPEN",
+		"deadline": "2025-04-16",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13772&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ELU8ARWY5M4JC0JZ20250401212941330.400x225.jpg",
+		"description": "",
+		"content_id": "13772",
+		"new_tag": true,
+		"added": "2025-04-02"
+	},
+	"13771": {
+		"title": "고요한 적막이 흐르는 곳에서, 침묵의 밤. 데일리 스페셜 패스",
+		"deadline": "2025-06-18",
+		"count": "78 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13771&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0FYWEEHS6J80PW4X20250401212730810.400x225.png",
+		"description": "",
+		"content_id": "13771",
+		"new_tag": true,
+		"added": "2025-04-02"
+	},
+	"13770": {
+		"title": "따스한 봄의 기운과 함께, 일일 접속 보상!",
+		"deadline": "2025-05-07",
+		"count": "36 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13770&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6UHUREJRPVQJG15H20250401212618102.400x225.jpg",
+		"description": "",
+		"content_id": "13770",
+		"new_tag": true,
+		"added": "2025-04-02"
 	},
 	"13725": {
 		"title": "마침내 공개된 아토락시온 최종장. 오랜 여정을 기념하는 아토락시온의 수호자.",
@@ -29,7 +62,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/RAOKLA0SN5L9X24K20250325230438739.400x225.jpg",
 		"description": "",
 		"content_id": "13725",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-03-26"
 	},
 	"13724": {
@@ -40,7 +73,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MMO7F3ZNN3MJ92P720250325230112817.400x225.jpg",
 		"description": "",
 		"content_id": "13724",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-03-26"
 	},
 	"13723": {
@@ -51,7 +84,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MS05HFN7VMLDZ7Z320250325223041566.400x225.jpg",
 		"description": "",
 		"content_id": "13723",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-03-26"
 	},
 	"13722": {
@@ -62,7 +95,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/LIZHWJXGERVBO0XK20250325222925097.400x225.png",
 		"description": "",
 		"content_id": "13722",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-03-26"
 	},
 	"13721": {
@@ -73,7 +106,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/T17W94XXRJJZBM2R20250325222755775.400x225.jpg",
 		"description": "",
 		"content_id": "13721",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-03-26"
 	},
 	"13715": {
@@ -84,19 +117,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/7PD6KJV8U23AMMTW20250325221245477.400x225.png",
 		"description": "",
 		"content_id": "13715",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-03-26"
-	},
-	"13683": {
-		"title": "검사학교, 우리 학급의 반장은 바로 나!",
-		"deadline": "2025-04-09",
-		"count": "8 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13683&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/5LFCQXTTGE067YHC20250318153244350.400x225.jpg",
-		"description": "",
-		"content_id": "13683",
-		"new_tag": true,
-		"added": "2025-03-19"
 	},
 	"13684": {
 		"title": "[시즌 : 검사학교] 동(V) 우두머리 선택 상자, 초고속 성장까지!",
@@ -106,6 +128,17 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FHSTOQWV2KIB6ZR720250318154508270.400x225.jpg",
 		"description": "",
 		"content_id": "13684",
+		"new_tag": false,
+		"added": "2025-03-19"
+	},
+	"13683": {
+		"title": "검사학교, 우리 학급의 반장은 바로 나!",
+		"deadline": "2025-04-09",
+		"count": "8 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13683&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/5LFCQXTTGE067YHC20250318153244350.400x225.jpg",
+		"description": "",
+		"content_id": "13683",
 		"new_tag": false,
 		"added": "2025-03-19"
 	},
@@ -229,38 +262,5 @@
 		"content_id": "10366",
 		"new_tag": false,
 		"added": "2025-01-31"
-	},
-	"6968": {
-		"title": "검은사막 PC방 혜택 안내",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
-		"description": "",
-		"content_id": "6968",
-		"new_tag": false,
-		"added": "2025-01-31"
-	},
-	"10363": {
-		"title": "여름 시즌, 여러분의 성장을 시원하게 도와줄 시즌 패스!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10363&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/72W2EQK3FLPMWSVZ20230523200348445.400x225.jpg",
-		"description": "",
-		"content_id": "10363",
-		"new_tag": false,
-		"added": "2025-02-01"
-	},
-	"10335": {
-		"title": "더욱 커진 핫타임 혜택과 함께하는 모험!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10335&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/B2MZI4RO8IKV60CY20230517141501285.400x225.jpg",
-		"description": "",
-		"content_id": "10335",
-		"new_tag": false,
-		"added": "2025-02-01"
 	}
 }
