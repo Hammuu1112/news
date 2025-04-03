@@ -10,17 +10,6 @@
 		"new_tag": true,
 		"added": "2025-03-26"
 	},
-	"13773": {
-		"title": "[검사학교] 특강 방송 - 성장 II/뷰티 계열",
-		"deadline": "2025-04-03",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13773&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IKVS93V7VB01LBZE20250401213128663.400x225.png",
-		"description": "",
-		"content_id": "13773",
-		"new_tag": true,
-		"added": "2025-04-02"
-	},
 	"13772": {
 		"title": "전 권역 모험가님들의 선택, 보물 찾기/낚시 특별 수업 OPEN",
 		"deadline": "2025-04-16",
@@ -260,6 +249,17 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
 		"description": "",
 		"content_id": "6968",
+		"new_tag": false,
+		"added": "2025-04-03"
+	},
+	"10363": {
+		"title": "여름 시즌, 여러분의 성장을 시원하게 도와줄 시즌 패스!",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10363&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/72W2EQK3FLPMWSVZ20230523200348445.400x225.jpg",
+		"description": "",
+		"content_id": "10363",
 		"new_tag": false,
 		"added": "2025-04-03"
 	}
