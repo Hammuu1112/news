@@ -1,4 +1,15 @@
 {
+	"13781": {
+		"title": "4월 5일(토) 최신 버전 업데이트 안내",
+		"date": "2025.04.05",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13781&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/LMFF7HYY3587QK9B20250405131101476.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "13781",
+		"major": false,
+		"added": "2025-04-05"
+	},
 	"13775": {
 		"title": "4월 2일(수) 업데이트 안내",
 		"date": "2025.04.02",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13510",
 		"major": false,
-		"added": "2025-02-06"
-	},
-	"13508": {
-		"title": "2월 5일(수) 업데이트 안내",
-		"date": "2025.02.05",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13508&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/UPWWV1CGWHA1V6WF20250205073439075.400x225.jpg",
-		"desc": "물물교환 콘텐츠 편의 기능 추가 및 교역품 교환 개선, 대양 사냥터 개선 및 항해 의뢰 보상 강화, 루살카 해원석 추가, 솔라레의 창 전장 테두리, 소셜 액션, 퀵슬롯 등록, 월드맵 키보드 이동 기능 등의 업데이트",
-		"description": "",
-		"content_id": "13508",
-		"major": true,
 		"added": "2025-02-06"
 	}
 }
