@@ -1,4 +1,15 @@
 {
+	"13789": {
+		"title": "[검은사막+] 4월 8일(화) 업데이트 안내",
+		"date": "2025.04.08",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13789&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/GFVRTR7ZWEZ3BF4I20250408104128918.400x225.jpg",
+		"desc": "4월 8일(화) 검은사막+ 최신 업데이트 내용을 안내드립니다.",
+		"description": "",
+		"content_id": "13789",
+		"major": false,
+		"added": "2025-04-08"
+	},
 	"13781": {
 		"title": "4월 5일(토) 최신 버전 업데이트 안내",
 		"date": "2025.04.05",
@@ -249,17 +260,6 @@
 		"desc": "2월 5일(수) 최신 버전 업데이트 사항을 안내해 드립니다.",
 		"description": "",
 		"content_id": "13516",
-		"major": false,
-		"added": "2025-02-06"
-	},
-	"13510": {
-		"title": "2월 5일(수) 임시 점검 업데이트 안내",
-		"date": "2025.02.05",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13510&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YW3ISYCKKMHHLNKH20250205133801449.400x225.jpg",
-		"desc": "2월 5일 수요일 임시 점검 업데이트 사항을 안내드립니다.",
-		"description": "",
-		"content_id": "13510",
 		"major": false,
 		"added": "2025-02-06"
 	}
