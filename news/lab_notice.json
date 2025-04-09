@@ -1,4 +1,14 @@
 {
+	"7732": {
+		"title": "4월 11일(금) 서비스 정기점검 안내",
+		"date": "2025.04.09 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7732",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/04/09/3be9fca8e1f20250409021025622.400x225.jpg",
+		"desc": "공지사항",
+		"description": "",
+		"content_id": "7732",
+		"added": "2025-04-09"
+	},
 	"7713": {
 		"title": "[완료] 4월 4일(금) 서비스 정기점검 안내",
 		"date": "2025.04.02 (UTC+3)",
@@ -227,16 +237,6 @@
 		"desc": "공지사항",
 		"description": "",
 		"content_id": "7423",
-		"added": "2024-12-04"
-	},
-	"7422": {
-		"title": "[완료] 11월 28일(목) 검은사막 연구소 임시 점검 안내",
-		"date": "2024.11.25 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7422",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/thumbnail/2024/AKMDIVJPEUN2315820241125084236525.400x225.400x225.jpg",
-		"desc": "공지사항",
-		"description": "",
-		"content_id": "7422",
 		"added": "2024-12-04"
 	}
 }
