@@ -1,4 +1,15 @@
 {
+	"13802": {
+		"title": "4월 9일(수) 업데이트 안내",
+		"date": "2025.04.09",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13802&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/M23C8JRGVJFCDH9I20250408175842391.400x225.jpg",
+		"desc": "어류 도감, 물물 교환 UI 개선, 어둠의 틈 개선, 클래스 밸런스 조정 등의 업데이트",
+		"description": "",
+		"content_id": "13802",
+		"major": true,
+		"added": "2025-04-09"
+	},
 	"13789": {
 		"title": "[검은사막+] 4월 8일(화) 업데이트 안내",
 		"date": "2025.04.08",
@@ -251,16 +262,5 @@
 		"content_id": "13537",
 		"major": true,
 		"added": "2025-02-12"
-	},
-	"13516": {
-		"title": "2월 5일(수) 최신 버전 업데이트 안내",
-		"date": "2025.02.05",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13516&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MZ8M9J750OLT9N3W20250205220324519.400x225.jpg",
-		"desc": "2월 5일(수) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "",
-		"content_id": "13516",
-		"major": false,
-		"added": "2025-02-06"
 	}
 }
