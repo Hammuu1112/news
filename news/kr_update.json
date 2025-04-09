@@ -1,4 +1,15 @@
 {
+	"13806": {
+		"title": "4월 9일(수) 최신 버전 업데이트 안내",
+		"date": "2025.04.09",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13806&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/HMYVFRVA34EOWN5K20250409171215978.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "13806",
+		"major": false,
+		"added": "2025-04-09"
+	},
 	"13802": {
 		"title": "4월 9일(수) 업데이트 안내",
 		"date": "2025.04.09",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13538",
 		"major": false,
-		"added": "2025-02-12"
-	},
-	"13537": {
-		"title": "2월 12일(수) 업데이트 안내",
-		"date": "2025.02.12",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13537&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YAS7IAWIH1VOCXZY20250212055315488.400x225.jpg",
-		"desc": "황혼의 날개, 긴급 회피 개선, 클래스 변경 사항, 눈꽃 설원 : 질주, 바다의 눈물이 담긴 에벤루스의 놀, 에벤루스의 놀 내구도 제거, 바다 지형 개선, 작업 중인 일꾼의 기술 변경, 일꾼 거래소 필터 기능 추가, 메이드/집사 창고에 자동 넣기 기능 등의 업데이트",
-		"description": "",
-		"content_id": "13537",
-		"major": true,
 		"added": "2025-02-12"
 	}
 }
