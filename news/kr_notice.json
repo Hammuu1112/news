@@ -1,4 +1,14 @@
 {
+	"13812": {
+		"title": "4월 16일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2025.04.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13812&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/JL98E31L7OENFU4H20250414112821026.400x225.jpg",
+		"desc": "4월 16일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "13812",
+		"added": "2025-04-14"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.04.11",
@@ -227,16 +237,6 @@
 		"desc": "3월 12일 수요일 하드코어 서버 점검을 안내해 드립니다.",
 		"description": "",
 		"content_id": "13660",
-		"added": "2025-03-12"
-	},
-	"13659": {
-		"title": "[완료] 하드코어 서버 퇴장 시 적용되지 않던 모험일지 능력치 적용 완료 안내",
-		"date": "2025.03.12",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13659&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/76G3IYIT0AEH5ZI620250312155512900.400x225.jpg",
-		"desc": "작업이 완료된 15:35 이후부터는 현재 정상적으로 게임 이용이 가능한 점 안내해 드립니다.",
-		"description": "",
-		"content_id": "13659",
 		"added": "2025-03-12"
 	}
 }
