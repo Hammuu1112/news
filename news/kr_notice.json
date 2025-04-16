@@ -1,14 +1,4 @@
 {
-	"13830": {
-		"title": "4월 16일(수) 서버 임시 점검 안내",
-		"date": "2025.04.16",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13830&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/18R0VTBVHOGCQ7UX20250416162950906.400x225.jpg",
-		"desc": "4월 16일 서버 임시 점검을 안내해 드립니다.",
-		"description": "",
-		"content_id": "13830",
-		"added": "2025-04-16"
-	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.04.16",
@@ -18,6 +8,16 @@
 		"description": "",
 		"content_id": "2989",
 		"added": "2024-05-20"
+	},
+	"13830": {
+		"title": "[완료] 4월 16일(수) 서버 임시 점검 안내",
+		"date": "2025.04.16",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13830&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/18R0VTBVHOGCQ7UX20250416162950906.400x225.jpg",
+		"desc": "4월 16일 서버 임시 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "13830",
+		"added": "2025-04-16"
 	},
 	"13812": {
 		"title": "[완료] 4월 16일(수) 서비스 정기점검 및 홈페이지 점검 안내",
