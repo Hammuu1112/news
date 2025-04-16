@@ -1,4 +1,15 @@
 {
+	"13826": {
+		"title": "4월 16일(수) 업데이트 안내",
+		"date": "2025.04.16",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13826&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FAG81J0Q2R853OE820250416061045474.400x225.png",
+		"desc": "금돼지왕 팔/구/십재시니 추가, 다른 마을 창고 아이템 판매, 클래스 밸런스 조정 등의 업데이트",
+		"description": "",
+		"content_id": "13826",
+		"major": true,
+		"added": "2025-04-16"
+	},
 	"13806": {
 		"title": "4월 9일(수) 최신 버전 업데이트 안내",
 		"date": "2025.04.09",
@@ -251,16 +262,5 @@
 		"content_id": "13543",
 		"major": false,
 		"added": "2025-02-14"
-	},
-	"13538": {
-		"title": "2월 12일(수) 최신 버전 업데이트 안내",
-		"date": "2025.02.12",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13538&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KPN86WJ6M909SU7320250212180224274.400x225.jpg",
-		"desc": "2월 12일(수) 최신 버전 업데이트 사항을 안내해 드립니다.",
-		"description": "",
-		"content_id": "13538",
-		"major": false,
-		"added": "2025-02-12"
 	}
 }
