@@ -1,4 +1,24 @@
 {
+	"13840": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/04/21)",
+		"date": "2025.04.21",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13840&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MXNNZJ9LB54TYKW720250421162433501.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/04/21)",
+		"description": "",
+		"content_id": "13840",
+		"added": "2025-04-21"
+	},
+	"13835": {
+		"title": "4월 23일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2025.04.21",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13835&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/2E5G19PED8BNA03P20250421103857513.400x225.jpg",
+		"desc": "4월 23일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "13835",
+		"added": "2025-04-21"
+	},
 	"13834": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/04/18)",
 		"date": "2025.04.18",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "13685",
 		"added": "2025-03-19"
-	},
-	"13672": {
-		"title": "[완료] 3월 19일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2025.03.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13672&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YJ77GOIXFEAGRKDS20250317120034505.400x225.jpg",
-		"desc": "3월 19일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "13672",
-		"added": "2025-03-17"
-	},
-	"13673": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/03/17)",
-		"date": "2025.03.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13673&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/TZX209N3I8YDB8JQ20250317161104502.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/03/17)",
-		"description": "",
-		"content_id": "13673",
-		"added": "2025-03-17"
 	}
 }
