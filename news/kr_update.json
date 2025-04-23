@@ -1,4 +1,15 @@
 {
+	"13863": {
+		"title": "4월 23일(수) 업데이트 안내",
+		"date": "2025.04.23",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13863&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/5FDO9EDXSCYLS08G20250423064326449.400x225.jpg",
+		"desc": "일부 지역의 낚시 어종 추가, 거점전 결과 화면, 다중 검색 기능, 클래스 밸런스 조정, 모험가 프로필 개선 등의 업데이트",
+		"description": "",
+		"content_id": "13863",
+		"major": true,
+		"added": "2025-04-23"
+	},
 	"13832": {
 		"title": "4월 16일(수) 임시 점검 업데이트 안내",
 		"date": "2025.04.16",
@@ -251,16 +262,5 @@
 		"content_id": "13572",
 		"major": false,
 		"added": "2025-02-20"
-	},
-	"13570": {
-		"title": "2월 19일(수) 업데이트 안내",
-		"date": "2025.02.19",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13570&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/CHKYTX8TY6FKR02020250219061423002.400x225.jpg",
-		"desc": "어둠 포식의 기원 사용 효율 증가, 금돼지굴, 물물교환 UI 기능 확장 및 배경 품질 향상 작업 등의 업데이트",
-		"description": "",
-		"content_id": "13570",
-		"major": true,
-		"added": "2025-02-19"
 	}
 }
