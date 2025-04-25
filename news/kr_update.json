@@ -1,4 +1,15 @@
 {
+	"13868": {
+		"title": "4월 25일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2025.04.25",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13868&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/9L6U83PP53CZ5V1U20250425101742091.400x225.jpg",
+		"desc": "4월 25일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"description": "",
+		"content_id": "13868",
+		"major": false,
+		"added": "2025-04-25"
+	},
 	"13864": {
 		"title": "4월 23일(수) 최신 버전 업데이트 안내",
 		"date": "2025.04.23",
@@ -251,16 +262,5 @@
 		"content_id": "13603",
 		"major": false,
 		"added": "2025-02-27"
-	},
-	"13597": {
-		"title": "2월 26일(수) 업데이트 안내",
-		"date": "2025.02.26",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13597&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ROXKDYHCH1SHGJD920250225192650671.400x225.jpg",
-		"desc": "솔라레의 창 리플레이 기능, 검은별 및 고드아이드 무기의 고대의 모루 수치 조정, 금돼지굴 사냥터 개선 등의 업데이트",
-		"description": "",
-		"content_id": "13597",
-		"major": true,
-		"added": "2025-02-26"
 	}
 }
