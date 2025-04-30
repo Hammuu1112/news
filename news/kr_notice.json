@@ -9,6 +9,16 @@
 		"content_id": "2989",
 		"added": "2024-05-20"
 	},
+	"13901": {
+		"title": "[완료] 4월 30일(수) 서버 순차 점검 안내",
+		"date": "2025.04.30",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13901&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YAG1OOK7RIQFRBLJ20250430134846567.400x225.jpg",
+		"desc": "4월 30일(수) 서버 순차 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "13901",
+		"added": "2025-04-30"
+	},
 	"13890": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/04/30)",
 		"date": "2025.04.30",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "13736",
 		"added": "2025-03-27"
-	},
-	"13719": {
-		"title": "검은사막 런처 '오류보고' 기능 최신 버전 업데이트 안내",
-		"date": "2025.03.26",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13719&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DVYD5XUK5TDHOCIB20250325212119546.400x225.jpg",
-		"desc": "검은사막 런처 오류보고 기능의 업데이트를 위한 점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "13719",
-		"added": "2025-03-26"
 	}
 }
