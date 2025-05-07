@@ -4,11 +4,33 @@
 		"deadline": "-",
 		"count": "상시",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/VR0T2P4WR7TJQR8U20250430090034249.400x225.jpg",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/07SC9SYDND8S27VU20250507090212951.400x225.png",
 		"description": "",
 		"content_id": "13733",
 		"new_tag": true,
 		"added": "2025-03-26"
+	},
+	"13919": {
+		"title": "모험가의 개성 한 스푼! 나만의 코디 찰-칵📷",
+		"deadline": "2025-05-21",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13919&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/H7E1V31OUOXYLAIO20250502185325713.400x225.png",
+		"description": "",
+		"content_id": "13919",
+		"new_tag": true,
+		"added": "2025-05-07"
+	},
+	"13917": {
+		"title": "설렘 가득한 날씨와 함께, 일일 접속 보상!",
+		"deadline": "2025-06-04",
+		"count": "29 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13917&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FINOAGSRM3DMXQKR20250502183731102.400x225.png",
+		"description": "",
+		"content_id": "13917",
+		"new_tag": true,
+		"added": "2025-05-07"
 	},
 	"13891": {
 		"title": "다양한 상품과 함께, 새롭게 찾아온 마일리지 개편!",
@@ -18,7 +40,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/BKCKQAJ1WAUOMATO20250429222747997.400x225.jpg",
 		"description": "",
 		"content_id": "13891",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-04-30"
 	},
 	"13887": {
@@ -29,7 +51,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/JWXBGLOUV3SJ7XD920250429170240073.400x225.jpg",
 		"description": "",
 		"content_id": "13887",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-04-30"
 	},
 	"13886": {
@@ -40,7 +62,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/M31VK7YOCCYXQ15C20250429170029674.400x225.jpg",
 		"description": "",
 		"content_id": "13886",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-04-30"
 	},
 	"13885": {
@@ -51,7 +73,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O0K0KI9N8E2VMVQC20250429165846063.400x225.jpg",
 		"description": "",
 		"content_id": "13885",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-04-30"
 	},
 	"13884": {
@@ -62,7 +84,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O4DMRDN5OXY4NK1920250429163315804.400x225.jpg",
 		"description": "",
 		"content_id": "13884",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-04-30"
 	},
 	"13855": {
@@ -73,7 +95,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FJMQGARV865FJZ3K20250422190339332.400x225.jpg",
 		"description": "",
 		"content_id": "13855",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-04-23"
 	},
 	"13822": {
@@ -95,17 +117,6 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/8DO6F6O04OZTWIVZ20250422210921823.400x225.jpg",
 		"description": "",
 		"content_id": "13857",
-		"new_tag": false,
-		"added": "2025-04-23"
-	},
-	"13856": {
-		"title": "#스타일앨범 #설레는 #새내기",
-		"deadline": "2025-05-07",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13856&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DY29HX2XLYZR7Z1720250422191511017.400x225.png",
-		"description": "",
-		"content_id": "13856",
 		"new_tag": false,
 		"added": "2025-04-23"
 	},
@@ -251,16 +262,5 @@
 		"content_id": "10977",
 		"new_tag": false,
 		"added": "2025-05-03"
-	},
-	"10366": {
-		"title": "검은사막 월드에서 만나는 통통한 실러캔스!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10366&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/NUPYTH2T4EGO7A9920230523201411973.400x225.png",
-		"description": "",
-		"content_id": "10366",
-		"new_tag": false,
-		"added": "2025-05-07"
 	}
 }
