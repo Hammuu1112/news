@@ -1,4 +1,34 @@
 {
+	"2989": {
+		"title": "알려진 문제점",
+		"date": "2025.05.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
+		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
+		"description": "",
+		"content_id": "2989",
+		"added": "2024-05-20"
+	},
+	"13927": {
+		"title": "[완료] 5월 14일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2025.05.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13927&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/F81VZVRWDA26OCP120250512112515956.400x225.jpg",
+		"desc": "5월 14일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "13927",
+		"added": "2025-05-12"
+	},
+	"13937": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/05/14)",
+		"date": "2025.05.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13937&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YIVI7POMX5AQ0O3Q20250513174434380.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/05/14)",
+		"description": "",
+		"content_id": "13937",
+		"added": "2025-05-14"
+	},
 	"13933": {
 		"title": "5월 15일(목) 고객센터 점검 안내",
 		"date": "2025.05.12",
@@ -8,26 +38,6 @@
 		"description": "",
 		"content_id": "13933",
 		"added": "2025-05-12"
-	},
-	"13927": {
-		"title": "5월 14일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2025.05.12",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13927&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/F81VZVRWDA26OCP120250512112515956.400x225.jpg",
-		"desc": "5월 14일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "13927",
-		"added": "2025-05-12"
-	},
-	"2989": {
-		"title": "알려진 문제점",
-		"date": "2025.05.10",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
-		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
-		"description": "",
-		"content_id": "2989",
-		"added": "2024-05-20"
 	},
 	"13924": {
 		"title": "점령전 점령 정보 초기화 안내",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "13780",
 		"added": "2025-04-03"
-	},
-	"13762": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/04/02)",
-		"date": "2025.04.02",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13762&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/2TSYVF2MHI84H5A620250401155008698.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/04/02)",
-		"description": "",
-		"content_id": "13762",
-		"added": "2025-04-02"
 	}
 }
