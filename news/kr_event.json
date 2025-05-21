@@ -4,22 +4,55 @@
 		"deadline": "-",
 		"count": "상시",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0K4ACNA6VZWAPA9U20250514090229379.400x225.jpg",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/134DCM91H1XSXYAV20250521090305908.400x225.png",
 		"description": "",
 		"content_id": "13733",
 		"new_tag": true,
 		"added": "2025-03-26"
 	},
-	"13953": {
-		"title": "[530] 페스티벌 기념 스탬프, 스페셜 접속 보상",
-		"deadline": "2025-06-11",
-		"count": "22 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13953&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O7GD968GZ4WKF8YK20250513200648814.400x225.jpg",
+	"13992": {
+		"title": "축제의 온기를 가득 담은 페스티벌 방송 초대장 도착💌",
+		"deadline": "2025-06-04",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13992&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YVVX3WPZS4I0XVUJ20250520183748146.400x225.png",
 		"description": "",
-		"content_id": "13953",
+		"content_id": "13992",
 		"new_tag": true,
-		"added": "2025-05-14"
+		"added": "2025-05-21"
+	},
+	"13991": {
+		"title": "[530] 그란디하 패션쇼 Grand Open! 5월 23일 만나보세요.",
+		"deadline": "2025-05-23",
+		"count": "3 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13991&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/TYQFT2LZAMM6K1GJ20250520183325139.400x225.jpg",
+		"description": "",
+		"content_id": "13991",
+		"new_tag": true,
+		"added": "2025-05-21"
+	},
+	"13990": {
+		"title": "[530] 한 글자 가문명의 주인공은 누구? 다시 찾아온 황실 경매!",
+		"deadline": "2025-05-25",
+		"count": "5 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13990&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/T6YYP4PICFRXSHXB20250520183027008.400x225.png",
+		"description": "",
+		"content_id": "13990",
+		"new_tag": true,
+		"added": "2025-05-21"
+	},
+	"13989": {
+		"title": "[530] 황실 말 납품, 망념의 꽃 2배와 함께 페스티벌을 더 즐겁게!",
+		"deadline": "2025-06-04",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6Y7FR7G1DXXII1DU20250520182702491.400x225.jpg",
+		"description": "",
+		"content_id": "13989",
+		"new_tag": true,
+		"added": "2025-05-21"
 	},
 	"13947": {
 		"title": "[530] 페스티벌 축제의 인장, 리워드 부스 OPEN!",
@@ -43,6 +76,17 @@
 		"new_tag": true,
 		"added": "2025-05-14"
 	},
+	"13953": {
+		"title": "[530] 페스티벌 기념 스탬프, 스페셜 접속 보상",
+		"deadline": "2025-06-11",
+		"count": "22 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13953&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O7GD968GZ4WKF8YK20250513200648814.400x225.jpg",
+		"description": "",
+		"content_id": "13953",
+		"new_tag": false,
+		"added": "2025-05-14"
+	},
 	"13944": {
 		"title": "[530] 축제의 열기만큼 뜨거운 핫타임 시작",
 		"deadline": "2025-06-04",
@@ -51,7 +95,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/QH56L10KF7BG05Y420250513181354130.400x225.png",
 		"description": "",
 		"content_id": "13944",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-05-14"
 	},
 	"13943": {
@@ -62,7 +106,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/8HDIYQET89MECWH220250513180647998.400x225.jpg",
 		"description": "",
 		"content_id": "13943",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-05-14"
 	},
 	"13942": {
@@ -73,7 +117,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/GQ3DF389QZES3V5F20250513175832013.400x225.jpg",
 		"description": "",
 		"content_id": "13942",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-05-14"
 	},
 	"13941": {
@@ -84,7 +128,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/OSG4NCQMBU6LW69920250513175621163.400x225.jpg",
 		"description": "",
 		"content_id": "13941",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-05-14"
 	},
 	"13939": {
@@ -95,7 +139,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DYOI6R5D7DIBLLEK20250513174948896.400x225.jpg",
 		"description": "",
 		"content_id": "13939",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-05-14"
 	},
 	"13855": {
@@ -106,30 +150,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FJMQGARV865FJZ3K20250422190339332.400x225.jpg",
 		"description": "",
 		"content_id": "13855",
-		"new_tag": true,
-		"added": "2025-04-23"
-	},
-	"13857": {
-		"title": "🎨그리고, 기부美 - 마음을 그리고, 아름다움을 입히다.",
-		"deadline": "2025-05-21",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13857&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/8DO6F6O04OZTWIVZ20250422210921823.400x225.jpg",
-		"description": "",
-		"content_id": "13857",
-		"new_tag": true,
-		"added": "2025-04-23"
-	},
-	"13919": {
-		"title": "모험가의 개성 한 스푼! 나만의 코디 찰-칵📷",
-		"deadline": "2025-05-21",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13919&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/H7E1V31OUOXYLAIO20250502185325713.400x225.png",
-		"description": "",
-		"content_id": "13919",
 		"new_tag": false,
-		"added": "2025-05-07"
+		"added": "2025-04-23"
 	},
 	"13917": {
 		"title": "설렘 가득한 날씨와 함께, 일일 접속 보상!",
@@ -240,27 +262,5 @@
 		"content_id": "10946",
 		"new_tag": false,
 		"added": "2025-05-17"
-	},
-	"11432": {
-		"title": "[유(IV) 검은별] 검은별 무기와 함께 더 강해진 모험!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=11432&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/XLUMICG2M3UMWGBT20231219191019600.400x225.jpg",
-		"description": "",
-		"content_id": "11432",
-		"new_tag": false,
-		"added": "2025-05-19"
-	},
-	"10977": {
-		"title": "더 간단해진 시즌 패스로 졸업까지 가자!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10977&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/XUB2WUEKJ4FT2WLH20230912215312196.400x225.png",
-		"description": "",
-		"content_id": "10977",
-		"new_tag": false,
-		"added": "2025-05-19"
 	}
 }
