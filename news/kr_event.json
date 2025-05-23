@@ -1,4 +1,15 @@
 {
+	"14001": {
+		"title": "모험의 순간을 모아, 2025 하이델 연회 우편함",
+		"deadline": "2025-06-01",
+		"count": "10 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14001&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/UVIDD5P2KD74MQDX20250523184904905.400x225.jpg",
+		"description": "",
+		"content_id": "14001",
+		"new_tag": true,
+		"added": "2025-05-23"
+	},
 	"13733": {
 		"title": "[진행중인 이벤트 모아보기]",
 		"deadline": "-",
@@ -251,16 +262,5 @@
 		"content_id": "11848",
 		"new_tag": false,
 		"added": "2025-02-13"
-	},
-	"10946": {
-		"title": "새로워진 Twitch Drops를 매일매일 만나보세요!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10946&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/CB8283D9F5320XWW20230906055807025.400x225.jpg",
-		"description": "",
-		"content_id": "10946",
-		"new_tag": false,
-		"added": "2025-05-17"
 	}
 }
