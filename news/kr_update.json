@@ -1,4 +1,15 @@
 {
+	"14029": {
+		"title": "5월 28일(수) 업데이트 안내",
+		"date": "2025.05.28",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14029&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/SS3L2329SAQ4I7G020250528043108356.400x225.png",
+		"desc": "최후의 글라디우스, 영물의 축복, 솔라레의 창 정규 시즌, 아토락시온 편의성 개선 등의 업데이트",
+		"description": "",
+		"content_id": "14029",
+		"major": true,
+		"added": "2025-05-28"
+	},
 	"13995": {
 		"title": "5월 21일(수) 업데이트 안내",
 		"date": "2025.05.21",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13661",
 		"major": false,
-		"added": "2025-03-12"
-	},
-	"13655": {
-		"title": "3월 12일(수) 업데이트 안내",
-		"date": "2025.03.12",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13655&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KEYJHR4CYFMSFJSO20250312063926414.400x225.png",
-		"desc": "하드코어 프리시즌 시작, 캐릭터 밸런스 조정 등의 업데이트",
-		"description": "",
-		"content_id": "13655",
-		"major": true,
 		"added": "2025-03-12"
 	}
 }
