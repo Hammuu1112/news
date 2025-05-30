@@ -10,16 +10,27 @@
 		"new_tag": true,
 		"added": "2025-05-28"
 	},
-	"14026": {
-		"title": "직접서비스 6주년 기념, 페스티벌 Live!",
-		"deadline": "2025-05-30",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14026&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DK0E4B1NUL0QSAFZ20250527191814102.400x225.png",
+	"14043": {
+		"title": "* 직접서비스 6주년 기념 * 530 페스티벌 방송 쿠폰 모아보기",
+		"deadline": "2025-06-18",
+		"count": "20 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14043&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IHZV1B5M6WCM7XVV20250530220842191.400x225.png",
 		"description": "",
-		"content_id": "14026",
+		"content_id": "14043",
 		"new_tag": true,
-		"added": "2025-05-28"
+		"added": "2025-05-30"
+	},
+	"13953": {
+		"title": "[530] 페스티벌 기념 스탬프, 스페셜 접속 보상",
+		"deadline": "2025-07-29",
+		"count": "61 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13953&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O7GD968GZ4WKF8YK20250513200648814.400x225.jpg",
+		"description": "",
+		"content_id": "13953",
+		"new_tag": true,
+		"added": "2025-05-14"
 	},
 	"13733": {
 		"title": "[진행중인 이벤트 모아보기]",
@@ -86,17 +97,6 @@
 		"content_id": "14014",
 		"new_tag": true,
 		"added": "2025-05-28"
-	},
-	"13953": {
-		"title": "[530] 페스티벌 기념 스탬프, 스페셜 접속 보상(최종 수정 : 2025-05-22 11:24)",
-		"deadline": "2025-06-11",
-		"count": "13 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13953&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O7GD968GZ4WKF8YK20250513200648814.400x225.jpg",
-		"description": "",
-		"content_id": "13953",
-		"new_tag": true,
-		"added": "2025-05-14"
 	},
 	"13724": {
 		"title": "성장의 여정을 함께 걷는 '멘토 & 멘티' 친구 초대 혜택",
