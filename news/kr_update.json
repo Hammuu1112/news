@@ -1,4 +1,15 @@
 {
+	"14063": {
+		"title": "6월 4일(수) 업데이트 안내",
+		"date": "2025.06.04",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14063&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/QWVUUZONESDSTTZJ20250604054127720.400x225.jpg",
+		"desc": "아이템 사용 편의성 개선, 월드 우두머리 전리품 개선, 초반 성장 단계 사냥터 획득 경험치 조정, UI 편의성 개선 등의 업데이트 ",
+		"description": "",
+		"content_id": "14063",
+		"major": true,
+		"added": "2025-06-04"
+	},
 	"14038": {
 		"title": "5월 30일(금) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2025.05.30",
@@ -251,16 +262,5 @@
 		"content_id": "13689",
 		"major": true,
 		"added": "2025-03-19"
-	},
-	"13666": {
-		"title": "3월 14일(금) 일부 서버 점검 업데이트 안내",
-		"date": "2025.03.14",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13666&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/HZ23WQNGVLXNYGB320250314163507836.400x225.jpg",
-		"desc": "3월 14일(금) 일부 서버 점검 업데이트 사항을 안내해 드립니다.",
-		"description": "",
-		"content_id": "13666",
-		"major": false,
-		"added": "2025-03-14"
 	}
 }
