@@ -1,14 +1,4 @@
 {
-	"14071": {
-		"title": "6월 5일(목) 통합 거래소 점검 안내",
-		"date": "2025.06.05",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14071&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MIPI95KFNKYHR55M20250605153509952.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14071",
-		"added": "2025-06-05"
-	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.06.05",
@@ -18,6 +8,16 @@
 		"description": "",
 		"content_id": "2989",
 		"added": "2024-05-20"
+	},
+	"14071": {
+		"title": "[완료] 6월 5일(목) 통합 거래소 점검 안내",
+		"date": "2025.06.05",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14071&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MIPI95KFNKYHR55M20250605153509952.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14071",
+		"added": "2025-06-05"
 	},
 	"14067": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/06/04)",
