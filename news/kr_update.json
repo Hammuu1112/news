@@ -1,4 +1,15 @@
 {
+	"14069": {
+		"title": "6월 5일(목) 최신 버전 업데이트 안내",
+		"date": "2025.06.05",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14069&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/HGEUXRRID2FZ41XS20250605144818466.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14069",
+		"major": false,
+		"added": "2025-06-05"
+	},
 	"14063": {
 		"title": "6월 4일(수) 업데이트 안내",
 		"date": "2025.06.04",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13694",
 		"major": false,
-		"added": "2025-03-19"
-	},
-	"13689": {
-		"title": "3월 19일(수) 업데이트 안내",
-		"date": "2025.03.19",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13689&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/JRU3KGV7XWCW03MV20250319062202318.400x225.png",
-		"desc": "아토락시온 오르제키아, 캐릭터 밸런스 조정, 시즌 : 검사학교, 하드코어 서버 개선, 붉은 전장 개선 등의 업데이트",
-		"description": "",
-		"content_id": "13689",
-		"major": true,
 		"added": "2025-03-19"
 	}
 }
