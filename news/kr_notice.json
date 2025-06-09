@@ -1,4 +1,14 @@
 {
+	"14077": {
+		"title": "6월 11일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2025.06.09",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14077&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3QVXYUK3X2BLV0I120250609120025938.400x225.jpg",
+		"desc": "6월 11일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "14077",
+		"added": "2025-06-09"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.06.05",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "13933",
 		"added": "2025-05-12"
-	},
-	"13924": {
-		"title": "점령전 점령 정보 초기화 안내",
-		"date": "2025.05.09",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13924&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/CJUT9W7XSYNGIGKG20250509155944048.400x225.jpg",
-		"desc": "변경되는 점령전 진행 방식을 적용하기 위해, 점령전 지역에 건설된 성채 점령 정보가 초기화될 예정입니다.",
-		"description": "",
-		"content_id": "13924",
-		"added": "2025-05-09"
 	}
 }
