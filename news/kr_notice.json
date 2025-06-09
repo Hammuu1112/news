@@ -1,4 +1,14 @@
 {
+	"14078": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/06/09)",
+		"date": "2025.06.09",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14078&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KD876NQ0W5HWB7O120250609181458480.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/06/09)",
+		"description": "",
+		"content_id": "14078",
+		"added": "2025-06-09"
+	},
 	"14077": {
 		"title": "6월 11일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2025.06.09",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "13937",
 		"added": "2025-05-14"
-	},
-	"13933": {
-		"title": "5월 15일(목) 고객센터 점검 안내",
-		"date": "2025.05.12",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13933&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/JU4O6WUCB9A9NVQW20250512164840206.400x225.jpg",
-		"desc": "5월 15일 목요일 고객센터 점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "13933",
-		"added": "2025-05-12"
 	}
 }
