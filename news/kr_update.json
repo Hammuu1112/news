@@ -1,4 +1,15 @@
 {
+	"14095": {
+		"title": "6월 11일(수) 업데이트 안내",
+		"date": "2025.06.11",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14095&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IQDSKWPPL1ABILYM20250611055642787.400x225.jpg",
+		"desc": "재배 시 두더치 출현 개선, 말 포획 조작 개선, 일부 아이템의 카프라스 돌파 개선 등의 업데이트",
+		"description": "",
+		"content_id": "14095",
+		"major": true,
+		"added": "2025-06-11"
+	},
 	"14069": {
 		"title": "6월 5일(목) 최신 버전 업데이트 안내",
 		"date": "2025.06.05",
@@ -249,17 +260,6 @@
 		"desc": "",
 		"description": "",
 		"content_id": "13695",
-		"major": false,
-		"added": "2025-03-19"
-	},
-	"13694": {
-		"title": "3월 19일(수) 임시 점검 업데이트 안내",
-		"date": "2025.03.19",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13694&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/N9OD3GINS1EF7EUI20250319150155148.400x225.jpg",
-		"desc": "3월 19일 수요일 임시 점검 업데이트 사항을 안내드립니다.",
-		"description": "",
-		"content_id": "13694",
 		"major": false,
 		"added": "2025-03-19"
 	}

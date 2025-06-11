@@ -1,4 +1,48 @@
 {
+	"13733": {
+		"title": "[진행중인 이벤트 모아보기]",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FVCZRUTZPPNWLHSW20250611090231605.400x225.jpg",
+		"description": "",
+		"content_id": "13733",
+		"new_tag": true,
+		"added": "2025-03-26"
+	},
+	"14081": {
+		"title": "축제를 기다리는 설렘, 하이델 마을에 퍼지는 특별한 기운",
+		"deadline": "2025-07-09",
+		"count": "29 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14081&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/PJIBUTXRP15KK6YR20250610150013431.400x225.jpg",
+		"description": "",
+		"content_id": "14081",
+		"new_tag": true,
+		"added": "2025-06-11"
+	},
+	"14080": {
+		"title": "[카프라스/술잔 추출] 추출이 필요하다면? 지금이 기회!",
+		"deadline": "2025-06-25",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14080&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/N6QEXGJ0T6WUGTUY20250610145858928.400x225.jpg",
+		"description": "",
+		"content_id": "14080",
+		"new_tag": true,
+		"added": "2025-06-11"
+	},
+	"14079": {
+		"title": "불완전한 힘의 보옥과 함께, 액세서리 개량을 손쉽게!",
+		"deadline": "2025-06-25",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14079&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/4AWW5LI5FQI2QOH620250610145743159.400x225.png",
+		"description": "",
+		"content_id": "14079",
+		"new_tag": true,
+		"added": "2025-06-11"
+	},
 	"13953": {
 		"title": "[530] 페스티벌 기념 스탬프, 스페셜 접속 보상",
 		"deadline": "2025-07-29",
@@ -7,19 +51,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O7GD968GZ4WKF8YK20250513200648814.400x225.jpg",
 		"description": "",
 		"content_id": "13953",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-05-14"
-	},
-	"13733": {
-		"title": "[진행중인 이벤트 모아보기]",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6W448UGVSV4BP87L20250604090054928.400x225.jpg",
-		"description": "",
-		"content_id": "13733",
-		"new_tag": true,
-		"added": "2025-03-26"
 	},
 	"14058": {
 		"title": "매일 차곡 차곡 쌓이는, 일일 접속 보상!",
@@ -29,7 +62,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/BQZZKZW2ENZ6KQ7620250602195806084.400x225.jpg",
 		"description": "",
 		"content_id": "14058",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-06-04"
 	},
 	"14057": {
@@ -40,7 +73,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/AP4GWW7AM7W7BOZH20250602195633905.400x225.png",
 		"description": "",
 		"content_id": "14057",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-06-04"
 	},
 	"13684": {
@@ -51,19 +84,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FHSTOQWV2KIB6ZR720250318154508270.400x225.jpg",
 		"description": "",
 		"content_id": "13684",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-06-02"
-	},
-	"14043": {
-		"title": "* 직접서비스 6주년 기념 * 530 페스티벌 방송 쿠폰 모아보기",
-		"deadline": "2025-06-18",
-		"count": "8 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14043&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IHZV1B5M6WCM7XVV20250530220842191.400x225.png",
-		"description": "",
-		"content_id": "14043",
-		"new_tag": true,
-		"added": "2025-05-30"
 	},
 	"14018": {
 		"title": "5월 30일, 치지직 드롭스 시작!",
@@ -76,16 +98,16 @@
 		"new_tag": false,
 		"added": "2025-05-28"
 	},
-	"14014": {
-		"title": "[솔라레의 창] 정규 시즌 시작, 왕좌의 출현",
-		"deadline": "2025-06-11",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14014&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FWH569PG44MR0H7A20250527182600994.400x225.jpg",
+	"14043": {
+		"title": "* 직접서비스 6주년 기념 * 530 페스티벌 방송 쿠폰 모아보기",
+		"deadline": "2025-06-18",
+		"count": "8 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14043&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IHZV1B5M6WCM7XVV20250530220842191.400x225.png",
 		"description": "",
-		"content_id": "14014",
+		"content_id": "14043",
 		"new_tag": false,
-		"added": "2025-05-28"
+		"added": "2025-05-30"
 	},
 	"13724": {
 		"title": "성장의 여정을 함께 걷는 '멘토 & 멘티' 친구 초대 혜택",
@@ -97,28 +119,6 @@
 		"content_id": "13724",
 		"new_tag": false,
 		"added": "2025-03-26"
-	},
-	"13947": {
-		"title": "[530] 페스티벌 축제의 인장, 리워드 부스 OPEN!",
-		"deadline": "2025-06-11",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13947&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/1FRZ03VMMFVI0P1O20250513184135548.400x225.jpg",
-		"description": "",
-		"content_id": "13947",
-		"new_tag": false,
-		"added": "2025-05-14"
-	},
-	"13939": {
-		"title": "[530] 페스티벌의 꽃, 내가 선택하는 흑정령의 모험판!",
-		"deadline": "2025-06-11",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13939&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DYOI6R5D7DIBLLEK20250513174948896.400x225.jpg",
-		"description": "",
-		"content_id": "13939",
-		"new_tag": false,
-		"added": "2025-05-14"
 	},
 	"13855": {
 		"title": "[어느 모험가의 모험일지] #3권 출간! - 지난 10년의 여정을 돌아보며, 다시 펼쳐지는 이야기",
