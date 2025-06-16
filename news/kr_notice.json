@@ -1,4 +1,14 @@
 {
+	"14106": {
+		"title": "[완료] 일부 서버 불안정 현상 관련 안내",
+		"date": "2025.06.16",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14106&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/BYVJ68XR6AI58W3020250616210530454.400x225.jpg",
+		"desc": "케플란-1 서버 접속 및 이동이 원활하지 않은 현상이 확인되어 원인 파악을 진행하고 있는 점 안내해 드립니다.",
+		"description": "",
+		"content_id": "14106",
+		"added": "2025-06-16"
+	},
 	"14105": {
 		"title": "6월 18일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2025.06.16",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "13973",
 		"added": "2025-05-19"
-	},
-	"13966": {
-		"title": "2025 하이델 연회 티켓 예매 안내 (with. 대전)",
-		"date": "2025.05.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13966&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EBTS5SYRW86M9JKI20250515180001915.400x225.png",
-		"desc": "5월 22일(목) 20:00 부터 공식 판매처에서 하이델 연회 티켓 예매가 오픈됩니다!",
-		"description": "",
-		"content_id": "13966",
-		"added": "2025-05-15"
 	}
 }
