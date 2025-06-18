@@ -1,4 +1,15 @@
 {
+	"14125": {
+		"title": "6월 18일(수) 업데이트 안내",
+		"date": "2025.06.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14125&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6UP3X93E55X3RAED20250618054704635.400x225.jpg",
+		"desc": "구미호 십재시니, 흑정령 기운 연소 버프 개선, 통합 거래소 거래 수량 조정, 불씨류 아이템의 획득 개선 등의 업데이트",
+		"description": "",
+		"content_id": "14125",
+		"major": true,
+		"added": "2025-06-18"
+	},
 	"14099": {
 		"title": "6월 13일(금) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2025.06.13",
@@ -251,16 +262,5 @@
 		"content_id": "13775",
 		"major": true,
 		"added": "2025-04-02"
-	},
-	"13720": {
-		"title": "3월 26일(수) 업데이트 안내",
-		"date": "2025.03.26",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13720&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/C7PMRW8Y0NBKTQ0W20250326064146307.400x225.png",
-		"desc": "아토락시온 오르제키아, 클래스 밸런스 조정, 길드 임무 개편, 길드 리그 등의 업데이트",
-		"description": "",
-		"content_id": "13720",
-		"major": true,
-		"added": "2025-03-26"
 	}
 }
