@@ -1,4 +1,15 @@
 {
+	"14156": {
+		"title": "6월 25일(수) 업데이트 안내",
+		"date": "2025.06.25",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14156&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/K705R46JTEZJWXH020250625060137031.400x225.png",
+		"desc": "파멸의 집행자 추가, 아이템 아이콘 개선, 거점전 단계별 영지 순환 등의 업데이트",
+		"description": "",
+		"content_id": "14156",
+		"major": true,
+		"added": "2025-06-25"
+	},
 	"14125": {
 		"title": "6월 18일(수) 업데이트 안내",
 		"date": "2025.06.18",
@@ -251,16 +262,5 @@
 		"content_id": "13781",
 		"major": false,
 		"added": "2025-04-05"
-	},
-	"13775": {
-		"title": "4월 2일(수) 업데이트 안내",
-		"date": "2025.04.02",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13775&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EBH11QG765E5E1VF20250402061545115.400x225.jpg",
-		"desc": "클래스 밸런스 조정, 거점전/점령전 능력 제한 수치 조정, 무역 시세 현황표 편의성 개선 등의 업데이트",
-		"description": "",
-		"content_id": "13775",
-		"major": true,
-		"added": "2025-04-02"
 	}
 }
