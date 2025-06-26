@@ -1,4 +1,34 @@
 {
+	"2989": {
+		"title": "알려진 문제점",
+		"date": "2025.06.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
+		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
+		"description": "",
+		"content_id": "2989",
+		"added": "2024-05-20"
+	},
+	"14170": {
+		"title": "6월 27일(금) 서버 임시 점검 안내",
+		"date": "2025.06.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14170&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/WH2G28A6P26G67BX20250626205651693.400x225.jpg",
+		"desc": "6월 27일 서버 임시 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "14170",
+		"added": "2025-06-26"
+	},
+	"14169": {
+		"title": "[완료] 고객센터 페이지 이용이 원활하지 않은 현상 안내",
+		"date": "2025.06.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14169&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/9ABPMNZH8BWZRZ7P20250626205549257.400x225.jpg",
+		"desc": "더욱 안정적인 서비스를 제공해 드릴 수 있도록 노력하겠습니다.",
+		"description": "",
+		"content_id": "14169",
+		"added": "2025-06-26"
+	},
 	"14164": {
 		"title": "함께여서 더 즐거운 순간, 하이델 성에서 만나요!",
 		"date": "2025.06.26",
@@ -8,16 +38,6 @@
 		"description": "",
 		"content_id": "14164",
 		"added": "2025-06-26"
-	},
-	"2989": {
-		"title": "알려진 문제점",
-		"date": "2025.06.25",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
-		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
-		"description": "",
-		"content_id": "2989",
-		"added": "2024-05-20"
 	},
 	"14152": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/06/25)",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "14013",
 		"added": "2025-05-28"
-	},
-	"14008": {
-		"title": "[완료] 5월 28일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2025.05.28",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14008&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/NB0LHTEG9BKOJNJJ20250526135234044.400x225.jpg",
-		"desc": "5월 28일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "14008",
-		"added": "2025-05-26"
-	},
-	"14009": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/05/26)",
-		"date": "2025.05.26",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14009&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/TGD0Z07YNUIQWEMD20250526181545949.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/05/26)",
-		"description": "",
-		"content_id": "14009",
-		"added": "2025-05-26"
 	}
 }
