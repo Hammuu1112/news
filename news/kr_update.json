@@ -1,4 +1,15 @@
 {
+	"14185": {
+		"title": "6월 30일(월) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2025.06.30",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14185&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6MVEMVTJG0BZJ62820250630141004962.400x225.jpg",
+		"desc": "6월 30일(월) 보안 모듈 최신 버전 업데이트 안내",
+		"description": "",
+		"content_id": "14185",
+		"major": false,
+		"added": "2025-06-30"
+	},
 	"14171": {
 		"title": "6월 27일(금) 최신 버전 업데이트 안내",
 		"date": "2025.06.27",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13806",
 		"major": false,
-		"added": "2025-04-09"
-	},
-	"13802": {
-		"title": "4월 9일(수) 업데이트 안내",
-		"date": "2025.04.09",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13802&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/M23C8JRGVJFCDH9I20250408175842391.400x225.jpg",
-		"desc": "어류 도감, 물물 교환 UI 개선, 어둠의 틈 개선, 클래스 밸런스 조정 등의 업데이트",
-		"description": "",
-		"content_id": "13802",
-		"major": true,
 		"added": "2025-04-09"
 	}
 }

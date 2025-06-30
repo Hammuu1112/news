@@ -1,4 +1,14 @@
 {
+	"14187": {
+		"title": "7월 2일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2025.06.30",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14187&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ZTYCJTLNMTH2IHIR20250630151146118.400x225.jpg",
+		"desc": "7월 2일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "14187",
+		"added": "2025-06-30"
+	},
 	"14173": {
 		"title": "[완료] 6월 28일(토) 통합 거래소 점검 안내",
 		"date": "2025.06.28",
@@ -227,16 +237,6 @@
 		"desc": "5월 28일 서버 임시 점검을 안내해 드립니다.",
 		"description": "",
 		"content_id": "14033",
-		"added": "2025-05-28"
-	},
-	"14028": {
-		"title": "6월 25일, 일부 이벤트 인장이 '보답의 인장'으로 통합됩니다.",
-		"date": "2025.05.28",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14028&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/L8OHTE782VQ303ED20250527223948773.400x225.jpg",
-		"desc": "게임을 즐기시는 데 있어 불필요한 복잡함을 줄이고, 더욱 편리하고 만족스러운 모험을 제공해 드릴 수 있도록 노력하겠습니다.",
-		"description": "",
-		"content_id": "14028",
 		"added": "2025-05-28"
 	}
 }
