@@ -1,4 +1,15 @@
 {
+	"14203": {
+		"title": "7월 2일(수) 업데이트 안내",
+		"date": "2025.07.02",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14203&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/OBUKFVSF2SNQWEMF20250702061859531.400x225.png",
+		"desc": "신규 클래스 오공, 신규 모험가 정착 지원금, 투발라 액세서리 강화 규칙 변경 등의 업데이트",
+		"description": "",
+		"content_id": "14203",
+		"major": true,
+		"added": "2025-07-02"
+	},
 	"14185": {
 		"title": "6월 30일(월) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2025.06.30",
@@ -251,16 +262,5 @@
 		"content_id": "13826",
 		"major": true,
 		"added": "2025-04-16"
-	},
-	"13806": {
-		"title": "4월 9일(수) 최신 버전 업데이트 안내",
-		"date": "2025.04.09",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13806&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/HMYVFRVA34EOWN5K20250409171215978.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "13806",
-		"major": false,
-		"added": "2025-04-09"
 	}
 }

@@ -1,4 +1,70 @@
 {
+	"13733": {
+		"title": "[진행중인 이벤트 모아보기]",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6OLVCPEGM86LZABU20250702090021784.400x225.jpg",
+		"description": "",
+		"content_id": "13733",
+		"new_tag": true,
+		"added": "2025-03-26"
+	},
+	"14192": {
+		"title": "도전하라, 그리고 지배하라. 붉은 전장 : 수도 발렌시아",
+		"deadline": "2025-07-09",
+		"count": "8 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14192&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/Y4YHLJF8DL1VQUM220250701183716843.400x225.png",
+		"description": "",
+		"content_id": "14192",
+		"new_tag": true,
+		"added": "2025-07-02"
+	},
+	"14191": {
+		"title": "[검은 사당] 강화된 아침의 축복과 정화되지 않은 기운!",
+		"deadline": "2025-07-16",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14191&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/NLCU7TPELN2MCKTN20250701183609566.400x225.jpg",
+		"description": "",
+		"content_id": "14191",
+		"new_tag": true,
+		"added": "2025-07-02"
+	},
+	"14190": {
+		"title": "오공 레벨업 도전과제! (feat. 시즌 캐릭터 생성권)",
+		"deadline": "2025-08-06",
+		"count": "36 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14190&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/1ANNB7YQXFAVVEHO20250701183449626.400x225.jpg",
+		"description": "",
+		"content_id": "14190",
+		"new_tag": true,
+		"added": "2025-07-02"
+	},
+	"14189": {
+		"title": "함께라서 더 큰 힘이 되는 시간, 길드원과 떠나는 모험!",
+		"deadline": "2025-07-22",
+		"count": "21 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14189&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/02TF0VIYCS4QB97S20250701183342066.400x225.jpg",
+		"description": "",
+		"content_id": "14189",
+		"new_tag": true,
+		"added": "2025-07-02"
+	},
+	"14188": {
+		"title": "신규 모험가 정착 지원금 100억! 설렘 가득한 여정의 시작",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14188&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/VBT6STXF00VJ14YU20250701183238824.400x225.jpg",
+		"description": "",
+		"content_id": "14188",
+		"new_tag": true,
+		"added": "2025-07-02"
+	},
 	"14175": {
 		"title": "2025 하이델 연회 스페셜 접속 보상과 쿠폰!",
 		"deadline": "2025-08-26",
@@ -7,30 +73,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/UKADKCR8TGQCQHLS20250628174347917.400x225.jpg",
 		"description": "",
 		"content_id": "14175",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-06-28"
-	},
-	"14176": {
-		"title": "[검은사막 연구소] 투전승불의 후손, 오공 사전 체험!",
-		"deadline": "2025-07-02",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14176&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/2AZHOQZ3HZKDNX3J20250628181253880.400x225.jpg",
-		"description": "",
-		"content_id": "14176",
-		"new_tag": true,
-		"added": "2025-06-28"
-	},
-	"13733": {
-		"title": "[진행중인 이벤트 모아보기]",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/C1ATN0H9N4CUIZRR20250618090056157.400x225.png",
-		"description": "",
-		"content_id": "13733",
-		"new_tag": true,
-		"added": "2025-03-26"
 	},
 	"14139": {
 		"title": "한 달간 진행되는 하이델 연회 핫타임!",
@@ -40,7 +84,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/QVJXTBCP7LOEZUTM20250624171527399.400x225.jpg",
 		"description": "",
 		"content_id": "14139",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-06-25"
 	},
 	"14138": {
@@ -51,7 +95,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/R2A55VXIU1QP3D6J20250624170744502.400x225.jpg",
 		"description": "",
 		"content_id": "14138",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-06-25"
 	},
 	"14131": {
@@ -62,29 +106,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/AOF1ZEG2RYPIC50H20250624172138950.400x225.jpg",
 		"description": "",
 		"content_id": "14131",
-		"new_tag": true,
-		"added": "2025-06-25"
-	},
-	"14160": {
-		"title": "황실 말 납품, 망념의 꽃 2배! 조련의 세계로 떠나요-!",
-		"deadline": "2025-07-09",
-		"count": "8 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14160&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/33KXOG6TJW5VQQP020250625153337941.400x225.jpg",
-		"description": "",
-		"content_id": "14160",
-		"new_tag": true,
-		"added": "2025-06-25"
-	},
-	"14154": {
-		"title": "오늘은 제75주년 6·25 입니다.",
-		"deadline": "2025-07-09",
-		"count": "8 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14154&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3FCH4HS6HKYETX1A20250624204421084.400x225.jpg",
-		"description": "",
-		"content_id": "14154",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-06-25"
 	},
 	"13684": {
@@ -98,16 +120,27 @@
 		"new_tag": false,
 		"added": "2025-06-02"
 	},
-	"14109": {
-		"title": "하이델 성에서 펼쳐지는 뷰잉 파티, 연회를 함께 즐겨요",
-		"deadline": "2025-07-02",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14109&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/48CRRNJPSK4HE13E20250617163703557.400x225.jpg",
+	"14160": {
+		"title": "황실 말 납품, 망념의 꽃 2배! 조련의 세계로 떠나요-!",
+		"deadline": "2025-07-09",
+		"count": "8 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14160&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/33KXOG6TJW5VQQP020250625153337941.400x225.jpg",
 		"description": "",
-		"content_id": "14109",
+		"content_id": "14160",
 		"new_tag": false,
-		"added": "2025-06-18"
+		"added": "2025-06-25"
+	},
+	"14154": {
+		"title": "오늘은 제75주년 6·25 입니다.",
+		"deadline": "2025-07-09",
+		"count": "8 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14154&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3FCH4HS6HKYETX1A20250624204421084.400x225.jpg",
+		"description": "",
+		"content_id": "14154",
+		"new_tag": false,
+		"added": "2025-06-25"
 	},
 	"14108": {
 		"title": "귀여운 검은 고양이 머리띠와 함께, 데일리 스페셜 패스!",
@@ -117,17 +150,6 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/01A681A01KALTEOK20250617163606308.400x225.jpg",
 		"description": "",
 		"content_id": "14108",
-		"new_tag": false,
-		"added": "2025-06-18"
-	},
-	"14107": {
-		"title": "축제를 기다리며, 하이델 분수대의 축복",
-		"deadline": "2025-07-02",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14107&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/508WATGNE0N2MGE120250617163200145.400x225.png",
-		"description": "",
-		"content_id": "14107",
 		"new_tag": false,
 		"added": "2025-06-18"
 	},
@@ -240,27 +262,5 @@
 		"content_id": "6968",
 		"new_tag": false,
 		"added": "2025-06-05"
-	},
-	"7056": {
-		"title": "펄어비스 X 블리츠웨이, 검은사막 다크나이트 피규어",
-		"deadline": "2025-12-31",
-		"count": "183 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=7056&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2021/9SUN1B3FKIC0ARVR20211213151145644.400x225.jpg",
-		"description": "",
-		"content_id": "7056",
-		"new_tag": false,
-		"added": "2025-06-17"
-	},
-	"2783": {
-		"title": "신규&복귀 모험가님을 위한 놓칠 수 없는 혜택!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2783&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/4KM094V3X82N5SE720220630143044011.400x225.jpg",
-		"description": "",
-		"content_id": "2783",
-		"new_tag": false,
-		"added": "2025-06-18"
 	}
 }
