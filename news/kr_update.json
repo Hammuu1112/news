@@ -1,4 +1,15 @@
 {
+	"14224": {
+		"title": "7월 9일(수) 업데이트 안내",
+		"date": "2025.07.09",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14224&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KPVFWZA8XTLB2OHA20250709045205360.400x225.jpg",
+		"desc": "오공 클래스 밸런스 조정, 군왕 무기 공격력 조정, 클로의 그믐달 씨앗 주머니 등의 업데이트",
+		"description": "",
+		"content_id": "14224",
+		"major": true,
+		"added": "2025-07-09"
+	},
 	"14203": {
 		"title": "7월 2일(수) 업데이트 안내",
 		"date": "2025.07.02",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13832",
 		"major": false,
-		"added": "2025-04-16"
-	},
-	"13826": {
-		"title": "4월 16일(수) 업데이트 안내",
-		"date": "2025.04.16",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13826&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FAG81J0Q2R853OE820250416061045474.400x225.png",
-		"desc": "금돼지왕 팔/구/십재시니 추가, 다른 마을 창고 아이템 판매, 클래스 밸런스 조정 등의 업데이트",
-		"description": "",
-		"content_id": "13826",
-		"major": true,
 		"added": "2025-04-16"
 	}
 }
