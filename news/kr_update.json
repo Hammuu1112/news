@@ -1,4 +1,15 @@
 {
+	"14238": {
+		"title": "7월 10일(목) 임시 점검 업데이트 안내",
+		"date": "2025.07.10",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14238&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DDA4F03DF5Y8OF1A20250710070225294.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14238",
+		"major": false,
+		"added": "2025-07-10"
+	},
 	"14232": {
 		"title": "7월 9일(수) 최신 버전 업데이트 안내",
 		"date": "2025.07.09",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13864",
 		"major": false,
-		"added": "2025-04-23"
-	},
-	"13863": {
-		"title": "4월 23일(수) 업데이트 안내",
-		"date": "2025.04.23",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13863&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/5FDO9EDXSCYLS08G20250423064326449.400x225.jpg",
-		"desc": "일부 지역의 낚시 어종 추가, 거점전 결과 화면, 다중 검색 기능, 클래스 밸런스 조정, 모험가 프로필 개선 등의 업데이트",
-		"description": "",
-		"content_id": "13863",
-		"major": true,
 		"added": "2025-04-23"
 	}
 }
