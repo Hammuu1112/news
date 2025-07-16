@@ -1,4 +1,59 @@
 {
+	"13733": {
+		"title": "[진행중인 이벤트 모아보기]",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/OTYD9K68M78HVVIJ20250716090106596.400x225.jpg",
+		"description": "",
+		"content_id": "13733",
+		"new_tag": true,
+		"added": "2025-03-26"
+	},
+	"14255": {
+		"title": "[이모티콘 공모전] 글로벌 모험가의 즐거운 검사생활🏠",
+		"deadline": "2025-08-13",
+		"count": "29 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14255&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/68SECSC1MTZXNLIQ20250715185415613.400x225.jpg",
+		"description": "",
+		"content_id": "14255",
+		"new_tag": true,
+		"added": "2025-07-16"
+	},
+	"14254": {
+		"title": "주간 의뢰 보상을 한 번 더! 협동 아토락시온으로 떠나 보세요.",
+		"deadline": "2025-07-30",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14254&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/GP2DDD9S0XW5AAHS20250715185302169.400x225.jpg",
+		"description": "",
+		"content_id": "14254",
+		"new_tag": true,
+		"added": "2025-07-16"
+	},
+	"14253": {
+		"title": "마르지 않는 신비한 회복제, 오네트/오도어의 정령수를 빠르게!",
+		"deadline": "2025-08-06",
+		"count": "22 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14253&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/B7PJY71Y5Y9E6O5T20250715185056121.400x225.jpg",
+		"description": "",
+		"content_id": "14253",
+		"new_tag": true,
+		"added": "2025-07-16"
+	},
+	"14225": {
+		"title": "🌊 시원한 테르미안 해변 OPEN!",
+		"deadline": "2025-07-30",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14225&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YM4F308SBDPR3UB120250708185247559.400x225.png",
+		"description": "",
+		"content_id": "14225",
+		"new_tag": false,
+		"added": "2025-07-09"
+	},
 	"14236": {
 		"title": "테르미안 해변의 비밀스러운 속삭임",
 		"deadline": "2025-07-30",
@@ -7,19 +62,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/RRLG17ZMR02BK7OC20250709183116178.400x225.png",
 		"description": "",
 		"content_id": "14236",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-07-09"
-	},
-	"13733": {
-		"title": "[진행중인 이벤트 모아보기]",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/PSHTFFH4B3NU83R920250709092038088.400x225.png",
-		"description": "",
-		"content_id": "13733",
-		"new_tag": true,
-		"added": "2025-03-26"
 	},
 	"14227": {
 		"title": "여름의 열기를 식혀줄 시원한 일일 접속 보상!",
@@ -29,7 +73,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/N2WNLZ01HANKC5NE20250708185820450.400x225.jpg",
 		"description": "",
 		"content_id": "14227",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-07-09"
 	},
 	"14226": {
@@ -40,30 +84,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/WJBWTTZHLMWUXJWJ20250708185707100.400x225.png",
 		"description": "",
 		"content_id": "14226",
-		"new_tag": true,
-		"added": "2025-07-09"
-	},
-	"14225": {
-		"title": "🌊 시원한 테르미안 해변 OPEN!",
-		"deadline": "2025-07-30",
-		"count": "15 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14225&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YM4F308SBDPR3UB120250708185247559.400x225.png",
-		"description": "",
-		"content_id": "14225",
-		"new_tag": true,
-		"added": "2025-07-09"
-	},
-	"14191": {
-		"title": "[검은 사당] 강화된 아침의 축복과 정화되지 않은 기운!",
-		"deadline": "2025-07-16",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14191&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/NLCU7TPELN2MCKTN20250701183609566.400x225.jpg",
-		"description": "",
-		"content_id": "14191",
 		"new_tag": false,
-		"added": "2025-07-02"
+		"added": "2025-07-09"
 	},
 	"14190": {
 		"title": "오공 레벨업 도전과제! (feat. 시즌 캐릭터 생성권)",
@@ -128,17 +150,6 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/R2A55VXIU1QP3D6J20250624170744502.400x225.jpg",
 		"description": "",
 		"content_id": "14138",
-		"new_tag": false,
-		"added": "2025-06-25"
-	},
-	"14131": {
-		"title": "하이델 연회, 그리고 치지직 드롭스!",
-		"deadline": "2025-07-16",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14131&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/AOF1ZEG2RYPIC50H20250624172138950.400x225.jpg",
-		"description": "",
-		"content_id": "14131",
 		"new_tag": false,
 		"added": "2025-06-25"
 	},
@@ -249,17 +260,6 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
 		"description": "",
 		"content_id": "6968",
-		"new_tag": false,
-		"added": "2025-07-10"
-	},
-	"7056": {
-		"title": "펄어비스 X 블리츠웨이, 검은사막 다크나이트 피규어",
-		"deadline": "2025-12-31",
-		"count": "169 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=7056&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2021/9SUN1B3FKIC0ARVR20211213151145644.400x225.jpg",
-		"description": "",
-		"content_id": "7056",
 		"new_tag": false,
 		"added": "2025-07-10"
 	}
