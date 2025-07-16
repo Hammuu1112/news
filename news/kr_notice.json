@@ -1,4 +1,14 @@
 {
+	"14276": {
+		"title": "7월 17일(목) 서버 임시 점검 안내",
+		"date": "2025.07.16",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14276&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/E8DS2VUCG5CS3DAB20250716232028230.400x225.jpg",
+		"desc": "7월 17일 서버 임시 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "14276",
+		"added": "2025-07-17"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.07.16",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14124",
 		"added": "2025-06-18"
-	},
-	"14105": {
-		"title": "[완료] 6월 18일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2025.06.18",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14105&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/Q4MMW15CF9CSULYM20250616110937473.400x225.jpg",
-		"desc": "6월 18일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "14105",
-		"added": "2025-06-16"
 	}
 }
