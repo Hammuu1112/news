@@ -1,4 +1,15 @@
 {
+	"14277": {
+		"title": "7월 17일(목) 최신 버전 업데이트 안내",
+		"date": "2025.07.17",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14277&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/02L1HOKDFXQN2HPM20250717065532159.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14277",
+		"major": false,
+		"added": "2025-07-17"
+	},
 	"14275": {
 		"title": "7월 16일(수) 최신 버전 업데이트 안내",
 		"date": "2025.07.16",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13902",
 		"major": false,
-		"added": "2025-04-30"
-	},
-	"13894": {
-		"title": "4월 30일(수) 업데이트 안내",
-		"date": "2025.04.30",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13894&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0OWZ3OM0WQZNVD3E20250430064603211.400x225.jpg",
-		"desc": "중범선 자동 낚시, 주간 낚시 대회 콘텐츠, 클래스 밸런스 조정, 최종 능력치 기준 능력치 표기, 대화/파티/부대 UI 편의성 개선 등의 업데이트",
-		"description": "",
-		"content_id": "13894",
-		"major": true,
 		"added": "2025-04-30"
 	}
 }
