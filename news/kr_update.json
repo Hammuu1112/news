@@ -1,4 +1,15 @@
 {
+	"14280": {
+		"title": "7월 18일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2025.07.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14280&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IWFI87S8FCEI2SZL20250718121105804.400x225.jpg",
+		"desc": "7월 18일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"description": "",
+		"content_id": "14280",
+		"major": false,
+		"added": "2025-07-18"
+	},
 	"14278": {
 		"title": "7월 17일(목) 최신 버전 업데이트 안내",
 		"date": "2025.07.17",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "13964",
 		"major": false,
-		"added": "2025-05-14"
-	},
-	"13955": {
-		"title": "5월 14일(수) 업데이트 안내",
-		"date": "2025.05.14",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13955&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/M6CA0A5YY0OWV3T920250514073405460.400x225.jpg",
-		"desc": "조련 및 수렵 편의성 개선, 생활 돌발 의뢰 개선, 연금 황실 납품 상자 재료 조정, 점령전 규칙 및 보상 개선 등의 업데이트",
-		"description": "",
-		"content_id": "13955",
-		"major": true,
 		"added": "2025-05-14"
 	}
 }
