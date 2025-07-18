@@ -1,6 +1,26 @@
 {
+	"14283": {
+		"title": "아이템 간소화 작업에 따른 삭제 예정 아이템 안내",
+		"date": "2025.07.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14283&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/L63KHM3EIAQMRI7320250718195443352.400x225.jpg",
+		"desc": "생활 도구 및 무기/방어구 개량석 아이템 간소화 작업에 따른 삭제 예정 아이템에 대해 안내드립니다.",
+		"description": "",
+		"content_id": "14283",
+		"added": "2025-07-18"
+	},
+	"14282": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/07/18)",
+		"date": "2025.07.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14282&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3YQ5EW81KSLF8NVN20250718191020410.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/07/18)",
+		"description": "",
+		"content_id": "14282",
+		"added": "2025-07-18"
+	},
 	"14281": {
-		"title": "7월 18일(금) 통합 거래소 점검 안내",
+		"title": "[완료] 7월 18일(금) 통합 거래소 점검 안내",
 		"date": "2025.07.18",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14281&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MO8Q9GGYQXL899E820250718145614373.400x225.jpg",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "14135",
 		"added": "2025-06-23"
-	},
-	"14129": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/06/20)",
-		"date": "2025.06.20",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14129&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3VDXDIY5YXWRR42020250620174512265.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/06/20)",
-		"description": "",
-		"content_id": "14129",
-		"added": "2025-06-20"
-	},
-	"14127": {
-		"title": "거점전 점령 정보 초기화 안내",
-		"date": "2025.06.18",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14127&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/64VNPDE6LQ4J6DL620250618180516581.400x225.jpg",
-		"desc": "거점전 영지별 단계 순환을 위해 거점전 점령 정보가 초기화될 예정입니다.",
-		"description": "",
-		"content_id": "14127",
-		"added": "2025-06-18"
 	}
 }
