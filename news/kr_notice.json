@@ -1,7 +1,17 @@
 {
+	"14281": {
+		"title": "7월 18일(금) 통합 거래소 점검 안내",
+		"date": "2025.07.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14281&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MO8Q9GGYQXL899E820250718145614373.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14281",
+		"added": "2025-07-18"
+	},
 	"2989": {
 		"title": "알려진 문제점",
-		"date": "2025.07.17",
+		"date": "2025.07.18",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
 		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
@@ -227,16 +237,6 @@
 		"desc": "거점전 영지별 단계 순환을 위해 거점전 점령 정보가 초기화될 예정입니다.",
 		"description": "",
 		"content_id": "14127",
-		"added": "2025-06-18"
-	},
-	"14124": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/06/18)",
-		"date": "2025.06.18",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14124&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/UQTB6EV2WAWB8YLK20250618054331285.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/06/18)",
-		"description": "",
-		"content_id": "14124",
 		"added": "2025-06-18"
 	}
 }
