@@ -1,13 +1,33 @@
 {
+	"14288": {
+		"title": "7월 23일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2025.07.21",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14288&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/GEUU9NGUZK8Q5JCW20250721153601416.400x225.jpg",
+		"desc": "7월 23일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "14288",
+		"added": "2025-07-21"
+	},
 	"14283": {
 		"title": "피해량 계산 공식 리뉴얼에 따른 삭제 예정 아이템 안내",
-		"date": "2025.07.18",
+		"date": "2025.07.21",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14283&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/L63KHM3EIAQMRI7320250718195443352.400x225.jpg",
 		"desc": "피해량 계산 공식 리뉴얼에 따른 삭제 예정 아이템 안내에 대해 안내드립니다.",
 		"description": "",
 		"content_id": "14283",
 		"added": "2025-07-18"
+	},
+	"14258": {
+		"title": "모든 캐릭터 기술 초기화 사전 안내",
+		"date": "2025.07.21",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14258&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/NAIVX3VMX1MGDANB20250715201107497.400x225.png",
+		"desc": "피해량 계산 공식 리뉴얼에 따라 모든 캐릭터의 기술 초기화가 진행될 예정입니다.",
+		"description": "",
+		"content_id": "14258",
+		"added": "2025-07-16"
 	},
 	"14282": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/07/18)",
@@ -57,16 +77,6 @@
 		"desc": "",
 		"description": "",
 		"content_id": "14269",
-		"added": "2025-07-16"
-	},
-	"14258": {
-		"title": "모든 캐릭터 기술 초기화 사전 안내",
-		"date": "2025.07.16",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14258&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/NAIVX3VMX1MGDANB20250715201107497.400x225.png",
-		"desc": "피해량 계산 공식 리뉴얼에 따라 모든 캐릭터의 기술 초기화가 진행될 예정입니다.",
-		"description": "",
-		"content_id": "14258",
 		"added": "2025-07-16"
 	},
 	"14257": {
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14152",
 		"added": "2025-06-25"
-	},
-	"14135": {
-		"title": "[완료] 6월 25일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2025.06.23",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14135&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0DQGIFCDKXT97P6O20250623161430936.400x225.jpg",
-		"desc": "6월 25일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "14135",
-		"added": "2025-06-23"
 	}
 }
