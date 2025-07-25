@@ -1,4 +1,15 @@
 {
+	"14313": {
+		"title": "7월 25일(금) 임시 점검 업데이트 안내",
+		"date": "2025.07.25",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14313&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/725T3FPXUFSVP3C020250725182418043.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14313",
+		"major": false,
+		"added": "2025-07-25"
+	},
 	"14289": {
 		"title": "7월 23일(수) 업데이트 안내",
 		"date": "2025.07.23",
@@ -251,16 +262,5 @@
 		"content_id": "14029",
 		"major": true,
 		"added": "2025-05-28"
-	},
-	"13995": {
-		"title": "5월 21일(수) 업데이트 안내",
-		"date": "2025.05.21",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13995&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/5W88COW71D4YBF2T20250521054336075.400x225.jpg",
-		"desc": "도사 심연의 유산 기술 추가, 거점 연결 및 주거지 구매 공헌도 완화, 물고기 시세 보증 기간 연장, 점령전 및 거점전 밸런스 조정 등의 업데이트",
-		"description": "",
-		"content_id": "13995",
-		"major": true,
-		"added": "2025-05-21"
 	}
 }
