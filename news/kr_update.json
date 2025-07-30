@@ -1,4 +1,15 @@
 {
+	"14324": {
+		"title": "7월 30일(수) 업데이트 안내",
+		"date": "2025.07.30",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14324&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ZMERNQ3TBNV1I8ZE20250730043941069.400x225.jpg",
+		"desc": "클래스 밸런스 조정, 솔라레의 창 명예의 전당, 선박 아이템 능력치 개선 등의 업데이트",
+		"description": "",
+		"content_id": "14324",
+		"major": true,
+		"added": "2025-07-30"
+	},
 	"14313": {
 		"title": "7월 25일(금) 임시 점검 업데이트 안내",
 		"date": "2025.07.25",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14037",
 		"major": false,
-		"added": "2025-05-28"
-	},
-	"14029": {
-		"title": "5월 28일(수) 업데이트 안내",
-		"date": "2025.05.28",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14029&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/SS3L2329SAQ4I7G020250528043108356.400x225.png",
-		"desc": "최후의 글라디우스, 영물의 축복, 솔라레의 창 정규 시즌, 아토락시온 편의성 개선 등의 업데이트",
-		"description": "",
-		"content_id": "14029",
-		"major": true,
 		"added": "2025-05-28"
 	}
 }
