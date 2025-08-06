@@ -1,6 +1,36 @@
 {
+	"2989": {
+		"title": "알려진 문제점",
+		"date": "2025.08.06",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
+		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
+		"description": "",
+		"content_id": "2989",
+		"added": "2024-05-20"
+	},
+	"14362": {
+		"title": "유물 프리셋 및 반려동물 그룹 설정 초기화 사전 안내",
+		"date": "2025.08.06",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14362&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/7CT1JO2IFTYYZTB220250805185659997.400x225.jpg",
+		"desc": "프리셋 저장 방식 변경에 따라, 유물 및 반려동물 프리셋이 초기화될 예정입니다.",
+		"description": "",
+		"content_id": "14362",
+		"added": "2025-08-06"
+	},
+	"14361": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/08/06)",
+		"date": "2025.08.06",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14361&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6RBP3C3YTO7UWZU720250805185403122.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/08/06)",
+		"description": "",
+		"content_id": "14361",
+		"added": "2025-08-06"
+	},
 	"14346": {
-		"title": "8월 6일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"title": "[완료] 8월 6일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2025.08.04",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14346&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/WJYTFMIODUB0JXCC20250804162559254.400x225.jpg",
@@ -18,16 +48,6 @@
 		"description": "",
 		"content_id": "14339",
 		"added": "2025-08-01"
-	},
-	"2989": {
-		"title": "알려진 문제점",
-		"date": "2025.07.31",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
-		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
-		"description": "",
-		"content_id": "2989",
-		"added": "2024-05-20"
 	},
 	"14323": {
 		"title": "[완료] 7월 30일(수) 서비스 정기점검 및 홈페이지 점검 안내",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "14240",
 		"added": "2025-07-11"
-	},
-	"14241": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/07/11)",
-		"date": "2025.07.11",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14241&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/F5OYCBOY1DPH1VOJ20250711165036781.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/07/11)",
-		"description": "",
-		"content_id": "14241",
-		"added": "2025-07-11"
-	},
-	"14237": {
-		"title": "[완료] 7월 10일(목) 서버 임시 점검 안내",
-		"date": "2025.07.09",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14237&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/C2U0KO45O9IH812A20250709221832399.400x225.jpg",
-		"desc": "7월 10일 서버 임시 점검을 안내해 드립니다.",
-		"description": "",
-		"content_id": "14237",
-		"added": "2025-07-09"
 	}
 }

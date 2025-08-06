@@ -1,4 +1,15 @@
 {
+	"14359": {
+		"title": "8월 6일(수) 업데이트 안내",
+		"date": "2025.08.06",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14359&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IYC4MK0EFF2RA3AN20250805183310454.400x225.jpg",
+		"desc": "클래스 밸런스 조정, 에다니아 사전 의뢰, 오르제키아[엘비아] 사냥터 밀실 등의 업데이트",
+		"description": "",
+		"content_id": "14359",
+		"major": true,
+		"added": "2025-08-06"
+	},
 	"14347": {
 		"title": "[검은사막+] 8월 5일(화) 업데이트 안내",
 		"date": "2025.08.05",
@@ -251,16 +262,5 @@
 		"content_id": "14095",
 		"major": true,
 		"added": "2025-06-11"
-	},
-	"14069": {
-		"title": "6월 5일(목) 최신 버전 업데이트 안내",
-		"date": "2025.06.05",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14069&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/HGEUXRRID2FZ41XS20250605144818466.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14069",
-		"major": false,
-		"added": "2025-06-05"
 	}
 }
