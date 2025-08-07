@@ -1,4 +1,15 @@
 {
+	"14364": {
+		"title": "8월 7일(목) 일부 서버 점검 업데이트 안내",
+		"date": "2025.08.07",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14364&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/I54903NYL5G2JQ1A20250807172133305.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14364",
+		"major": false,
+		"added": "2025-08-07"
+	},
 	"14359": {
 		"title": "8월 6일(수) 업데이트 안내",
 		"date": "2025.08.06",
@@ -251,16 +262,5 @@
 		"content_id": "14098",
 		"major": false,
 		"added": "2025-06-13"
-	},
-	"14095": {
-		"title": "6월 11일(수) 업데이트 안내",
-		"date": "2025.06.11",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14095&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IQDSKWPPL1ABILYM20250611055642787.400x225.jpg",
-		"desc": "재배 시 두더지 출현 개선, 말 포획 조작 개선, 일부 아이템의 카프라스 돌파 개선 등의 업데이트",
-		"description": "",
-		"content_id": "14095",
-		"major": true,
-		"added": "2025-06-11"
 	}
 }
