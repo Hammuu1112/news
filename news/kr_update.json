@@ -1,4 +1,15 @@
 {
+	"14386": {
+		"title": "8월 13일(수) 업데이트 안내",
+		"date": "2025.08.13",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14386&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/AR8Z6YQ32OIKHYVX20250812214329223.400x225.png",
+		"desc": "클래스 밸런스 조정, 크로그달로, 화면 중앙 메세지 개선 등의 업데이트",
+		"description": "",
+		"content_id": "14386",
+		"major": true,
+		"added": "2025-08-13"
+	},
 	"14365": {
 		"title": "8월 8일(금) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2025.08.08",
@@ -251,16 +262,5 @@
 		"content_id": "14125",
 		"major": true,
 		"added": "2025-06-18"
-	},
-	"14099": {
-		"title": "6월 13일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "2025.06.13",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14099&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/HN2BBSFME1QBGRDU20250613135213178.400x225.jpg",
-		"desc": "6월 13일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"description": "",
-		"content_id": "14099",
-		"major": false,
-		"added": "2025-06-13"
 	}
 }
