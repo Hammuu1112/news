@@ -1,4 +1,15 @@
 {
+	"14388": {
+		"title": "8월 13일(수) 최신 버전 업데이트 안내",
+		"date": "2025.08.13",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14388&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/9R6U8WDZUFVT3TWD20250813144542128.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14388",
+		"major": false,
+		"added": "2025-08-13"
+	},
 	"14386": {
 		"title": "8월 13일(수) 업데이트 안내",
 		"date": "2025.08.13",
@@ -251,16 +262,5 @@
 		"content_id": "14156",
 		"major": true,
 		"added": "2025-06-25"
-	},
-	"14125": {
-		"title": "6월 18일(수) 업데이트 안내",
-		"date": "2025.06.18",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14125&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6UP3X93E55X3RAED20250618054704635.400x225.jpg",
-		"desc": "구미호 십재시니, 흑정령 기운 연소 버프 개선, 통합 거래소 거래 수량 조정, 불씨류 아이템의 획득 개선 등의 업데이트",
-		"description": "",
-		"content_id": "14125",
-		"major": true,
-		"added": "2025-06-18"
 	}
 }
