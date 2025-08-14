@@ -1,4 +1,15 @@
 {
+	"14393": {
+		"title": "8월 14일(목) 임시 점검 업데이트 안내",
+		"date": "2025.08.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14393&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/D0R5NAR3EY9BS9AE20250814183456582.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14393",
+		"major": false,
+		"added": "2025-08-14"
+	},
 	"14388": {
 		"title": "8월 13일(수) 최신 버전 업데이트 안내",
 		"date": "2025.08.13",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14159",
 		"major": false,
-		"added": "2025-06-25"
-	},
-	"14156": {
-		"title": "6월 25일(수) 업데이트 안내",
-		"date": "2025.06.25",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14156&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/K705R46JTEZJWXH020250625060137031.400x225.png",
-		"desc": "파멸의 집행자 추가, 아이템 아이콘 개선, 거점전 단계별 영지 순환 등의 업데이트",
-		"description": "",
-		"content_id": "14156",
-		"major": true,
 		"added": "2025-06-25"
 	}
 }

@@ -1,6 +1,16 @@
 {
+	"14394": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/08/14)",
+		"date": "2025.08.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14394&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EFMRNGZM9NX1WXVW20250814192406956.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/08/14)",
+		"description": "",
+		"content_id": "14394",
+		"added": "2025-08-14"
+	},
 	"14392": {
-		"title": "8월 14일(목) 서버 임시 점검 안내",
+		"title": "[완료] 8월 14일(목) 서버 임시 점검 안내",
 		"date": "2025.08.14",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14392&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/4PAH4DNJ96ZTOOGQ20250814163036816.400x225.jpg",
@@ -227,16 +237,6 @@
 		"desc": "운영정책 위반 사용자 조치 안내 (2025/07/18)",
 		"description": "",
 		"content_id": "14282",
-		"added": "2025-07-18"
-	},
-	"14281": {
-		"title": "[완료] 7월 18일(금) 통합 거래소 점검 안내",
-		"date": "2025.07.18",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14281&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MO8Q9GGYQXL899E820250718145614373.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14281",
 		"added": "2025-07-18"
 	}
 }
