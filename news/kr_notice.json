@@ -1,4 +1,14 @@
 {
+	"14402": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/08/18)",
+		"date": "2025.08.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14402&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FUM10E31I6G9MIFW20250818192657658.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/08/18)",
+		"description": "",
+		"content_id": "14402",
+		"added": "2025-08-18"
+	},
 	"14401": {
 		"title": "8월 20일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2025.08.18",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14283",
 		"added": "2025-07-18"
-	},
-	"14258": {
-		"title": "모든 캐릭터 기술 초기화 사전 안내",
-		"date": "2025.07.21",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14258&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/NAIVX3VMX1MGDANB20250715201107497.400x225.png",
-		"desc": "피해량 계산 공식 리뉴얼에 따라 모든 캐릭터의 기술 초기화가 진행될 예정입니다.",
-		"description": "",
-		"content_id": "14258",
-		"added": "2025-07-16"
 	}
 }
