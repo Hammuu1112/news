@@ -1,4 +1,14 @@
 {
+	"14401": {
+		"title": "8월 20일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2025.08.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14401&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/T3E3G25QDDWD8TJC20250818161148983.400x225.jpg",
+		"desc": "8월 20일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "14401",
+		"added": "2025-08-18"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.08.15",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14258",
 		"added": "2025-07-16"
-	},
-	"14282": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/07/18)",
-		"date": "2025.07.18",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14282&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3YQ5EW81KSLF8NVN20250718191020410.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/07/18)",
-		"description": "",
-		"content_id": "14282",
-		"added": "2025-07-18"
 	}
 }
