@@ -1,4 +1,15 @@
 {
+	"14410": {
+		"title": "8월 20일(수) 업데이트 안내",
+		"date": "2025.08.20",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14410&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/BMZS25DN6O2HPW4K20250819195935142.400x225.png",
+		"desc": "마계 : 에다니아, 이벤트 통합 UI 등의 업데이트",
+		"description": "",
+		"content_id": "14410",
+		"major": true,
+		"added": "2025-08-20"
+	},
 	"14393": {
 		"title": "8월 14일(목) 임시 점검 업데이트 안내",
 		"date": "2025.08.14",
@@ -251,16 +262,5 @@
 		"content_id": "14171",
 		"major": false,
 		"added": "2025-06-27"
-	},
-	"14159": {
-		"title": "6월 25일(수) 최신 버전 업데이트 안내",
-		"date": "2025.06.25",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14159&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/NLV6I3PR35P6TZNP20250625145107417.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14159",
-		"major": false,
-		"added": "2025-06-25"
 	}
 }
