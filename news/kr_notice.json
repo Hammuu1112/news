@@ -9,6 +9,16 @@
 		"content_id": "2989",
 		"added": "2024-05-20"
 	},
+	"14424": {
+		"title": "2025 게임스컴 어워드 소식 (feat. 붉은사막)",
+		"date": "2025.08.20",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14424&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/RUM0X4LYO5G15UU520250820174305658.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14424",
+		"added": "2025-08-20"
+	},
 	"14412": {
 		"title": "8월 20일(수) 일부 콘텐츠 변경으로 인한 확률 변동 안내",
 		"date": "2025.08.20",
@@ -227,16 +237,6 @@
 		"desc": "운영정책 위반 사용자 조치 안내 (2025/07/23)",
 		"description": "",
 		"content_id": "14302",
-		"added": "2025-07-23"
-	},
-	"14299": {
-		"title": "7월 23일(수) 일부 콘텐츠 변경으로 인한 확률 변동 안내",
-		"date": "2025.07.23",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14299&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KIU60N4EXH1DA6AS20250819201520751.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14299",
 		"added": "2025-07-23"
 	}
 }
