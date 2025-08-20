@@ -1,4 +1,26 @@
 {
+	"14423": {
+		"title": "8월 20일(수) 최신 버전 업데이트 안내",
+		"date": "2025.08.20",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14423&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/RQIU6BV0SILNP2DS20250820160440973.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14423",
+		"major": false,
+		"added": "2025-08-20"
+	},
+	"14422": {
+		"title": "[검은사막+] 8월 20일(수) 업데이트 안내",
+		"date": "2025.08.20",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14422&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/AVZFZ26F75CZ3KO320250820134836031.400x225.jpg",
+		"desc": "8월 20일(수) 검은사막+ 최신 업데이트 내용을 안내드립니다.",
+		"description": "",
+		"content_id": "14422",
+		"major": false,
+		"added": "2025-08-20"
+	},
 	"14410": {
 		"title": "8월 20일(수) 업데이트 안내",
 		"date": "2025.08.20",
@@ -240,27 +262,5 @@
 		"content_id": "14203",
 		"major": true,
 		"added": "2025-07-02"
-	},
-	"14185": {
-		"title": "6월 30일(월) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "2025.06.30",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14185&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6MVEMVTJG0BZJ62820250630141004962.400x225.jpg",
-		"desc": "6월 30일(월) 보안 모듈 최신 버전 업데이트 안내",
-		"description": "",
-		"content_id": "14185",
-		"major": false,
-		"added": "2025-06-30"
-	},
-	"14171": {
-		"title": "6월 27일(금) 임시 점검 업데이트 안내",
-		"date": "2025.06.27",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14171&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EMQMYAX74ZU4WFJI20250626212721749.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14171",
-		"major": false,
-		"added": "2025-06-27"
 	}
 }
