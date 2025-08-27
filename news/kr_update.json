@@ -1,4 +1,15 @@
 {
+	"14434": {
+		"title": "8월 27일(수) 업데이트 안내",
+		"date": "2025.08.27",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14434&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/4CSC9QACQNJX8UWD20250826203506748.400x225.jpg",
+		"desc": "엘라 세르빈의 풍경화, 클래스 밸런스 조정,  진/본/원 새벽의 수정 - 생활 경험치 등의 업데이트",
+		"description": "",
+		"content_id": "14434",
+		"major": true,
+		"added": "2025-08-27"
+	},
 	"14423": {
 		"title": "8월 20일(수) 최신 버전 업데이트 안내",
 		"date": "2025.08.20",
@@ -251,16 +262,5 @@
 		"content_id": "14224",
 		"major": true,
 		"added": "2025-07-09"
-	},
-	"14203": {
-		"title": "7월 2일(수) 업데이트 안내",
-		"date": "2025.07.02",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14203&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/OBUKFVSF2SNQWEMF20250702061859531.400x225.png",
-		"desc": "신규 클래스 오공, 신규 모험가 정착 지원금, 투발라 액세서리 강화 규칙 변경 등의 업데이트",
-		"description": "",
-		"content_id": "14203",
-		"major": true,
-		"added": "2025-07-02"
 	}
 }

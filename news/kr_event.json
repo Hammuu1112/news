@@ -1,4 +1,37 @@
 {
+	"13733": {
+		"title": "[진행중인 이벤트 모아보기]",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ZF6WBNLDOJJXNZDD20250827090116484.400x225.png",
+		"description": "",
+		"content_id": "13733",
+		"new_tag": true,
+		"added": "2025-03-26"
+	},
+	"14433": {
+		"title": "내가 가는 곳이 곧 보물 사냥터, 엘라세르빈의 풍경화 도전과제!",
+		"deadline": "2025-09-10",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14433&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ETFFD8UGP9BJKFOP20250826175051817.400x225.png",
+		"description": "",
+		"content_id": "14433",
+		"new_tag": true,
+		"added": "2025-08-27"
+	},
+	"14432": {
+		"title": "황실 말 납품, 망념의 꽃 2배! 조련의 세계로 떠나요-!",
+		"deadline": "2025-09-10",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14432&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/UH0SHCS94V2LEMI020250826174938648.400x225.jpg",
+		"description": "",
+		"content_id": "14432",
+		"new_tag": true,
+		"added": "2025-08-27"
+	},
 	"14355": {
 		"title": "사냥/채집/낚시로 획득! 에다니아의 속삭임 인장 (확률 UP!)",
 		"deadline": "2025-09-03",
@@ -7,19 +40,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ZOTLZJ28N8EQKP4020250805181814686.400x225.jpg",
 		"description": "",
 		"content_id": "14355",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-08-06"
-	},
-	"13733": {
-		"title": "[진행중인 이벤트 모아보기]",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/AJV0RR8VDH3A9NBE20250813090253439.400x225.png",
-		"description": "",
-		"content_id": "13733",
-		"new_tag": true,
-		"added": "2025-03-26"
 	},
 	"14409": {
 		"title": "신규 상품 대량 입고! 파트리지오의 비밀상점 OPEN",
@@ -29,7 +51,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/LAR6HZ59OPGCH38L20250819195321460.400x225.png",
 		"description": "",
 		"content_id": "14409",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-08-20"
 	},
 	"14407": {
@@ -40,7 +62,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6LKMDXEVK6X4IK2020250819195058161.400x225.png",
 		"description": "",
 		"content_id": "14407",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-08-20"
 	},
 	"14406": {
@@ -51,7 +73,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/VCDA442O9XY0RRAF20250819194942369.400x225.png",
 		"description": "",
 		"content_id": "14406",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-08-20"
 	},
 	"14395": {
@@ -62,7 +84,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/W1JTV22B76EBN6S120250819195523221.400x225.jpg",
 		"description": "",
 		"content_id": "14395",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-08-20"
 	},
 	"14297": {
@@ -240,27 +262,5 @@
 		"content_id": "14151",
 		"new_tag": false,
 		"added": "2025-08-14"
-	},
-	"6968": {
-		"title": "검은사막 PC방 혜택 안내",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
-		"description": "",
-		"content_id": "6968",
-		"new_tag": false,
-		"added": "2025-08-25"
-	},
-	"7056": {
-		"title": "펄어비스 X 블리츠웨이, 검은사막 다크나이트 피규어",
-		"deadline": "2025-12-31",
-		"count": "127 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=7056&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2021/9SUN1B3FKIC0ARVR20211213151145644.400x225.jpg",
-		"description": "",
-		"content_id": "7056",
-		"new_tag": false,
-		"added": "2025-08-27"
 	}
 }
