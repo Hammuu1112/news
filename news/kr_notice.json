@@ -1,4 +1,14 @@
 {
+	"14450": {
+		"title": "8월 28일(목) 서버 임시 점검 안내",
+		"date": "2025.08.27",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14450&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/9JOIPT56JMLTIDLH20250827212433033.400x225.jpg",
+		"desc": "8월 28일 서버 임시 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "14450",
+		"added": "2025-08-27"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.08.27",
@@ -227,16 +237,6 @@
 		"desc": "7월 25일 서버 임시 점검을 안내해 드립니다.",
 		"description": "",
 		"content_id": "14307",
-		"added": "2025-07-25"
-	},
-	"14309": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/07/25)",
-		"date": "2025.07.25",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14309&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/S87SIJAY75Q0QVB620250725174127638.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/07/25)",
-		"description": "",
-		"content_id": "14309",
 		"added": "2025-07-25"
 	}
 }
