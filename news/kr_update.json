@@ -1,4 +1,15 @@
 {
+	"14451": {
+		"title": "8월 28일(목) 임시 점검 업데이트 안내",
+		"date": "2025.08.28",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14451&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/AOR65I7BN83P8W7220250828070004917.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14451",
+		"major": false,
+		"added": "2025-08-28"
+	},
 	"14434": {
 		"title": "8월 27일(수) 업데이트 안내",
 		"date": "2025.08.27",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14232",
 		"major": false,
-		"added": "2025-07-09"
-	},
-	"14224": {
-		"title": "7월 9일(수) 업데이트 안내",
-		"date": "2025.07.09",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14224&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KPVFWZA8XTLB2OHA20250709045205360.400x225.jpg",
-		"desc": "오공 클래스 밸런스 조정, 군왕 무기 공격력 조정, 클로의 그믐달 씨앗 주머니 등의 업데이트",
-		"description": "",
-		"content_id": "14224",
-		"major": true,
 		"added": "2025-07-09"
 	}
 }
