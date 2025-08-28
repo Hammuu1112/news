@@ -1,4 +1,15 @@
 {
+	"14452": {
+		"title": "8월 28일(목) 최신 버전 업데이트 안내",
+		"date": "2025.08.28",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14452&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/93A26IWOZXWZELS220250828132540432.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14452",
+		"major": false,
+		"added": "2025-08-28"
+	},
 	"14451": {
 		"title": "8월 28일(목) 임시 점검 업데이트 안내",
 		"date": "2025.08.28",
@@ -251,16 +262,5 @@
 		"content_id": "14238",
 		"major": false,
 		"added": "2025-07-10"
-	},
-	"14232": {
-		"title": "7월 9일(수) 최신 버전 업데이트 안내",
-		"date": "2025.07.09",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14232&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/AE7BEVY1LNAW8UTZ20250709134054527.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14232",
-		"major": false,
-		"added": "2025-07-09"
 	}
 }
