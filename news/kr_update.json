@@ -1,4 +1,15 @@
 {
+	"14484": {
+		"title": "9월 3일(수) 최신 버전 업데이트 안내",
+		"date": "2025.09.03",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14484&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/XQBQX7429K9SECMF20250903124243254.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14484",
+		"major": false,
+		"added": "2025-09-03"
+	},
 	"14474": {
 		"title": "9월 3일(수) 업데이트 안내",
 		"date": "2025.09.03",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14275",
 		"major": false,
-		"added": "2025-07-16"
-	},
-	"14264": {
-		"title": "7월 16일(수) 업데이트 안내",
-		"date": "2025.07.16",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14264&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/GLHML8L8D29MXGUV20250716054707556.400x225.jpg",
-		"desc": " 오공 클래스 밸런스 조정, 월드맵 가문 캐릭터 보기 등의 업데이트",
-		"description": "",
-		"content_id": "14264",
-		"major": true,
 		"added": "2025-07-16"
 	}
 }
