@@ -1,4 +1,15 @@
 {
+	"8056": {
+		"title": "9월 5일(금) 업데이트 안내(최종 수정 : 2025-09-05 18:42)",
+		"date": "2025.09.05 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=8056",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/09/05/857edcdeab020250905085823195.400x225.png",
+		"desc": "업데이트",
+		"description": "",
+		"content_id": "8056",
+		"major": true,
+		"added": "2025-09-05"
+	},
 	"8040": {
 		"title": "8월 29일(금) 업데이트 안내",
 		"date": "2025.08.29 (UTC+3)",
@@ -251,16 +262,5 @@
 		"content_id": "7770",
 		"major": false,
 		"added": "2025-04-28"
-	},
-	"7768": {
-		"title": "4월 25일(금) 업데이트 안내",
-		"date": "2025.04.25 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7768",
-		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/04/25/737491f112b20250425090019766.400x225.jpg",
-		"desc": "업데이트",
-		"description": "",
-		"content_id": "7768",
-		"major": true,
-		"added": "2025-04-25"
 	}
 }
