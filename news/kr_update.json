@@ -1,4 +1,15 @@
 {
+	"14518": {
+		"title": "9월 10일(수) 업데이트 안내",
+		"date": "2025.09.10",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14518&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ZWPJGSI75PVLX34Q20250910062427833.400x225.png",
+		"desc": "마계 : 에다니아 2차, 공헌도 최대 수치 상향, 통합 프리셋 등의 업데이트",
+		"description": "",
+		"content_id": "14518",
+		"major": true,
+		"added": "2025-09-10"
+	},
 	"14490": {
 		"title": "9월 5일(금) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2025.09.05",
@@ -251,16 +262,5 @@
 		"content_id": "14280",
 		"major": false,
 		"added": "2025-07-18"
-	},
-	"14278": {
-		"title": "7월 17일(목) 최신 버전 업데이트 안내",
-		"date": "2025.07.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14278&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/1NJW28N0348GEFDC20250717141328005.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14278",
-		"major": false,
-		"added": "2025-07-17"
 	}
 }
