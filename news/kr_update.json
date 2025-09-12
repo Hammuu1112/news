@@ -1,4 +1,15 @@
 {
+	"14531": {
+		"title": "9월 12일(금) 임시 점검 업데이트 안내",
+		"date": "2025.09.12",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14531&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/JQQGG7PWFRWSGV6Q20250912065240337.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14531",
+		"major": false,
+		"added": "2025-09-12"
+	},
 	"14526": {
 		"title": "9월 11일(목) 임시 점검 업데이트 안내",
 		"date": "2025.09.11",
@@ -251,16 +262,5 @@
 		"content_id": "14313",
 		"major": false,
 		"added": "2025-07-25"
-	},
-	"14289": {
-		"title": "7월 23일(수) 업데이트 안내",
-		"date": "2025.07.23",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14289&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/157G3UXDELOIG50J20250722214439427.400x225.png",
-		"desc": "전투 시스템 개편, 불멸의 나락 개선, 모험일지 보상 변경, 파트리지오의 초대형 의상 가방 및 메르브의 휴대용 가방 추가 등의 업데이트",
-		"description": "",
-		"content_id": "14289",
-		"major": true,
-		"added": "2025-07-23"
 	}
 }
