@@ -1,14 +1,4 @@
 {
-	"14533": {
-		"title": "[완료] 9월 12일(금) 통합 거래소 점검 안내",
-		"date": "2025.09.12",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14533&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/PTOFF7ASB46TYUP520250912164543059.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14533",
-		"added": "2025-09-12"
-	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.09.12",
@@ -18,6 +8,16 @@
 		"description": "",
 		"content_id": "2989",
 		"added": "2024-05-20"
+	},
+	"14533": {
+		"title": "[완료] 9월 12일(금) 통합 거래소 점검 안내",
+		"date": "2025.09.12",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14533&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/PTOFF7ASB46TYUP520250912164543059.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14533",
+		"added": "2025-09-12"
 	},
 	"14530": {
 		"title": "[완료] 9월 12일(금) 서버 임시 점검 안내",
