@@ -1,4 +1,15 @@
 {
+	"14554": {
+		"title": "9월 17일(수) 업데이트 안내",
+		"date": "2025.09.17",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14554&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/GAI2LISYAP64AJ8M20250917055259226.400x225.png",
+		"desc": "클래스 밸런스 조정, 공헌도 획득량 및 필요 경험치 조정, 월드맵 UI 개선 등의 업데이트",
+		"description": "",
+		"content_id": "14554",
+		"major": true,
+		"added": "2025-09-17"
+	},
 	"14531": {
 		"title": "9월 12일(금) 임시 점검 업데이트 안내",
 		"date": "2025.09.12",
@@ -251,16 +262,5 @@
 		"content_id": "14324",
 		"major": true,
 		"added": "2025-07-30"
-	},
-	"14313": {
-		"title": "7월 25일(금) 임시 점검 업데이트 안내",
-		"date": "2025.07.25",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14313&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/725T3FPXUFSVP3C020250725182418043.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14313",
-		"major": false,
-		"added": "2025-07-25"
 	}
 }
