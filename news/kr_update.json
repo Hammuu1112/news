@@ -1,4 +1,15 @@
 {
+	"14560": {
+		"title": "9월 17일(수) 임시 점검 업데이트 안내",
+		"date": "2025.09.17",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14560&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/TGEM2P6PPA3IH2TJ20250917185444619.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14560",
+		"major": false,
+		"added": "2025-09-17"
+	},
 	"14554": {
 		"title": "9월 17일(수) 업데이트 안내",
 		"date": "2025.09.17",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14334",
 		"major": false,
-		"added": "2025-07-30"
-	},
-	"14324": {
-		"title": "7월 30일(수) 업데이트 안내",
-		"date": "2025.07.30",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14324&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ZMERNQ3TBNV1I8ZE20250730043941069.400x225.jpg",
-		"desc": "클래스 밸런스 조정, 솔라레의 창 명예의 전당, 선박 아이템 능력치 개선 등의 업데이트",
-		"description": "",
-		"content_id": "14324",
-		"major": true,
 		"added": "2025-07-30"
 	}
 }
