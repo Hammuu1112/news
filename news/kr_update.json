@@ -1,4 +1,15 @@
 {
+	"14607": {
+		"title": "10월 1일(수) 업데이트 안내",
+		"date": "2025.10.01",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14607&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/S3VXURQ9KLM026TB20250930181352312.400x225.png",
+		"desc": "클래스 밸런스 조정, 몬스터의 상태이상 효과 조정, 탑승물 자동 이동 시 선회 속도 상향 등의 업데이트",
+		"description": "",
+		"content_id": "14607",
+		"major": true,
+		"added": "2025-10-01"
+	},
 	"14597": {
 		"title": "9월 24일(수) 최신 버전 업데이트 안내",
 		"date": "2025.09.24",
@@ -251,16 +262,5 @@
 		"content_id": "14364",
 		"major": false,
 		"added": "2025-08-07"
-	},
-	"14359": {
-		"title": "8월 6일(수) 업데이트 안내",
-		"date": "2025.08.06",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14359&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IYC4MK0EFF2RA3AN20250805183310454.400x225.jpg",
-		"desc": "클래스 밸런스 조정, 에다니아 사전 의뢰, 오르제키아[엘비아] 사냥터 밀실 등의 업데이트",
-		"description": "",
-		"content_id": "14359",
-		"major": true,
-		"added": "2025-08-06"
 	}
 }
