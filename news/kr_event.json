@@ -1,15 +1,4 @@
 {
-	"14668": {
-		"title": "[2025 마스터 클래스] 대진표 추첨 방송 안내",
-		"deadline": "2025-10-22",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14668&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/4BJEOJGNERW2M4AJ20251017174643548.400x225.png",
-		"description": "",
-		"content_id": "14668",
-		"new_tag": true,
-		"added": "2025-10-17"
-	},
 	"13733": {
 		"title": "[진행중인 이벤트 모아보기]",
 		"deadline": "-",
@@ -21,6 +10,39 @@
 		"new_tag": true,
 		"added": "2025-03-26"
 	},
+	"14681": {
+		"title": "[신규 & 복귀 모험가] 접속 보상",
+		"deadline": "2026-02-24",
+		"count": "126 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14681&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0NZ3L5YQHS75AEOM20251021213546711.400x225.png",
+		"description": "",
+		"content_id": "14681",
+		"new_tag": true,
+		"added": "2025-10-22"
+	},
+	"14680": {
+		"title": "단풍이 물드는 계절에 찾아온 일일 접속 보상",
+		"deadline": "2025-11-26",
+		"count": "36 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14680&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/M3F3DIJNET4G115520251021213053966.400x225.png",
+		"description": "",
+		"content_id": "14680",
+		"new_tag": true,
+		"added": "2025-10-22"
+	},
+	"14679": {
+		"title": "[솔라레 패스] 왕좌를 향한 발걸음",
+		"deadline": "2025-12-03",
+		"count": "43 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14679&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/VH9YPWHA0IOBS7B820251021212613828.400x225.jpg",
+		"description": "",
+		"content_id": "14679",
+		"new_tag": true,
+		"added": "2025-10-22"
+	},
 	"14651": {
 		"title": "호박의 시선으로 담아보는 오싹한 할로윈 밤",
 		"deadline": "2025-10-29",
@@ -29,7 +51,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/K20AV1G09BLWUK7720251014195900028.400x225.jpg",
 		"description": "",
 		"content_id": "14651",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-10-15"
 	},
 	"14649": {
@@ -40,7 +62,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3FZQF2R5EKNRT3RJ20251014195548798.400x225.jpg",
 		"description": "",
 		"content_id": "14649",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-10-15"
 	},
 	"14648": {
@@ -51,7 +73,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/U4IK864J70UPZOQD20251014194904719.400x225.jpg",
 		"description": "",
 		"content_id": "14648",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-10-15"
 	},
 	"14610": {
