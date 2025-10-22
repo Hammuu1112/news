@@ -1,4 +1,24 @@
 {
+	"14693": {
+		"title": "[2025 마스터 클래스] 본선 ~ 준결승전 대진표 안내",
+		"date": "2025.10.22",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14693&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KZ8WVSSZA2YABPJS20251022194329792.400x225.png",
+		"desc": "2025 마스터 클래스에서 펼칠 모험가님의 빛나는 순간을 응원하겠습니다.",
+		"description": "",
+		"content_id": "14693",
+		"added": "2025-10-22"
+	},
+	"14692": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/10/22)",
+		"date": "2025.10.22",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14692&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/6BV77LZH8R2J885D20251022185008006.400x225.jpg",
+		"desc": "운영정책 위반 사용자 조치 안내 (2025/10/22)",
+		"description": "",
+		"content_id": "14692",
+		"added": "2025-10-22"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.10.22",
@@ -10,7 +30,7 @@
 		"added": "2024-05-20"
 	},
 	"14690": {
-		"title": "10월 22일(수) 서버 순차 점검 안내",
+		"title": "[완료] 10월 22일(수) 서버 순차 점검 안내",
 		"date": "2025.10.22",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14690&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/5FXNF6OZFY1YFBW420251022142243778.400x225.jpg",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "14555",
 		"added": "2025-09-17"
-	},
-	"14549": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/09/17)",
-		"date": "2025.09.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14549&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/PB0HRZATDXP6FLZK20250916183842172.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/09/17)",
-		"description": "",
-		"content_id": "14549",
-		"added": "2025-09-17"
-	},
-	"14540": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/09/15)",
-		"date": "2025.09.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14540&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/QLXPUKBGAXJXRCJ720250915172335952.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/09/15)",
-		"description": "",
-		"content_id": "14540",
-		"added": "2025-09-15"
 	}
 }
