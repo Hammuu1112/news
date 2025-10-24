@@ -1,4 +1,15 @@
 {
+	"14696": {
+		"title": "10월 24일(금) 최신 버전 업데이트 안내",
+		"date": "2025.10.24",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14696&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MFVAAV7ETVU9LC0U20251024185619336.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14696",
+		"major": false,
+		"added": "2025-10-24"
+	},
 	"14695": {
 		"title": "[검은사막+] 10월 24일(금) 업데이트 안내",
 		"date": "2025.10.24",
@@ -251,16 +262,5 @@
 		"content_id": "14451",
 		"major": false,
 		"added": "2025-08-28"
-	},
-	"14434": {
-		"title": "8월 27일(수) 업데이트 안내",
-		"date": "2025.08.27",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14434&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/4CSC9QACQNJX8UWD20250826203506748.400x225.jpg",
-		"desc": "엘라 세르빈의 풍경화, 클래스 밸런스 조정,  진/본/원 새벽의 수정 - 생활 경험치 등의 업데이트",
-		"description": "",
-		"content_id": "14434",
-		"major": true,
-		"added": "2025-08-27"
 	}
 }
