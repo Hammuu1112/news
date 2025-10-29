@@ -1,4 +1,26 @@
 {
+	"14712": {
+		"title": "황실 말 납품하고 망념의 꽃 2배 획득!",
+		"deadline": "2025-11-12",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14712&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/WMITPGAOK32IA7W420251028181813786.400x225.jpg",
+		"description": "",
+		"content_id": "14712",
+		"new_tag": true,
+		"added": "2025-10-29"
+	},
+	"14711": {
+		"title": "불완전한 힘의 보옥으로 액세서리 개량!",
+		"deadline": "2025-11-12",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14711&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/21YOF6TZ1NDAXP0420251028175329730.400x225.png",
+		"description": "",
+		"content_id": "14711",
+		"new_tag": true,
+		"added": "2025-10-29"
+	},
 	"13733": {
 		"title": "[진행중인 이벤트 모아보기]",
 		"deadline": "-",
@@ -18,7 +40,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0NZ3L5YQHS75AEOM20251021213546711.400x225.png",
 		"description": "",
 		"content_id": "14681",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-10-22"
 	},
 	"14680": {
@@ -29,7 +51,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/M3F3DIJNET4G115520251021213053966.400x225.png",
 		"description": "",
 		"content_id": "14680",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-10-22"
 	},
 	"14679": {
@@ -40,19 +62,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/VH9YPWHA0IOBS7B820251021212613828.400x225.jpg",
 		"description": "",
 		"content_id": "14679",
-		"new_tag": true,
-		"added": "2025-10-22"
-	},
-	"14651": {
-		"title": "호박의 시선으로 담아보는 오싹한 할로윈 밤",
-		"deadline": "2025-10-29",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14651&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/K20AV1G09BLWUK7720251014195900028.400x225.jpg",
-		"description": "",
-		"content_id": "14651",
 		"new_tag": false,
-		"added": "2025-10-15"
+		"added": "2025-10-22"
 	},
 	"14649": {
 		"title": "선과 악, 검은사막에 등장한 할로윈 우두머리 천사와 악마",
@@ -75,17 +86,6 @@
 		"content_id": "14648",
 		"new_tag": false,
 		"added": "2025-10-15"
-	},
-	"14610": {
-		"title": "검은사막 월드에 흩어진 엘라 세르빈의 기운(최종 수정 : 2025-10-28 12:15)",
-		"deadline": "2025-10-29",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14610&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O99JX01CP1RXYO2N20250930194158768.400x225.png",
-		"description": "",
-		"content_id": "14610",
-		"new_tag": false,
-		"added": "2025-10-01"
 	},
 	"14576": {
 		"title": "스페셜 접속 보상, 보름달 같은 크론석이 뜹니다!",
@@ -197,6 +197,17 @@
 		"new_tag": false,
 		"added": "2025-08-14"
 	},
+	"6968": {
+		"title": "검은사막 PC방 혜택 안내",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
+		"description": "",
+		"content_id": "6968",
+		"new_tag": false,
+		"added": "2025-10-29"
+	},
 	"7056": {
 		"title": "펄어비스 X 블리츠웨이, 검은사막 다크나이트 피규어",
 		"deadline": "2025-12-31",
@@ -207,5 +218,16 @@
 		"content_id": "7056",
 		"new_tag": false,
 		"added": "2025-09-01"
+	},
+	"2783": {
+		"title": "신규&복귀 모험가님을 위한 놓칠 수 없는 혜택!",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2783&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/4KM094V3X82N5SE720220630143044011.400x225.jpg",
+		"description": "",
+		"content_id": "2783",
+		"new_tag": false,
+		"added": "2025-10-29"
 	}
 }
