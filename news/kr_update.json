@@ -241,17 +241,6 @@
 		"major": false,
 		"added": "2025-09-04"
 	},
-	"14484": {
-		"title": "9월 3일(수) 최신 버전 업데이트 안내",
-		"date": "2025.09.03",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14484&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/XQBQX7429K9SECMF20250903124243254.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14484",
-		"major": false,
-		"added": "2025-09-03"
-	},
 	"14474": {
 		"title": "9월 3일(수) 업데이트 안내",
 		"date": "2025.09.03",
@@ -262,5 +251,16 @@
 		"content_id": "14474",
 		"major": true,
 		"added": "2025-09-03"
+	},
+	"14452": {
+		"title": "8월 28일(목) 최신 버전 업데이트 안내",
+		"date": "2025.08.28",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14452&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/93A26IWOZXWZELS220250828132540432.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14452",
+		"major": false,
+		"added": "2025-11-04"
 	}
 }
