@@ -1,4 +1,15 @@
 {
+	"14744": {
+		"title": "11월 5일(수) 업데이트 안내",
+		"date": "2025.11.05",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14744&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/CEKCG0622NA5AE2G20251104211211263.400x225.png",
+		"desc": "죽엽군 팔/구/십재시니, 어둠의 틈 등장 위치 조정, 거점전 정보 변경 등의 업데이트",
+		"description": "",
+		"content_id": "14744",
+		"major": true,
+		"added": "2025-11-05"
+	},
 	"14718": {
 		"title": "10월 29일(수) 최신 버전 업데이트 안내",
 		"date": "2025.10.29",
@@ -251,16 +262,5 @@
 		"content_id": "14474",
 		"major": true,
 		"added": "2025-09-03"
-	},
-	"14452": {
-		"title": "8월 28일(목) 최신 버전 업데이트 안내",
-		"date": "2025.08.28",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14452&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/93A26IWOZXWZELS220250828132540432.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14452",
-		"major": false,
-		"added": "2025-11-04"
 	}
 }

@@ -1,26 +1,4 @@
 {
-	"14721": {
-		"title": "[2025 마스터 클래스] 본선부터 준결승까지, 크리에이터와 같이 보기",
-		"deadline": "2025-11-09",
-		"count": "5 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14721&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/F5O8SUJT4734NCQP20251031173921519.400x225.png",
-		"description": "",
-		"content_id": "14721",
-		"new_tag": true,
-		"added": "2025-10-31"
-	},
-	"14719": {
-		"title": "[2025 마스터 클래스] 대회 같이보고, 치지직 드롭스 GET-!",
-		"deadline": "2025-11-09",
-		"count": "5 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14719&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/G76ZSVBILFDBG8QT20251031145956665.400x225.jpg",
-		"description": "",
-		"content_id": "14719",
-		"new_tag": true,
-		"added": "2025-10-31"
-	},
 	"13733": {
 		"title": "[진행중인 이벤트 모아보기]",
 		"deadline": "-",
@@ -32,6 +10,50 @@
 		"new_tag": true,
 		"added": "2025-03-26"
 	},
+	"14732": {
+		"title": "[샤카투의 달] 잃어버린 황금 동전을 찾아서",
+		"deadline": "2025-12-03",
+		"count": "29 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14732&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/Y15NTCNVL68J0NQ620251104171007989.400x225.png",
+		"description": "",
+		"content_id": "14732",
+		"new_tag": true,
+		"added": "2025-11-05"
+	},
+	"14731": {
+		"title": "[샤카투의 달] 스페셜 접속 보상",
+		"deadline": "2025-12-09",
+		"count": "35 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14731&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/TLP6V7OJ4VW9S8WG20251104170750333.400x225.jpg",
+		"description": "",
+		"content_id": "14731",
+		"new_tag": true,
+		"added": "2025-11-05"
+	},
+	"14721": {
+		"title": "[2025 마스터 클래스] 본선부터 준결승까지, 크리에이터와 같이 보기",
+		"deadline": "2025-11-09",
+		"count": "5 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14721&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/F5O8SUJT4734NCQP20251031173921519.400x225.png",
+		"description": "",
+		"content_id": "14721",
+		"new_tag": false,
+		"added": "2025-10-31"
+	},
+	"14719": {
+		"title": "[2025 마스터 클래스] 대회 같이보고, 치지직 드롭스 GET-!",
+		"deadline": "2025-11-09",
+		"count": "5 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14719&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/G76ZSVBILFDBG8QT20251031145956665.400x225.jpg",
+		"description": "",
+		"content_id": "14719",
+		"new_tag": false,
+		"added": "2025-10-31"
+	},
 	"14712": {
 		"title": "황실 말 납품하고 망념의 꽃 2배 획득!",
 		"deadline": "2025-11-12",
@@ -40,7 +62,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/WMITPGAOK32IA7W420251028181813786.400x225.jpg",
 		"description": "",
 		"content_id": "14712",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-10-29"
 	},
 	"14711": {
@@ -51,11 +73,11 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/21YOF6TZ1NDAXP0420251028175329730.400x225.png",
 		"description": "",
 		"content_id": "14711",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-10-29"
 	},
 	"14681": {
-		"title": "[신규 & 복귀 모험가] 접속 보상",
+		"title": "[신규 & 복귀 모험가] 접속 보상(최종 수정 : 2025-11-05 09:00)",
 		"deadline": "2026-02-24",
 		"count": "112 일 남음",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14681&countryType=ko-KR",
@@ -86,28 +108,6 @@
 		"content_id": "14679",
 		"new_tag": false,
 		"added": "2025-10-22"
-	},
-	"14649": {
-		"title": "선과 악, 검은사막에 등장한 할로윈 우두머리 천사와 악마",
-		"deadline": "2025-11-05",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14649&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3FZQF2R5EKNRT3RJ20251014195548798.400x225.jpg",
-		"description": "",
-		"content_id": "14649",
-		"new_tag": false,
-		"added": "2025-10-15"
-	},
-	"14648": {
-		"title": "🎃으스스 호박과 함께하는 할로윈 축제에 초대합니다.",
-		"deadline": "2025-11-05",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14648&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/U4IK864J70UPZOQD20251014194904719.400x225.jpg",
-		"description": "",
-		"content_id": "14648",
-		"new_tag": false,
-		"added": "2025-10-15"
 	},
 	"14570": {
 		"title": "[시즌] 동(V) 우두머리 방어구 2개, 초고속 성장",
