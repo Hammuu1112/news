@@ -1,6 +1,16 @@
 {
+	"14753": {
+		"title": "[2025 마스터 클래스] 결승전 대진표 안내",
+		"date": "2025.11.07",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14753&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DORV6ILA5AB0KJKM20251107193335799.400x225.png",
+		"desc": "결승 진출자분들께서는 경기 일정 및 시간, 그리고 대회 규약을 반드시 숙지해 주시기를 바랍니다.",
+		"description": "",
+		"content_id": "14753",
+		"added": "2025-11-07"
+	},
 	"14751": {
-		"title": "11월 7일(금) 통합 거래소 점검 안내",
+		"title": "[완료] 11월 7일(금) 통합 거래소 점검 안내",
 		"date": "2025.11.07",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14751&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/RFWTA244AMIIYS9U20251107161333598.400x225.jpg",
@@ -10,7 +20,7 @@
 		"added": "2025-11-07"
 	},
 	"14749": {
-		"title": "11월 7일(금) 일부 서버 점검 안내",
+		"title": "[완료] 11월 7일(금) 일부 서버 점검 안내",
 		"date": "2025.11.07",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14749&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/TBU3QG9MC0MWF4PH20251107134642926.400x225.jpg",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14646",
 		"added": "2025-10-13"
-	},
-	"14638": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/10/02)",
-		"date": "2025.10.02",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14638&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/Q15GF1VJVXT1TL8020251002190408790.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/10/02)",
-		"description": "",
-		"content_id": "14638",
-		"added": "2025-10-02"
 	}
 }
