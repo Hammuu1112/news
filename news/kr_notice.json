@@ -1,4 +1,14 @@
 {
+	"14760": {
+		"title": "우리의 이야기로 채워질 2025 칼페온 연회",
+		"date": "2025.11.11",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14760&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/JCAU2KOM0SM1JO0V20251111103644252.400x225.png",
+		"desc": "감사함, 그리고 설렘이 함께하는 2025년 칼페온 연회의 소식을 안내해 드립니다.",
+		"description": "",
+		"content_id": "14760",
+		"added": "2025-11-11"
+	},
 	"14759": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/11/10)",
 		"date": "2025.11.10",
@@ -227,16 +237,6 @@
 		"desc": "2025년 10월 22일(수) 정기점검 시 펄 슬롯에 장착 가능한 아이템 중 마구, 선박, 마차의 외형을 크론석과 발크스의 외침으로 추출할 수 있도록 업데이트됩니다.",
 		"description": "",
 		"content_id": "14652",
-		"added": "2025-10-15"
-	},
-	"14650": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/10/15)",
-		"date": "2025.10.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14650&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/5EXYKO8P5WAOMC0T20251014195720857.400x225.jpg",
-		"desc": "운영정책 위반 사용자 조치 안내 (2025/10/15)",
-		"description": "",
-		"content_id": "14650",
 		"added": "2025-10-15"
 	}
 }
