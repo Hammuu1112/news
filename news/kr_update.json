@@ -1,4 +1,15 @@
 {
+	"14769": {
+		"title": "11월 12일(수) 업데이트 안내",
+		"date": "2025.11.12",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14769&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/7SMC840JQC0WDAER20251111192935106.400x225.png",
+		"desc": "에다나의 권좌 개선, 물물교환 1단계 교역품 변경, 에다니아 사냥터 전리품 조정 등의 업데이트",
+		"description": "",
+		"content_id": "14769",
+		"major": true,
+		"added": "2025-11-12"
+	},
 	"14761": {
 		"title": "[검은사막+] 11월 11일(화) 업데이트 안내",
 		"date": "2025.11.11",
@@ -251,16 +262,5 @@
 		"content_id": "14526",
 		"major": false,
 		"added": "2025-09-11"
-	},
-	"14518": {
-		"title": "9월 10일(수) 업데이트 안내",
-		"date": "2025.09.10",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14518&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ZWPJGSI75PVLX34Q20250910062427833.400x225.png",
-		"desc": "마계 : 에다니아 2차, 공헌도 최대 수치 상향, 통합 프리셋 등의 업데이트",
-		"description": "",
-		"content_id": "14518",
-		"major": true,
-		"added": "2025-09-10"
 	}
 }
