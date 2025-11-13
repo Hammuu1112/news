@@ -1,4 +1,14 @@
 {
+	"14776": {
+		"title": "11월 14일(금) 서버 임시 점검 안내",
+		"date": "2025.11.13",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14776&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/E4A0CZRW8PNQ3H6R20251113192423272.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14776",
+		"added": "2025-11-13"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.11.12",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14666",
 		"added": "2025-10-17"
-	},
-	"14606": {
-		"title": "클래스 최강자를 가리는 2025 마스터 클래스",
-		"date": "2025.10.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14606&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DTEPT8AMKLQ599RJ20250930233513120.400x225.png",
-		"desc": "검은사막 각 클래스의 최강자를 뽑는 명예로운 PvP 대회, 2025 마스터 클래스가 찾아옵니다.",
-		"description": "",
-		"content_id": "14606",
-		"added": "2025-10-01"
 	}
 }
