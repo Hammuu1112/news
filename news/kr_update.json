@@ -1,4 +1,15 @@
 {
+	"14782": {
+		"title": "[검은사막+] 11월 17일(월) 업데이트 안내",
+		"date": "2025.11.17",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14782&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/R4VJJGYQRL7HXDY220251117115205981.400x225.jpg",
+		"desc": "11월 17일(월) 검은사막+ 최신 업데이트 내용을 안내드립니다.",
+		"description": "",
+		"content_id": "14782",
+		"major": false,
+		"added": "2025-11-17"
+	},
 	"14777": {
 		"title": "11월 14일(금) 임시 점검 업데이트 안내",
 		"date": "2025.11.14",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14560",
 		"major": false,
-		"added": "2025-09-17"
-	},
-	"14554": {
-		"title": "9월 17일(수) 업데이트 안내",
-		"date": "2025.09.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14554&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/GAI2LISYAP64AJ8M20250917055259226.400x225.png",
-		"desc": "클래스 밸런스 조정, 공헌도 획득량 및 필요 경험치 조정, 월드맵 UI 개선 등의 업데이트",
-		"description": "",
-		"content_id": "14554",
-		"major": true,
 		"added": "2025-09-17"
 	}
 }
