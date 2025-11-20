@@ -1,4 +1,14 @@
 {
+	"14811": {
+		"title": "개인정보처리방침 개정 안내",
+		"date": "2025.11.20",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14811&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/KICQVC9NA4EGR6Q120251120172207918.400x225.jpg",
+		"desc": "2025년 11월 27일(목), 개인정보처리방침의 개정이 예정되어 있어 사전 안내드립니다.",
+		"description": "",
+		"content_id": "14811",
+		"added": "2025-11-20"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.11.19",
@@ -227,16 +237,6 @@
 		"desc": "운영정책 위반 사용자 조치 안내 (2025/10/22)",
 		"description": "",
 		"content_id": "14692",
-		"added": "2025-10-22"
-	},
-	"14690": {
-		"title": "[완료] 10월 22일(수) 서버 순차 점검 안내",
-		"date": "2025.10.22",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14690&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/5FXNF6OZFY1YFBW420251022142243778.400x225.jpg",
-		"desc": "10월 22일 서버 순차 점검을 안내해드립니다.",
-		"description": "",
-		"content_id": "14690",
 		"added": "2025-10-22"
 	}
 }
