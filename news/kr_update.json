@@ -1,4 +1,15 @@
 {
+	"14815": {
+		"title": "11월 21일(금) 일부 서버 점검 업데이트 안내",
+		"date": "2025.11.21",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14815&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/7DZEWIXIY5TKZOLX20251121171440019.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14815",
+		"major": false,
+		"added": "2025-11-21"
+	},
 	"14810": {
 		"title": "11월 20일(목) 최신 버전 업데이트 안내",
 		"date": "2025.11.20",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14597",
 		"major": false,
-		"added": "2025-09-24"
-	},
-	"14569": {
-		"title": "9월 24일(수) 업데이트 안내",
-		"date": "2025.09.24",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14569&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/ID715MVEZC152YU820250923184625882.400x225.png",
-		"desc": "시즌V, 클래스 밸런스 조정 등의 업데이트",
-		"description": "",
-		"content_id": "14569",
-		"major": true,
 		"added": "2025-09-24"
 	}
 }
