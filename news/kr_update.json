@@ -1,4 +1,15 @@
 {
+	"14832": {
+		"title": "11월 26일(수) 업데이트 안내",
+		"date": "2025.11.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14832&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/N9JTI6UYL9ASXV3F20251125190745842.400x225.png",
+		"desc": "대창귀 팔/구십재시니, 잡동사니 전리품 무게 조정 집 계약 및 증축 시간 단축 등의 업데이트",
+		"description": "",
+		"content_id": "14832",
+		"major": true,
+		"added": "2025-11-26"
+	},
 	"14815": {
 		"title": "11월 21일(금) 일부 서버 점검 업데이트 안내",
 		"date": "2025.11.21",
@@ -251,16 +262,5 @@
 		"content_id": "14607",
 		"major": true,
 		"added": "2025-10-01"
-	},
-	"14597": {
-		"title": "9월 24일(수) 최신 버전 업데이트 안내",
-		"date": "2025.09.24",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14597&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/QOWL3E7CTFIDG94620250924143151403.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14597",
-		"major": false,
-		"added": "2025-09-24"
 	}
 }
