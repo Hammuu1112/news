@@ -1,4 +1,14 @@
 {
+	"8236": {
+		"title": "11월 28일(금) 서비스 정기점검 안내",
+		"date": "2025.11.26 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=8236",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/11/26/866186abe5920251126073232225.400x225.jpg",
+		"desc": "공지사항",
+		"description": "",
+		"content_id": "8236",
+		"added": "2025-11-26"
+	},
 	"8218": {
 		"title": "[완료] 11월 21일(금) 서비스 정기점검 안내",
 		"date": "2025.11.19 (UTC+3)",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "7859",
 		"added": "2025-06-12"
-	},
-	"7841": {
-		"title": "6월 6일(금) 정기점검 미진행 안내",
-		"date": "2025.06.04 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7841",
-		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/06/04/e60f4183a3a20250604045715262.400x225.jpg",
-		"desc": "공지사항",
-		"description": "",
-		"content_id": "7841",
-		"added": "2025-06-04"
 	}
 }
