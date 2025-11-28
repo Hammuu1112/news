@@ -1,4 +1,14 @@
 {
+	"14848": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/11/28)",
+		"date": "2025.11.28",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14848&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/Z5YLRYGOND95VGDE20251128155916069.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14848",
+		"added": "2025-11-28"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.11.27",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14728",
 		"added": "2025-11-03"
-	},
-	"14722": {
-		"title": "일부 거점전 점령 정보 초기화 안내",
-		"date": "2025.10.30",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14722&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/XUVKAYB017U34CWW20251101204844429.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14722",
-		"added": "2025-10-31"
 	}
 }
