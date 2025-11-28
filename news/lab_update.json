@@ -1,13 +1,24 @@
 {
+	"12597": {
+		"title": "11월 28일(금) 업데이트 안내",
+		"date": "2025.11.28 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=12597",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/11/28/95ac489663b20251128084303617.400x225.png",
+		"desc": "업데이트",
+		"description": "",
+		"content_id": "12597",
+		"major": true,
+		"added": "2025-11-28"
+	},
 	"8222": {
-		"title": "11월 21일(금) 검은사막 연구소",
+		"title": "11월 21일(금) 업데이트 안내",
 		"date": "2025.11.21 (UTC+3)",
 		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=8222",
 		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/11/21/b07815f6f4520251121085954180.400x225.png",
 		"desc": "업데이트",
 		"description": "",
 		"content_id": "8222",
-		"major": false,
+		"major": true,
 		"added": "2025-11-21"
 	},
 	"8206": {
@@ -251,16 +262,5 @@
 		"content_id": "7957",
 		"major": true,
 		"added": "2025-07-18"
-	},
-	"7939": {
-		"title": "7월 11일(금) 업데이트 안내",
-		"date": "2025.07.11 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7939",
-		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/07/11/48b959d5f0220250711082656225.400x225.jpg",
-		"desc": "업데이트",
-		"description": "",
-		"content_id": "7939",
-		"major": true,
-		"added": "2025-07-11"
 	}
 }
