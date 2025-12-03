@@ -1,4 +1,15 @@
 {
+	"14870": {
+		"title": "12월 3일(수) 업데이트 안내",
+		"date": "2025.12.03",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14870&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DSL4IOYYOZKC5RM620251202193430075.400x225.png",
+		"desc": "클래스 밸런스 조정, 올비아 아카데미 배경, 푸른 전장 개선, 청명의 울림 추가 등의 업데이트",
+		"description": "",
+		"content_id": "14870",
+		"major": true,
+		"added": "2025-12-03"
+	},
 	"14832": {
 		"title": "11월 26일(수) 업데이트 안내",
 		"date": "2025.11.26",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14631",
 		"major": false,
-		"added": "2025-10-01"
-	},
-	"14607": {
-		"title": "10월 1일(수) 업데이트 안내",
-		"date": "2025.10.01",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14607&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/S3VXURQ9KLM026TB20250930181352312.400x225.png",
-		"desc": "클래스 밸런스 조정, 몬스터의 상태이상 효과 조정, 탑승물 자동 이동 시 선회 속도 상향 등의 업데이트",
-		"description": "",
-		"content_id": "14607",
-		"major": true,
 		"added": "2025-10-01"
 	}
 }
