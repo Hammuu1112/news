@@ -1,4 +1,14 @@
 {
+	"14877": {
+		"title": "12월 10일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2025.12.08",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14877&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/1QXUVWHZT1694T1220251208165935285.400x225.jpg",
+		"desc": "12월 10일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "14877",
+		"added": "2025-12-08"
+	},
 	"14875": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/12/05)",
 		"date": "2025.12.05",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14758",
 		"added": "2025-11-10"
-	},
-	"14753": {
-		"title": "[2025 마스터 클래스] 결승전 대진표 안내",
-		"date": "2025.11.10",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14753&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/DORV6ILA5AB0KJKM20251107193335799.400x225.png",
-		"desc": "결승 진출자분들께서는 경기 일정 및 시간, 그리고 대회 규약을 반드시 숙지해 주시기를 바랍니다.",
-		"description": "",
-		"content_id": "14753",
-		"added": "2025-11-07"
 	}
 }
