@@ -1,4 +1,15 @@
 {
+	"14892": {
+		"title": "12월 10일(수) 업데이트 안내",
+		"date": "2025.12.10",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14892&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/I7MVLLGOGPJ5ARUU20251209202547376.400x225.jpg",
+		"desc": "길드 리그 신규 시즌, 클래스 밸런스 조정 등의 업데이트",
+		"description": "",
+		"content_id": "14892",
+		"major": true,
+		"added": "2025-12-10"
+	},
 	"14873": {
 		"title": "12월 3일(수) 최신 버전 업데이트 안내",
 		"date": "2025.12.03",
@@ -251,16 +262,5 @@
 		"content_id": "14665",
 		"major": false,
 		"added": "2025-10-17"
-	},
-	"14663": {
-		"title": "10월 15일(수) 업데이트 안내",
-		"date": "2025.10.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14663&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/2S1LT9H7U2PHPC2F20251014230742884.400x225.png",
-		"desc": "강화UI리뉴얼, 월드 우두머리 등장 시간 조정 등의 업데이트",
-		"description": "",
-		"content_id": "14663",
-		"major": true,
-		"added": "2025-10-15"
 	}
 }

@@ -1,4 +1,24 @@
 {
+	"2989": {
+		"title": "알려진 문제점",
+		"date": "2025.12.10",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
+		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
+		"description": "",
+		"content_id": "2989",
+		"added": "2024-05-20"
+	},
+	"14904": {
+		"title": "12월 17일(수) 시즌 캐릭터 졸업 안내",
+		"date": "2025.12.10",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14904&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/RU17KL4TRVSMBDKT20251209233159375.400x225.jpg",
+		"desc": "다가오는 2025년 12월 17일(수) 정기점검 시 모든 시즌 캐릭터의 졸업이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "14904",
+		"added": "2025-12-10"
+	},
 	"14878": {
 		"title": "운영정책 위반 사용자 조치 안내 (2025/12/08)",
 		"date": "2025.12.08",
@@ -10,7 +30,7 @@
 		"added": "2025-12-08"
 	},
 	"14877": {
-		"title": "12월 10일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"title": "[완료] 12월 10일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2025.12.08",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14877&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/1QXUVWHZT1694T1220251208165935285.400x225.jpg",
@@ -28,16 +48,6 @@
 		"description": "",
 		"content_id": "14875",
 		"added": "2025-12-05"
-	},
-	"2989": {
-		"title": "알려진 문제점",
-		"date": "2025.12.05",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
-		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
-		"description": "",
-		"content_id": "2989",
-		"added": "2024-05-20"
 	},
 	"14872": {
 		"title": "[완료] 클라이언트 불안정 현상 안내",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14760",
 		"added": "2025-11-11"
-	},
-	"14759": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/11/10)",
-		"date": "2025.11.10",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14759&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O126S14HHTQYGCFA20251110182118023.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14759",
-		"added": "2025-11-10"
 	}
 }
