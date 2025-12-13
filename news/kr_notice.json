@@ -1,6 +1,16 @@
 {
+	"14911": {
+		"title": "12월 17일(수) 업데이트 예정 사항 관련 사전 안내",
+		"date": "2025.12.13",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14911&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/VR0C6P82WA6S8RKL20251212183504901.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14911",
+		"added": "2025-12-13"
+	},
 	"14912": {
-		"title": "12월 13일(토) 통합 거래소 점검 안내",
+		"title": "[완료] 12월 13일(토) 통합 거래소 점검 안내",
 		"date": "2025.12.13",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14912&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0C11JZ2QQN8WLQW420251212183754223.400x225.jpg",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14776",
 		"added": "2025-11-13"
-	},
-	"14768": {
-		"title": "12월 10일, 일부 이벤트 인장이 '보답의 인장'으로 통합됩니다.",
-		"date": "2025.11.12",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14768&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/5INJRX9X2Q715WR320251111191418663.400x225.jpg",
-		"desc": "사전에 안내해드린 바와 같이, 일부 이벤트 인장이 '보답의 인장'으로 통합될 예정입니다.",
-		"description": "",
-		"content_id": "14768",
-		"added": "2025-11-12"
 	}
 }

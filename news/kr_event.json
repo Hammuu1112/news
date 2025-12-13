@@ -1,4 +1,26 @@
 {
+	"14915": {
+		"title": "[검은사막 연구소] 신규 클래스, 세라핌 사전 체험",
+		"deadline": "2025-12-17",
+		"count": "5 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14915&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/HZU8UHL54EYPBBRA20251212184914228.400x225.jpg",
+		"description": "",
+		"content_id": "14915",
+		"new_tag": true,
+		"added": "2025-12-13"
+	},
+	"14914": {
+		"title": "[검은사막X붉은사막] 붉은사막 예약 구매 특전​, 검은사막 한정판 아이템 지급!",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14914&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/G3E5ZY5Z94IECJI920251212184553178.400x225.jpg",
+		"description": "",
+		"content_id": "14914",
+		"new_tag": true,
+		"added": "2025-12-13"
+	},
 	"14906": {
 		"title": "도란도란, 2025 칼페온 연회 같이보기",
 		"deadline": "2025-12-17",
@@ -240,27 +262,5 @@
 		"content_id": "13891",
 		"new_tag": false,
 		"added": "2025-11-27"
-	},
-	"13326": {
-		"title": "내가 꿈꿔온 모험의 시작, 환상마 + 꿈결 환상마 획득!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13326&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/NLTFV2E11RQK64W620250305142723080.400x225.jpg",
-		"description": "",
-		"content_id": "13326",
-		"new_tag": false,
-		"added": "2025-12-03"
-	},
-	"11432": {
-		"title": "[검은별 무기] 동(V) + 유(IV) 검은별, 앞으로 펼쳐질 도전의 시작",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=11432&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O4OVKJY55THQWQ5J20250618061612608.400x225.gif",
-		"description": "",
-		"content_id": "11432",
-		"new_tag": false,
-		"added": "2025-12-03"
 	}
 }
