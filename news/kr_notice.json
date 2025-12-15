@@ -1,4 +1,24 @@
 {
+	"14932": {
+		"title": "12월 17일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2025.12.15",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14932&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/HOKOQ7VOLRRFZ6ER20251215164506588.400x225.jpg",
+		"desc": "12월 17일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "14932",
+		"added": "2025-12-15"
+	},
+	"14931": {
+		"title": "운영정책 위반 사용자 조치 안내 (2025/12/15)",
+		"date": "2025.12.15",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14931&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YLPTIYA0FOO0UT0Z20251215164404294.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14931",
+		"added": "2025-12-15"
+	},
 	"14911": {
 		"title": "12월 17일(수) 업데이트 예정 사항 관련 사전 안내",
 		"date": "2025.12.13",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "14781",
 		"added": "2025-11-14"
-	},
-	"14780": {
-		"title": "11월 14일(금) 통합 거래소 점검 안내",
-		"date": "2025.11.14",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14780&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/G6SB5X4QHHJ722K620251114160925924.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14780",
-		"added": "2025-11-14"
-	},
-	"14776": {
-		"title": "[완료] 11월 14일(금) 서버 임시 점검 안내",
-		"date": "2025.11.13",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14776&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/E4A0CZRW8PNQ3H6R20251113192423272.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14776",
-		"added": "2025-11-13"
 	}
 }
