@@ -1,4 +1,15 @@
 {
+	"14944": {
+		"title": "12월 17일(수) 업데이트 안내",
+		"date": "2025.12.17",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14944&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3MHKQLA0O9EAV82N20251216192750455.400x225.png",
+		"desc": "신규 클래스 세라핌, 아토락시온 개선, 시즌 콘텐츠 개선, 어둠의 틈 우두머리 보상 상향 등의 업데이트",
+		"description": "",
+		"content_id": "14944",
+		"major": true,
+		"added": "2025-12-17"
+	},
 	"14907": {
 		"title": "12월 10일(수) 최신 버전 업데이트 안내",
 		"date": "2025.12.10",
@@ -251,16 +262,5 @@
 		"content_id": "14677",
 		"major": true,
 		"added": "2025-10-22"
-	},
-	"14667": {
-		"title": "10월 17일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "2025.10.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14667&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/JUPBMH7L21HH88IR20251017163419459.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14667",
-		"major": false,
-		"added": "2025-10-17"
 	}
 }
