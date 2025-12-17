@@ -1,4 +1,15 @@
 {
+	"14962": {
+		"title": "12월 17일(수) 최신 버전 업데이트 안내",
+		"date": "2025.12.17",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14962&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/E2LE2TWA8Z3BH4HB20251217152744807.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "14962",
+		"major": false,
+		"added": "2025-12-17"
+	},
 	"14944": {
 		"title": "12월 17일(수) 업데이트 안내",
 		"date": "2025.12.17",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14691",
 		"major": false,
-		"added": "2025-10-22"
-	},
-	"14677": {
-		"title": "10월 22일(수) 업데이트 안내",
-		"date": "2025.10.22",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14677&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/OOHIP6SWFL7PRISE20251021211337834.400x225.png",
-		"desc": "솔라레의 창 신규 시즌, 선박 외형 장비 제작식 추가, 일부 마력의 수정 능력치 조정 등의 업데이트",
-		"description": "",
-		"content_id": "14677",
-		"major": true,
 		"added": "2025-10-22"
 	}
 }
