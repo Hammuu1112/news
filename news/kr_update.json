@@ -1,4 +1,15 @@
 {
+	"14989": {
+		"title": "12월 23일(화) 업데이트 안내",
+		"date": "2025.12.23",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/UZHY5Q3MTH88WB8I20251223060515193.400x225.png",
+		"desc": "우두머리 시간표 변경, 신규 야생마 추가, 공헌도 부산물 밸런스 조정 등의 업데이트",
+		"description": "",
+		"content_id": "14989",
+		"major": true,
+		"added": "2025-12-23"
+	},
 	"14968": {
 		"title": "12월 19일(금) 임시 점검 업데이트 안내",
 		"date": "2025.12.19",
@@ -249,17 +260,6 @@
 		"desc": "10월 24일(금) 검은사막+ 최신 업데이트 내용을 안내드립니다.",
 		"description": "",
 		"content_id": "14695",
-		"major": false,
-		"added": "2025-10-24"
-	},
-	"14694": {
-		"title": "10월 23일(목) 최신 버전 업데이트 안내",
-		"date": "2025.10.23",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14694&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EBP85JO2MUH37Q4Y20251023224940737.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14694",
 		"major": false,
 		"added": "2025-10-24"
 	}
