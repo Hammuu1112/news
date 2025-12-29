@@ -1,4 +1,14 @@
 {
+	"15011": {
+		"title": "연금석 개편 관련 안내",
+		"date": "2025.12.29",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15011&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/OBMPI16DQI6BKW4B20251229213754455.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15011",
+		"added": "2025-12-29"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2025.12.26",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14820",
 		"added": "2025-11-24"
-	},
-	"14814": {
-		"title": "[완료] 11월 21일(금) 일부 서버 점검 안내",
-		"date": "2025.11.21",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14814&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0KLMLYOX5HYTUT4P20251121160208899.400x225.jpg",
-		"desc": "11월 21일(금) 일부 서버 점검을 안내해 드립니다.",
-		"description": "",
-		"content_id": "14814",
-		"added": "2025-11-21"
 	}
 }
