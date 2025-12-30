@@ -1,4 +1,15 @@
 {
+	"15012": {
+		"title": "12월 30일(화) 업데이트 안내",
+		"date": "2025.12.30",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15012&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MGKHOXO6WZASJLRM20251229223831864.400x225.png",
+		"desc": "12월 30일(화) 업데이트 안내",
+		"description": "",
+		"content_id": "15012",
+		"major": true,
+		"added": "2025-12-30"
+	},
 	"14989": {
 		"title": "12월 23일(화) 업데이트 안내",
 		"date": "2025.12.23",
@@ -249,17 +260,6 @@
 		"desc": "",
 		"description": "",
 		"content_id": "14696",
-		"major": false,
-		"added": "2025-10-24"
-	},
-	"14695": {
-		"title": "[검은사막+] 10월 24일(금) 업데이트 안내",
-		"date": "2025.10.24",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14695&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/8HONR4WWLOSRYEEI20251024111157951.400x225.jpg",
-		"desc": "10월 24일(금) 검은사막+ 최신 업데이트 내용을 안내드립니다.",
-		"description": "",
-		"content_id": "14695",
 		"major": false,
 		"added": "2025-10-24"
 	}
