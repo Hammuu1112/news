@@ -1,4 +1,15 @@
 {
+	"15028": {
+		"title": "1월 2일(금) 최신 버전 업데이트 안내",
+		"date": "2026.01.02",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15028&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/CBUSHNOW27P83QUU20260102171355532.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15028",
+		"major": false,
+		"added": "2026-01-02"
+	},
 	"15022": {
 		"title": "12월 30일(화) 순차 점검 업데이트 안내",
 		"date": "2025.12.30",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14718",
 		"major": false,
-		"added": "2025-10-29"
-	},
-	"14715": {
-		"title": "10월 29일(수) 업데이트 안내",
-		"date": "2025.10.29",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14715&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/354IE4NFLRIAIGLV20251028191617118.400x225.png",
-		"desc": "나만의 메이드, 발크스의 조언 아이콘 개선, 불멸의 나락 난이도 조정, 재련석 프리셋 등의 업데이트",
-		"description": "",
-		"content_id": "14715",
-		"major": true,
 		"added": "2025-10-29"
 	}
 }
