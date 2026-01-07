@@ -1,4 +1,15 @@
 {
+	"15054": {
+		"title": "1월 7일(수) 업데이트 안내",
+		"date": "2026.01.07",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15054&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/HRVMZNHHQM4GU71H20260106203215075.400x225.jpg",
+		"desc": "세라핌 클래스 라밤의 깨달음 기술 추가, 길드 우두머리 개선, 크로그달로의 둥지 개선, 태초의 블랙스톤 스택화 등의 업데이트",
+		"description": "",
+		"content_id": "15054",
+		"major": true,
+		"added": "2026-01-07"
+	},
 	"15028": {
 		"title": "1월 2일(금) 최신 버전 업데이트 안내",
 		"date": "2026.01.02",
@@ -251,16 +262,5 @@
 		"content_id": "14744",
 		"major": true,
 		"added": "2025-11-05"
-	},
-	"14718": {
-		"title": "10월 29일(수) 최신 버전 업데이트 안내",
-		"date": "2025.10.29",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14718&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YGDBPLJYSAZUF40E20251029184714934.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14718",
-		"major": false,
-		"added": "2025-10-29"
 	}
 }

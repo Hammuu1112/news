@@ -10,6 +10,28 @@
 		"new_tag": true,
 		"added": "2025-03-26"
 	},
+	"15042": {
+		"title": "[길드] 강화된 길드 토벌 임무!",
+		"deadline": "2026-01-21",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15042&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/RNT0W16JZO7C495V20260106172151524.400x225.jpg",
+		"description": "",
+		"content_id": "15042",
+		"new_tag": true,
+		"added": "2026-01-07"
+	},
+	"15041": {
+		"title": "붉은 말의 해, 새해 맞이 스페셜 접속 보상",
+		"deadline": "2026-02-10",
+		"count": "35 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15041&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/IB4YBFPNHV6LIXW320260106171143212.400x225.jpg",
+		"description": "",
+		"content_id": "15041",
+		"new_tag": true,
+		"added": "2026-01-07"
+	},
 	"15009": {
 		"title": "무대에서 ✦ 찰칵, 나의 무대를 공유해 주세요!",
 		"deadline": "2026-01-14",
@@ -18,18 +40,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0UX6YKUI7HBWHGVS20251229211341464.400x225.jpg",
 		"description": "",
 		"content_id": "15009",
-		"new_tag": true,
-		"added": "2025-12-30"
-	},
-	"15008": {
-		"title": "행복 가득한 새해, 라라의 복주머니와 핫타임",
-		"deadline": "2026-01-07",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15008&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/81VG8CZ3CUQCYWUJ20251229211234420.400x225.png",
-		"description": "",
-		"content_id": "15008",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-12-30"
 	},
 	"15007": {
@@ -40,7 +51,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/UQLYUGL4T8M8JK6420251229211054400.400x225.png",
 		"description": "",
 		"content_id": "15007",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2025-12-30"
 	},
 	"15006": {
@@ -51,19 +62,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/1M2ZT7RIUXFZQ55420251229210947850.400x225.jpg",
 		"description": "",
 		"content_id": "15006",
-		"new_tag": true,
-		"added": "2025-12-30"
-	},
-	"14988": {
-		"title": "[우당탕탕쿵탕, 눈꽃 설원] #3 무시무시한 설인 피크 토벌!",
-		"deadline": "2026-01-07",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14988&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/QO05KIWCPY56S6U120251222213309095.400x225.jpg",
-		"description": "",
-		"content_id": "14988",
 		"new_tag": false,
-		"added": "2025-12-23"
+		"added": "2025-12-30"
 	},
 	"14987": {
 		"title": "[우당탕탕쿵탕, 눈꽃 설원] #2 빙어 낚시와 겨울 간식 상점!",
@@ -84,17 +84,6 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/BWT04MWKIWZVX7LD20251222212952110.400x225.jpg",
 		"description": "",
 		"content_id": "14986",
-		"new_tag": false,
-		"added": "2025-12-23"
-	},
-	"14985": {
-		"title": "연말에 찾아온 특별한 선물",
-		"deadline": "2026-01-07",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14985&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/BEGNRDG2CANOJUQ620251222212815027.400x225.jpg",
-		"description": "",
-		"content_id": "14985",
 		"new_tag": false,
 		"added": "2025-12-23"
 	},
@@ -142,17 +131,6 @@
 		"new_tag": false,
 		"added": "2025-12-17"
 	},
-	"14570": {
-		"title": "[시즌] 동(V) 우두머리 방어구 2개, 초고속 성장",
-		"deadline": "2026-01-07",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14570&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/JBBSZLIMMA248K0B20250923190910646.400x225.jpg",
-		"description": "",
-		"content_id": "14570",
-		"new_tag": false,
-		"added": "2025-09-24"
-	},
 	"10977": {
 		"title": "[리뉴얼] 초고속 성장 지원, 시즌 패스",
 		"deadline": "-",
@@ -174,17 +152,6 @@
 		"content_id": "14914",
 		"new_tag": false,
 		"added": "2025-12-13"
-	},
-	"14887": {
-		"title": "호흡을 맞춰 길드 리그 전장으로 출격!",
-		"deadline": "2026-01-07",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14887&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/RMZO4VU6LO9EB21T20251209191315331.400x225.jpg",
-		"description": "",
-		"content_id": "14887",
-		"new_tag": false,
-		"added": "2025-12-10"
 	},
 	"14829": {
 		"title": "샤카투 상단의 스페셜 패스 - 데일리 스페셜",
@@ -262,5 +229,38 @@
 		"content_id": "13326",
 		"new_tag": false,
 		"added": "2026-01-04"
+	},
+	"11432": {
+		"title": "[검은별 무기] 동(V) + 유(IV) 검은별, 앞으로 펼쳐질 도전의 시작",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=11432&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O4OVKJY55THQWQ5J20250618061612608.400x225.gif",
+		"description": "",
+		"content_id": "11432",
+		"new_tag": false,
+		"added": "2026-01-07"
+	},
+	"14151": {
+		"title": "365일, 상시 적용되는 특별한 이벤트 혜택 모아보기",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14151&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MTPJD8ODLSKQ2P9020250624203045795.400x225.png",
+		"description": "",
+		"content_id": "14151",
+		"new_tag": false,
+		"added": "2026-01-07"
+	},
+	"6968": {
+		"title": "검은사막 PC방 혜택 안내",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
+		"description": "",
+		"content_id": "6968",
+		"new_tag": false,
+		"added": "2026-01-07"
 	}
 }
