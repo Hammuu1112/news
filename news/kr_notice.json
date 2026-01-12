@@ -1,4 +1,14 @@
 {
+	"15065": {
+		"title": "1월 14일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2026.01.12",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15065&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/PZTBAUD9JIPFQTGY20260112164717989.400x225.jpg",
+		"desc": "1월 14일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "15065",
+		"added": "2026-01-12"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.01.10",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "14875",
 		"added": "2025-12-05"
-	},
-	"14872": {
-		"title": "[완료] 클라이언트 불안정 현상 안내",
-		"date": "2025.12.03",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14872&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/OCIDNJMNEGFKDINC20251203094910673.400x225.jpg",
-		"desc": "2025년 12월 3일(수) 정기점검 후 클라이언트가 종료된다는 모험가님들의 제보가 있어 자세한 내용을 확인 중입니다.",
-		"description": "",
-		"content_id": "14872",
-		"added": "2025-12-03"
 	}
 }
