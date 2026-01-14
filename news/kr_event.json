@@ -10,6 +10,50 @@
 		"new_tag": true,
 		"added": "2025-03-26"
 	},
+	"15071": {
+		"title": "[서울 패션쇼] 빛나는 모든 순간, 스포트라이트 런웨이",
+		"deadline": "2026-01-17",
+		"count": "4 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15071&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/D7BMAR1Y6W1LX85E20260113175214192.400x225.png",
+		"description": "",
+		"content_id": "15071",
+		"new_tag": true,
+		"added": "2026-01-14"
+	},
+	"15069": {
+		"title": "벨/가모스 처치 시 꾸러미가 하나 더",
+		"deadline": "2026-01-28",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15069&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/3V8I52OZ36TSQG5Q20260113172645416.400x225.jpg",
+		"description": "",
+		"content_id": "15069",
+		"new_tag": true,
+		"added": "2026-01-14"
+	},
+	"15068": {
+		"title": "[사냥/채광] 달리사인의 미지의 광석 연구",
+		"deadline": "2026-01-28",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15068&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/PUAZJMIMO8OK6XXM20260113172035756.400x225.png",
+		"description": "",
+		"content_id": "15068",
+		"new_tag": true,
+		"added": "2026-01-14"
+	},
+	"15067": {
+		"title": "치열한 거점전의 전장 속으로, 길드원과 함께 출발",
+		"deadline": "2026-02-04",
+		"count": "22 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15067&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/YMOM172B3DJOE4SI20260113171543554.400x225.jpg",
+		"description": "",
+		"content_id": "15067",
+		"new_tag": true,
+		"added": "2026-01-14"
+	},
 	"15042": {
 		"title": "[길드] 강화된 길드 토벌 임무!",
 		"deadline": "2026-01-21",
@@ -18,7 +62,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/RNT0W16JZO7C495V20260106172151524.400x225.jpg",
 		"description": "",
 		"content_id": "15042",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-01-07"
 	},
 	"15041": {
@@ -29,19 +73,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/IB4YBFPNHV6LIXW320260106171143212.400x225.jpg",
 		"description": "",
 		"content_id": "15041",
-		"new_tag": true,
-		"added": "2026-01-07"
-	},
-	"15009": {
-		"title": "무대에서 ✦ 찰칵, 나의 무대를 공유해 주세요!",
-		"deadline": "2026-01-14",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15009&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/0UX6YKUI7HBWHGVS20251229211341464.400x225.jpg",
-		"description": "",
-		"content_id": "15009",
 		"new_tag": false,
-		"added": "2025-12-30"
+		"added": "2026-01-07"
 	},
 	"15007": {
 		"title": "영롱한 샤카투의 인장과 함께! 일반 접속 보상",
@@ -95,28 +128,6 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/5NIBO61WNVP5VAFU20251216191252276.400x225.jpg",
 		"description": "",
 		"content_id": "14941",
-		"new_tag": false,
-		"added": "2025-12-17"
-	},
-	"14940": {
-		"title": "[신규 클래스 출시] 사냥/채집/낚시로 획득, 세라핌의 인장!",
-		"deadline": "2026-01-14",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14940&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/IAE1ED5OCHD8ZJOI20251216190827365.400x225.png",
-		"description": "",
-		"content_id": "14940",
-		"new_tag": false,
-		"added": "2025-12-17"
-	},
-	"14939": {
-		"title": "시즌 캐릭터 생성권과 함께, 세라핌 레벨업 도전과제!",
-		"deadline": "2026-01-14",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14939&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EMQBSL8GI6YRUETH20251216190610976.400x225.jpg",
-		"description": "",
-		"content_id": "14939",
 		"new_tag": false,
 		"added": "2025-12-17"
 	},
@@ -249,17 +260,6 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MTPJD8ODLSKQ2P9020250624203045795.400x225.png",
 		"description": "",
 		"content_id": "14151",
-		"new_tag": false,
-		"added": "2026-01-07"
-	},
-	"6968": {
-		"title": "검은사막 PC방 혜택 안내",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
-		"description": "",
-		"content_id": "6968",
 		"new_tag": false,
 		"added": "2026-01-07"
 	}
