@@ -1,4 +1,14 @@
 {
+	"6782": {
+		"title": "알려진 문제점 (최종수정 : 2026-01-16 18:18)",
+		"date": "2026.01.16 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=6782",
+		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/News/e38d9bf127c20200604160910117.400x225.jpg",
+		"desc": "공지사항",
+		"description": "",
+		"content_id": "6782",
+		"added": "2026-01-09"
+	},
 	"12781": {
 		"title": "1월 16일(금) 서비스 정기점검 안내",
 		"date": "2026.01.14 (UTC+3)",
@@ -8,16 +18,6 @@
 		"description": "",
 		"content_id": "12781",
 		"added": "2026-01-14"
-	},
-	"6782": {
-		"title": "알려진 문제점 (최종수정 : 2026-01-09 18:00)",
-		"date": "2026.01.09 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=6782",
-		"thumbnail": "https://s1.pearlcdn.com/GLOBAL-LAB/Upload/News/e38d9bf127c20200604160910117.400x225.jpg",
-		"desc": "공지사항",
-		"description": "",
-		"content_id": "6782",
-		"added": "2026-01-09"
 	},
 	"12747": {
 		"title": "1월 9일(금) 서비스 정기점검 안내",
