@@ -1,15 +1,4 @@
 {
-	"15088": {
-		"title": "서울 패션쇼와 함께하는 크리에이터 드롭스",
-		"deadline": "2026-01-17",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15088&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/8TP7FQKU5YM0XSJY20260116184810001.400x225.jpg",
-		"description": "",
-		"content_id": "15088",
-		"new_tag": true,
-		"added": "2026-01-16"
-	},
 	"13733": {
 		"title": "[진행중인 이벤트 모아보기]",
 		"deadline": "-",
@@ -262,5 +251,16 @@
 		"content_id": "11432",
 		"new_tag": false,
 		"added": "2026-01-07"
+	},
+	"14151": {
+		"title": "365일, 상시 적용되는 특별한 이벤트 혜택 모아보기",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14151&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MTPJD8ODLSKQ2P9020250624203045795.400x225.png",
+		"description": "",
+		"content_id": "14151",
+		"new_tag": false,
+		"added": "2026-01-17"
 	}
 }
