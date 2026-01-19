@@ -76,17 +76,6 @@
 		"new_tag": false,
 		"added": "2025-12-30"
 	},
-	"15006": {
-		"title": "스노보드 권역/개인 랭킹 대전 START",
-		"deadline": "2026-01-19",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15006&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/1M2ZT7RIUXFZQ55420251229210947850.400x225.jpg",
-		"description": "",
-		"content_id": "15006",
-		"new_tag": false,
-		"added": "2025-12-30"
-	},
 	"14987": {
 		"title": "[우당탕탕쿵탕, 눈꽃 설원] #2 빙어 낚시와 겨울 간식 상점!",
 		"deadline": "2026-01-21",
@@ -262,5 +251,16 @@
 		"content_id": "6968",
 		"new_tag": false,
 		"added": "2026-01-18"
+	},
+	"2783": {
+		"title": "신규&복귀 모험가님을 위한 놓칠 수 없는 혜택!",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2783&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/4KM094V3X82N5SE720220630143044011.400x225.jpg",
+		"description": "",
+		"content_id": "2783",
+		"new_tag": false,
+		"added": "2026-01-19"
 	}
 }

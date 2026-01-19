@@ -1,4 +1,24 @@
 {
+	"15095": {
+		"title": "1월 21일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2026.01.19",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15095&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/A9ABAUZC9CXLBY4I20260119163333338.400x225.jpg",
+		"desc": "1월 21일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "15095",
+		"added": "2026-01-19"
+	},
+	"15093": {
+		"title": "운영정책 위반 사용자 조치 안내 (2026/01/19)",
+		"date": "2026.01.19",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15093&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/5BR0QDGNRMK1H4F820260119145923275.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15093",
+		"added": "2026-01-19"
+	},
 	"15087": {
 		"title": "[완료] 1월 16일(금) 통합 거래소 점검 안내",
 		"date": "2026.01.16",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "14912",
 		"added": "2025-12-13"
-	},
-	"14908": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/12/10)",
-		"date": "2025.12.10",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14908&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/BB3ZOPPJROT9WNJP20251210180646041.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14908",
-		"added": "2025-12-10"
-	},
-	"14904": {
-		"title": "12월 17일(수) 시즌 캐릭터 졸업 안내",
-		"date": "2025.12.10",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14904&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/RU17KL4TRVSMBDKT20251209233159375.400x225.jpg",
-		"desc": "다가오는 2025년 12월 17일(수) 정기점검 시 모든 시즌 캐릭터의 졸업이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "14904",
-		"added": "2025-12-10"
 	}
 }
