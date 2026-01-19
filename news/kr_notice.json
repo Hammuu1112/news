@@ -1,4 +1,14 @@
 {
+	"2989": {
+		"title": "알려진 문제점",
+		"date": "2026.01.19",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
+		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
+		"description": "",
+		"content_id": "2989",
+		"added": "2024-05-20"
+	},
 	"15095": {
 		"title": "1월 21일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2026.01.19",
@@ -38,16 +48,6 @@
 		"description": "",
 		"content_id": "15086",
 		"added": "2026-01-16"
-	},
-	"2989": {
-		"title": "알려진 문제점",
-		"date": "2026.01.14",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
-		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
-		"description": "",
-		"content_id": "2989",
-		"added": "2024-05-20"
 	},
 	"15066": {
 		"title": "운영정책 위반 사용자 조치 안내 (2026/01/12)",
