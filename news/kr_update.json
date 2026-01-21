@@ -1,4 +1,15 @@
 {
+	"15106": {
+		"title": "1월 21일(수) 업데이트 안내",
+		"date": "2026.01.21",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15106&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/E3IIDZ7U136ET1Y720260120202202533.400x225.png",
+		"desc": " 올비아 아카데미, 최상위 사냥터 태그 추가, 이펙트 염색 기능 등의 업데이트",
+		"description": "",
+		"content_id": "15106",
+		"major": true,
+		"added": "2026-01-21"
+	},
 	"15084": {
 		"title": "1월 14일(수) 최신 버전 업데이트 안내",
 		"date": "2026.01.14",
@@ -251,16 +262,5 @@
 		"content_id": "14778",
 		"major": false,
 		"added": "2025-11-14"
-	},
-	"14769": {
-		"title": "11월 12일(수) 업데이트 안내",
-		"date": "2025.11.12",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14769&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/7SMC840JQC0WDAER20251111192935106.400x225.png",
-		"desc": "에다나의 권좌 개선, 물물교환 1단계 교역품 변경, 에다니아 사냥터 전리품 조정 등의 업데이트",
-		"description": "",
-		"content_id": "14769",
-		"major": true,
-		"added": "2025-11-12"
 	}
 }
