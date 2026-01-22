@@ -1,4 +1,15 @@
 {
+	"15111": {
+		"title": "1월 22일(목) 최신 버전 업데이트 안내",
+		"date": "2026.01.22",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15111&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/J7HRSJ0TWR3RHLJO20260122121446145.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15111",
+		"major": false,
+		"added": "2026-01-22"
+	},
 	"15106": {
 		"title": "1월 21일(수) 업데이트 안내",
 		"date": "2026.01.21",
@@ -249,17 +260,6 @@
 		"desc": "",
 		"description": "",
 		"content_id": "14777",
-		"major": false,
-		"added": "2025-11-14"
-	},
-	"14778": {
-		"title": "11월 14일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "2025.11.14",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14778&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EOJBWHRJD853S9QM20251114115321376.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14778",
 		"major": false,
 		"added": "2025-11-14"
 	}
