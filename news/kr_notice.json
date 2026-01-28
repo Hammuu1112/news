@@ -1,7 +1,17 @@
 {
+	"15139": {
+		"title": "1월 28일(수) 일부 서버 점검 안내",
+		"date": "2026.01.28",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15139&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/GQPLFPJXNF9MB42920260128105140596.400x225.jpg",
+		"desc": "점검이 진행되는 서버 이외의 서버는 정상적으로 이용 가능한 점 안내해 드립니다.",
+		"description": "",
+		"content_id": "15139",
+		"added": "2026-01-28"
+	},
 	"2989": {
 		"title": "알려진 문제점",
-		"date": "2026.01.27",
+		"date": "2026.01.28",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
 		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
@@ -9,8 +19,18 @@
 		"content_id": "2989",
 		"added": "2024-05-20"
 	},
+	"15132": {
+		"title": "운영정책 위반 사용자 조치 안내 (2026/01/28)",
+		"date": "2026.01.28",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15132&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/JTI1JDRWGM5QWOXC20260127174543964.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15132",
+		"added": "2026-01-28"
+	},
 	"15118": {
-		"title": "1월 28일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"title": "[완료] 1월 28일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2026.01.26",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15118&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/49DXVLWGIY7DQGCL20260126165902636.400x225.jpg",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "14932",
 		"added": "2025-12-15"
-	},
-	"14931": {
-		"title": "운영정책 위반 사용자 조치 안내 (2025/12/15)",
-		"date": "2025.12.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14931&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/YLPTIYA0FOO0UT0Z20251215164404294.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14931",
-		"added": "2025-12-15"
-	},
-	"14911": {
-		"title": "12월 17일(수) 업데이트 예정 사항 관련 사전 안내",
-		"date": "2025.12.13",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14911&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/VR0C6P82WA6S8RKL20251212183504901.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14911",
-		"added": "2025-12-13"
 	}
 }
