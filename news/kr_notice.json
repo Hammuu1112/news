@@ -1,14 +1,4 @@
 {
-	"15179": {
-		"title": "[완료] 2월 4일(수) 서버 임시 점검 안내",
-		"date": "2026.02.04",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15179&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/8SXB69I18DMEPQ0Y20260204143219409.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15179",
-		"added": "2026-02-04"
-	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.02.04",
@@ -18,6 +8,16 @@
 		"description": "",
 		"content_id": "2989",
 		"added": "2024-05-20"
+	},
+	"15179": {
+		"title": "[완료] 2월 4일(수) 서버 임시 점검 안내",
+		"date": "2026.02.04",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15179&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/8SXB69I18DMEPQ0Y20260204143219409.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15179",
+		"added": "2026-02-04"
 	},
 	"15151": {
 		"title": "[완료] 2월 4일(수) 서비스 정기점검 및 홈페이지 점검 안내",
