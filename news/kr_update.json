@@ -1,4 +1,15 @@
 {
+	"15169": {
+		"title": "2월 4일(수) 업데이트 안내",
+		"date": "2026.02.04",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15169&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/YMS1PJV39RLCXLSG20260203185412119.400x225.jpg",
+		"desc": "방어력 세팅 밸런스 조정, 푸른 전장 개선, 월드 우두머리 개선 등의 업데이트",
+		"description": "",
+		"content_id": "15169",
+		"major": true,
+		"added": "2026-02-04"
+	},
 	"15141": {
 		"title": "1월 28일(수) 순차 점검 업데이트 안내",
 		"date": "2026.01.28",
@@ -251,16 +262,5 @@
 		"content_id": "14815",
 		"major": false,
 		"added": "2025-11-21"
-	},
-	"14810": {
-		"title": "11월 20일(목) 최신 버전 업데이트 안내",
-		"date": "2025.11.20",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14810&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/FF9F8W6ZDVIMHOCQ20251120141313238.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14810",
-		"major": false,
-		"added": "2025-11-20"
 	}
 }
