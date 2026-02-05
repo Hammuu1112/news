@@ -1,4 +1,15 @@
 {
+	"15185": {
+		"title": "2월 5일(목) 최신 버전 업데이트 안내",
+		"date": "2026.02.05",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15185&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/TITUSAB0I7JW8K5X20260205171516734.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15185",
+		"major": false,
+		"added": "2026-02-05"
+	},
 	"15184": {
 		"title": "2월 4일(수) 임시 점검 업데이트 안내",
 		"date": "2026.02.04",
@@ -251,16 +262,5 @@
 		"content_id": "14870",
 		"major": true,
 		"added": "2025-12-03"
-	},
-	"14832": {
-		"title": "11월 26일(수) 업데이트 안내",
-		"date": "2025.11.26",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14832&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/N9JTI6UYL9ASXV3F20251125190745842.400x225.png",
-		"desc": "대창귀 팔/구십재시니, 잡동사니 전리품 무게 조정 집 계약 및 증축 시간 단축 등의 업데이트",
-		"description": "",
-		"content_id": "14832",
-		"major": true,
-		"added": "2025-11-26"
 	}
 }
