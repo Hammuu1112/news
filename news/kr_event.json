@@ -1,4 +1,15 @@
 {
+	"15201": {
+		"title": "PvP 크리에이터와 함께, 세라핌 아르샤의 창 대전",
+		"deadline": "2026-02-13",
+		"count": "4 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15201&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/VOSL90XGBCVK32GK20260210185056455.400x225.jpg",
+		"description": "",
+		"content_id": "15201",
+		"new_tag": true,
+		"added": "2026-02-10"
+	},
 	"13733": {
 		"title": "[진행중인 이벤트 모아보기]",
 		"deadline": "-",
@@ -251,16 +262,5 @@
 		"content_id": "14151",
 		"new_tag": false,
 		"added": "2026-01-17"
-	},
-	"6968": {
-		"title": "검은사막 PC방 혜택 안내",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
-		"description": "",
-		"content_id": "6968",
-		"new_tag": false,
-		"added": "2026-02-01"
 	}
 }
