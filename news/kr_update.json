@@ -1,4 +1,15 @@
 {
+	"15219": {
+		"title": "2월 12일(목) 최신 버전 업데이트 안내",
+		"date": "2026.02.12",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15219&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/JXD9GR15MTWTOBXM20260212150937074.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15219",
+		"major": false,
+		"added": "2026-02-12"
+	},
 	"15217": {
 		"title": "2월 11일(수) 최신 버전 업데이트 안내",
 		"date": "2026.02.11",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14907",
 		"major": false,
-		"added": "2025-12-10"
-	},
-	"14892": {
-		"title": "12월 10일(수) 업데이트 안내",
-		"date": "2025.12.10",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14892&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/I7MVLLGOGPJ5ARUU20251209202547376.400x225.jpg",
-		"desc": "길드 리그 신규 시즌, 클래스 밸런스 조정 등의 업데이트",
-		"description": "",
-		"content_id": "14892",
-		"major": true,
 		"added": "2025-12-10"
 	}
 }
