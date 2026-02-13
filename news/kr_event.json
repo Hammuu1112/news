@@ -65,17 +65,6 @@
 		"new_tag": true,
 		"added": "2026-02-11"
 	},
-	"15201": {
-		"title": "PvP 크리에이터와 함께, 세라핌 아르샤의 창 대전",
-		"deadline": "2026-02-13",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15201&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/VOSL90XGBCVK32GK20260210185056455.400x225.jpg",
-		"description": "",
-		"content_id": "15201",
-		"new_tag": true,
-		"added": "2026-02-10"
-	},
 	"15167": {
 		"title": "[스크린샷] 달콤 또는 쌉싸름한, 아카데미에 찾아온 발렌타인 데이",
 		"deadline": "2026-02-18",
@@ -262,5 +251,16 @@
 		"content_id": "13326",
 		"new_tag": false,
 		"added": "2026-01-04"
+	},
+	"11432": {
+		"title": "[검은별 무기] 동(V) + 유(IV) 검은별, 앞으로 펼쳐질 도전의 시작",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=11432&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O4OVKJY55THQWQ5J20250618061612608.400x225.gif",
+		"description": "",
+		"content_id": "11432",
+		"new_tag": false,
+		"added": "2026-02-13"
 	}
 }
