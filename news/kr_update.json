@@ -1,4 +1,15 @@
 {
+	"15230": {
+		"title": "2월 13일(금) 임시 점검 업데이트 안내",
+		"date": "2026.02.13",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15230&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/YHUYMJUM7PJXBUNO20260213194544297.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15230",
+		"major": false,
+		"added": "2026-02-13"
+	},
 	"15219": {
 		"title": "2월 12일(목) 최신 버전 업데이트 안내",
 		"date": "2026.02.12",
@@ -251,16 +262,5 @@
 		"content_id": "14944",
 		"major": true,
 		"added": "2025-12-17"
-	},
-	"14907": {
-		"title": "12월 10일(수) 최신 버전 업데이트 안내",
-		"date": "2025.12.10",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14907&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/VTLXMREESH2M6QVE20251210173538073.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14907",
-		"major": false,
-		"added": "2025-12-10"
 	}
 }
