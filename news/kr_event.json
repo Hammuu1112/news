@@ -65,28 +65,6 @@
 		"new_tag": true,
 		"added": "2026-02-11"
 	},
-	"15167": {
-		"title": "[스크린샷] 달콤 또는 쌉싸름한, 아카데미에 찾아온 발렌타인 데이",
-		"deadline": "2026-02-18",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15167&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/DLGBPXUGNPR63QR120260203184541200.400x225.png",
-		"description": "",
-		"content_id": "15167",
-		"new_tag": false,
-		"added": "2026-02-04"
-	},
-	"15166": {
-		"title": "올비아 아카데미에서 전하는 달콤한 마음",
-		"deadline": "2026-02-18",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15166&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/40VXDXZBH82B8TO020260203184415310.400x225.jpg",
-		"description": "",
-		"content_id": "15166",
-		"new_tag": false,
-		"added": "2026-02-04"
-	},
 	"15165": {
 		"title": "전이에 필요한 연료는 단 1개",
 		"deadline": "2026-02-25",
@@ -95,17 +73,6 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/26JA2NBFXAL120OM20260203184220796.400x225.jpg",
 		"description": "",
 		"content_id": "15165",
-		"new_tag": false,
-		"added": "2026-02-04"
-	},
-	"15164": {
-		"title": "승부의 열기가 가득한 붉은 전장으로 출발(최종 수정 : 2026-02-11 09:00)",
-		"deadline": "2026-02-18",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15164&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/EQ9TP4ZVW4N4ZCMX20260203184026187.400x225.jpg",
-		"description": "",
-		"content_id": "15164",
 		"new_tag": false,
 		"added": "2026-02-04"
 	},
@@ -262,5 +229,38 @@
 		"content_id": "11432",
 		"new_tag": false,
 		"added": "2026-02-13"
+	},
+	"14151": {
+		"title": "365일, 상시 적용되는 특별한 이벤트 혜택 모아보기",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14151&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MTPJD8ODLSKQ2P9020250624203045795.400x225.png",
+		"description": "",
+		"content_id": "14151",
+		"new_tag": false,
+		"added": "2026-02-18"
+	},
+	"6968": {
+		"title": "검은사막 PC방 혜택 안내",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
+		"description": "",
+		"content_id": "6968",
+		"new_tag": false,
+		"added": "2026-02-18"
+	},
+	"2783": {
+		"title": "신규&복귀 모험가님을 위한 놓칠 수 없는 혜택!",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2783&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/4KM094V3X82N5SE720220630143044011.400x225.jpg",
+		"description": "",
+		"content_id": "2783",
+		"new_tag": false,
+		"added": "2026-02-18"
 	}
 }
