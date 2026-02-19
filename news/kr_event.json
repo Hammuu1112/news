@@ -65,6 +65,17 @@
 		"new_tag": true,
 		"added": "2026-02-11"
 	},
+	"15201": {
+		"title": "PvP 크리에이터와 함께, 세라핌 아르샤의 창 대전",
+		"deadline": "2026-02-20",
+		"count": "2 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15201&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/VOSL90XGBCVK32GK20260210185056455.400x225.jpg",
+		"description": "",
+		"content_id": "15201",
+		"new_tag": true,
+		"added": "2026-02-19"
+	},
 	"15165": {
 		"title": "전이에 필요한 연료는 단 1개",
 		"deadline": "2026-02-25",
@@ -249,17 +260,6 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
 		"description": "",
 		"content_id": "6968",
-		"new_tag": false,
-		"added": "2026-02-18"
-	},
-	"2783": {
-		"title": "신규&복귀 모험가님을 위한 놓칠 수 없는 혜택!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2783&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/4KM094V3X82N5SE720220630143044011.400x225.jpg",
-		"description": "",
-		"content_id": "2783",
 		"new_tag": false,
 		"added": "2026-02-18"
 	}
