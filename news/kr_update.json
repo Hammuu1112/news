@@ -1,4 +1,15 @@
 {
+	"15263": {
+		"title": "2월 25일(수) 업데이트 안내",
+		"date": "2026.02.25",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15263&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/UYZ7RSX1R7EE9HY420260224205944610.400x225.png",
+		"desc": "시크라이아 해저 유적 리메이크, 에다니아 수렵 몬스터 추가, 어둠 포식 효율 개선, 클래스 밸런스 조정 등의 업데이트",
+		"description": "",
+		"content_id": "15263",
+		"major": true,
+		"added": "2026-02-25"
+	},
 	"15230": {
 		"title": "2월 13일(금) 임시 점검 업데이트 안내",
 		"date": "2026.02.13",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "14962",
 		"major": false,
-		"added": "2025-12-17"
-	},
-	"14944": {
-		"title": "12월 17일(수) 업데이트 안내",
-		"date": "2025.12.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14944&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/3MHKQLA0O9EAV82N20251216192750455.400x225.png",
-		"desc": "신규 클래스 세라핌, 아토락시온 개선, 시즌 콘텐츠 개선, 어둠의 틈 우두머리 보상 상향 등의 업데이트",
-		"description": "",
-		"content_id": "14944",
-		"major": true,
 		"added": "2025-12-17"
 	}
 }
