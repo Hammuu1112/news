@@ -1,4 +1,15 @@
 {
+	"15285": {
+		"title": "3월 4일(수) 업데이트 안내",
+		"date": "2026.03.04",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15285&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/6UH5ZLCA1AJQVYRL20260303193452970.400x225.png",
+		"desc": "어둑시니 팔/구/십재시니, 흑태자 연속 의뢰, 에다니아 수렵 몬스터 개선 등의 업데이트",
+		"description": "",
+		"content_id": "15285",
+		"major": true,
+		"added": "2026-03-04"
+	},
 	"15263": {
 		"title": "2월 25일(수) 업데이트 안내",
 		"date": "2026.02.25",
@@ -251,16 +262,5 @@
 		"content_id": "14968",
 		"major": false,
 		"added": "2025-12-19"
-	},
-	"14962": {
-		"title": "12월 17일(수) 최신 버전 업데이트 안내",
-		"date": "2025.12.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14962&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/E2LE2TWA8Z3BH4HB20251217152744807.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "14962",
-		"major": false,
-		"added": "2025-12-17"
 	}
 }
