@@ -1,4 +1,15 @@
 {
+	"15308": {
+		"title": "3월 11일(수) 업데이트 안내",
+		"date": "2026.03.11",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15308&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/ITFDAUFCSP0JMTWU20260310195544745.400x225.png",
+		"desc": "클래스 밸런스 조정, 장미 전쟁 개선, 무역품 개별 판매, 월드맵 단축키 설정 등의 업데이트",
+		"description": "",
+		"content_id": "15308",
+		"major": true,
+		"added": "2026-03-11"
+	},
 	"15285": {
 		"title": "3월 4일(수) 업데이트 안내",
 		"date": "2026.03.05",
@@ -251,16 +262,5 @@
 		"content_id": "15012",
 		"major": true,
 		"added": "2025-12-30"
-	},
-	"14989": {
-		"title": "12월 23일(화) 업데이트 안내",
-		"date": "2025.12.23",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14989&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/UZHY5Q3MTH88WB8I20251223060515193.400x225.png",
-		"desc": "우두머리 시간표 변경, 신규 야생마 추가, 공헌도 부산물 밸런스 조정 등의 업데이트",
-		"description": "",
-		"content_id": "14989",
-		"major": true,
-		"added": "2025-12-23"
 	}
 }
