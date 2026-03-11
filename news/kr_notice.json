@@ -1,4 +1,14 @@
 {
+	"15311": {
+		"title": "검은사막 런처 실행 불가 현상 안내",
+		"date": "2026.03.11",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15311&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/Q9RMD6B5V4CZUXQ420260311192142838.400x225.jpg",
+		"desc": "일부 환경에서 런처 실행이 불가하다는 모험가님들의 제보가 있어 자세한 내용을 확인하고 있습니다.",
+		"description": "",
+		"content_id": "15311",
+		"added": "2026-03-11"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.03.11",
@@ -227,16 +237,6 @@
 		"desc": "",
 		"description": "",
 		"content_id": "15143",
-		"added": "2026-01-30"
-	},
-	"15144": {
-		"title": "운영정책 위반 사용자 조치 안내 (2026/01/30)",
-		"date": "2026.01.30",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15144&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/BOZ4P11XCDROL3D020260130151243826.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15144",
 		"added": "2026-01-30"
 	}
 }
