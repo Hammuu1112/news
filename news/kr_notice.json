@@ -1,14 +1,4 @@
 {
-	"15311": {
-		"title": "검은사막 런처 실행 불가 현상 안내",
-		"date": "2026.03.11",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15311&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/Q9RMD6B5V4CZUXQ420260311192142838.400x225.jpg",
-		"desc": "일부 환경에서 런처 실행이 불가하다는 모험가님들의 제보가 있어 자세한 내용을 확인하고 있습니다.",
-		"description": "",
-		"content_id": "15311",
-		"added": "2026-03-11"
-	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.03.11",
@@ -18,6 +8,16 @@
 		"description": "",
 		"content_id": "2989",
 		"added": "2024-05-20"
+	},
+	"15311": {
+		"title": "[완료] 검은사막 런처 실행 불가 현상 안내",
+		"date": "2026.03.11",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15311&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/Q9RMD6B5V4CZUXQ420260311192142838.400x225.jpg",
+		"desc": "일부 환경에서 런처 실행이 불가하다는 모험가님들의 제보가 있어 자세한 내용을 확인하고 있습니다.",
+		"description": "",
+		"content_id": "15311",
+		"added": "2026-03-11"
 	},
 	"15294": {
 		"title": "[완료] 3월 11일(수) 서비스 정기점검 및 홈페이지 점검 안내",
