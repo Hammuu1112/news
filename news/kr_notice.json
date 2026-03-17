@@ -1,4 +1,14 @@
 {
+	"15319": {
+		"title": "IDC 네트워크 장비 모듈 교체 작업 안내",
+		"date": "2026.03.17",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15319&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/J20VLBMAWL38BGLY20260317144327236.400x225.jpg",
+		"desc": "3월 17일 화요일, IDC 장비 모듈 교체 작업이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "15319",
+		"added": "2026-03-17"
+	},
 	"15318": {
 		"title": "3월 18일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2026.03.16",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "15186",
 		"added": "2026-02-06"
-	},
-	"15179": {
-		"title": "[완료] 2월 4일(수) 서버 임시 점검 안내",
-		"date": "2026.02.04",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15179&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/8SXB69I18DMEPQ0Y20260204143219409.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15179",
-		"added": "2026-02-04"
 	}
 }
