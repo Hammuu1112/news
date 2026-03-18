@@ -1,4 +1,15 @@
 {
+	"15332": {
+		"title": "3월 18일(수) 업데이트 안내",
+		"date": "2026.03.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15332&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/ZHA0IJHKIT3LS8ZL20260317200947925.400x225.png",
+		"desc": "검은 기운 범람지, 가공 UI 개선 등의 업데이트",
+		"description": "",
+		"content_id": "15332",
+		"major": true,
+		"added": "2026-03-18"
+	},
 	"15308": {
 		"title": "3월 11일(수) 업데이트 안내",
 		"date": "2026.03.11",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "15022",
 		"major": false,
-		"added": "2025-12-30"
-	},
-	"15012": {
-		"title": "12월 30일(화) 업데이트 안내",
-		"date": "2025.12.30",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15012&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MGKHOXO6WZASJLRM20251229223831864.400x225.png",
-		"desc": "12월 30일(화) 업데이트 안내",
-		"description": "",
-		"content_id": "15012",
-		"major": true,
 		"added": "2025-12-30"
 	}
 }
