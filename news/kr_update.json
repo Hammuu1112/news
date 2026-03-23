@@ -1,4 +1,15 @@
 {
+	"15346": {
+		"title": "3월 23일(월) 웹 업데이트 안내",
+		"date": "2026.03.23",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15346&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/QKQ6TFM8ESTPOJ0S20260323220132105.400x225.jpg",
+		"desc": "3월 23일(월) 웹 업데이트 사항을 안내드립니다.",
+		"description": "",
+		"content_id": "15346",
+		"major": false,
+		"added": "2026-03-23"
+	},
 	"15335": {
 		"title": "3월 20일(금) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2026.03.20",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "15055",
 		"major": false,
-		"added": "2026-01-07"
-	},
-	"15054": {
-		"title": "1월 7일(수) 업데이트 안내",
-		"date": "2026.01.07",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15054&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/HRVMZNHHQM4GU71H20260106203215075.400x225.jpg",
-		"desc": "세라핌 클래스 라밤의 깨달음 기술 추가, 길드 우두머리 개선, 크로그달로의 둥지 개선, 태초의 블랙스톤 스택화 등의 업데이트",
-		"description": "",
-		"content_id": "15054",
-		"major": true,
 		"added": "2026-01-07"
 	}
 }
