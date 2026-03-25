@@ -1,4 +1,15 @@
 {
+	"15352": {
+		"title": "3월 25일(수) 업데이트 안내",
+		"date": "2026.03.25",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15352&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/5K188662240CR5JS20260324181526708.400x225.jpg",
+		"desc": "클래스 밸런스 조정, 고드아이드 무기 삭제, 월드맵 편의성 개선 등의 업데이트",
+		"description": "",
+		"content_id": "15352",
+		"major": true,
+		"added": "2026-03-25"
+	},
 	"15346": {
 		"title": "3월 23일(월) 웹 업데이트 안내",
 		"date": "2026.03.23",
@@ -251,16 +262,5 @@
 		"content_id": "15056",
 		"major": false,
 		"added": "2026-01-08"
-	},
-	"15055": {
-		"title": "1월 7일(수) 최신 버전 업데이트 안내",
-		"date": "2026.01.07",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15055&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/68L4NH4ZCNZD86I320260107153801908.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15055",
-		"major": false,
-		"added": "2026-01-07"
 	}
 }
