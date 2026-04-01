@@ -1,4 +1,26 @@
 {
+	"15402": {
+		"title": "4월 1일(수) 최신 버전 업데이트 안내",
+		"date": "2026.04.01",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15402&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/TT5A5SCY3FOAIRBD20260401120138782.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15402",
+		"major": false,
+		"added": "2026-04-01"
+	},
+	"15388": {
+		"title": "4월 1일(수) 업데이트 안내",
+		"date": "2026.04.01",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15388&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/RZ7OHR73M7X1NDTB20260331183713770.400x225.jpg",
+		"desc": "클래스 밸런스 조정, 벨/가모스 토벌 보상 상향, 일부 아이템의 통합 거래소 가격 조정, 푸른 전장 부활지 추가 등의 업데이트",
+		"description": "",
+		"content_id": "15388",
+		"major": true,
+		"added": "2026-04-01"
+	},
 	"15379": {
 		"title": "3월 30일(월) 최신 버전 업데이트 안내",
 		"date": "2026.03.30",
@@ -240,27 +262,5 @@
 		"content_id": "15112",
 		"major": false,
 		"added": "2026-01-22"
-	},
-	"15111": {
-		"title": "1월 22일(목) 최신 버전 업데이트 안내",
-		"date": "2026.01.22",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15111&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/J7HRSJ0TWR3RHLJO20260122121446145.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15111",
-		"major": false,
-		"added": "2026-01-22"
-	},
-	"15106": {
-		"title": "1월 21일(수) 업데이트 안내",
-		"date": "2026.01.21",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15106&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/E3IIDZ7U136ET1Y720260120202202533.400x225.png",
-		"desc": " 올비아 아카데미, 최상위 사냥터 태그 추가, 이펙트 염색 기능 등의 업데이트",
-		"description": "",
-		"content_id": "15106",
-		"major": true,
-		"added": "2026-01-21"
 	}
 }

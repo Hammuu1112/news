@@ -10,6 +10,83 @@
 		"new_tag": true,
 		"added": "2025-03-26"
 	},
+	"15399": {
+		"title": "[530] 월간사막, 이번 달의 모험가는 바로 나!",
+		"deadline": "2026-04-30",
+		"count": "30 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15399&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/0YJO3TAZ3NXBIQAQ20260331205707351.400x225.jpg",
+		"description": "",
+		"content_id": "15399",
+		"new_tag": true,
+		"added": "2026-04-01"
+	},
+	"15387": {
+		"title": "[내륙/해상] 길드원과 함께 거점전 GO",
+		"deadline": "2026-04-29",
+		"count": "29 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15387&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/WHM13GVHZTCL418F20260331173727848.400x225.png",
+		"description": "",
+		"content_id": "15387",
+		"new_tag": true,
+		"added": "2026-04-01"
+	},
+	"15386": {
+		"title": "봄과 함께, 빛나는 달의 축복",
+		"deadline": "2026-04-22",
+		"count": "22 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15386&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/6EZO440AVPE0P4PV20260331173638155.400x225.jpg",
+		"description": "",
+		"content_id": "15386",
+		"new_tag": true,
+		"added": "2026-04-01"
+	},
+	"15385": {
+		"title": "사냥터에 등장한 알록달록 달걀의 흔적",
+		"deadline": "2026-04-15",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15385&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/89HUSTVMBYLTUJZP20260331173538983.400x225.jpg",
+		"description": "",
+		"content_id": "15385",
+		"new_tag": true,
+		"added": "2026-04-01"
+	},
+	"15384": {
+		"title": "신비한 힘의 보호, 파괴되지 않는 수정",
+		"deadline": "2026-04-08",
+		"count": "8 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15384&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/EYQ7XOJ6MGG8HHB620260331173350346.400x225.jpg",
+		"description": "",
+		"content_id": "15384",
+		"new_tag": true,
+		"added": "2026-04-01"
+	},
+	"15383": {
+		"title": "구름 위를 걷는 당나귀, 꿈같은 비행",
+		"deadline": "2026-04-15",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15383&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/KUDFDPCT0NB92PZT20260331173305615.400x225.png",
+		"description": "",
+		"content_id": "15383",
+		"new_tag": true,
+		"added": "2026-04-01"
+	},
+	"15382": {
+		"title": "세상을 물들인 알록달록한 신비한 알 (feat. 달걀왕)",
+		"deadline": "2026-04-15",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15382&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/HU3L8XPS7DHETAPO20260331173207715.400x225.jpg",
+		"description": "",
+		"content_id": "15382",
+		"new_tag": true,
+		"added": "2026-04-01"
+	},
 	"15350": {
 		"title": "설렘 가득한 날씨와 함께, 일일 접속 보상",
 		"deadline": "2026-04-30",
@@ -18,7 +95,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/2QVR50PBR43SKXCI20260324160323758.400x225.png",
 		"description": "",
 		"content_id": "15350",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-03-25"
 	},
 	"15349": {
@@ -29,7 +106,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/QLGWIDM1DFULJ4X720260324160112667.400x225.jpg",
 		"description": "",
 		"content_id": "15349",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-03-25"
 	},
 	"15348": {
@@ -40,7 +117,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/JY1PK7166WMYY1CO20260324160028828.400x225.jpg",
 		"description": "",
 		"content_id": "15348",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-03-25"
 	},
 	"15347": {
@@ -51,52 +128,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/B1KHESJSTALGWGD220260324155906973.400x225.jpg",
 		"description": "",
 		"content_id": "15347",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-03-25"
-	},
-	"15322": {
-		"title": "협동 아토락시온에 도전하고, 추가 보상을 쟁취하라.",
-		"deadline": "2026-04-01",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15322&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/JQQKWDDA73UHZ9J320260317150828964.400x225.jpg",
-		"description": "",
-		"content_id": "15322",
-		"new_tag": false,
-		"added": "2026-03-18"
-	},
-	"15321": {
-		"title": "파트리지오의 비밀 상자와 함께, 특별한 상점 OPEN",
-		"deadline": "2026-04-01",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15321&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/6YGFMJFLUZKW99QK20260317150721412.400x225.png",
-		"description": "",
-		"content_id": "15321",
-		"new_tag": false,
-		"added": "2026-03-18"
-	},
-	"14914": {
-		"title": "[검은사막X붉은사막] 붉은사막 예약 구매 특전​, 검은사막 한정판 아이템 지급!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14914&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/G3E5ZY5Z94IECJI920251212184553178.400x225.jpg",
-		"description": "",
-		"content_id": "14914",
-		"new_tag": false,
-		"added": "2025-12-13"
-	},
-	"15283": {
-		"title": "크론 왕국 최후의 왕태자 그 흔적을 찾아서",
-		"deadline": "2026-04-01",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15283&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/8NOL52D3M7KA9RLG20260303183424743.400x225.jpg",
-		"description": "",
-		"content_id": "15283",
-		"new_tag": false,
-		"added": "2026-03-04"
 	},
 	"15248": {
 		"title": "[신규/복귀] 접속 보상",
@@ -229,38 +262,5 @@
 		"content_id": "11432",
 		"new_tag": false,
 		"added": "2026-02-13"
-	},
-	"14151": {
-		"title": "365일, 상시 적용되는 특별한 이벤트 혜택 모아보기",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14151&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MTPJD8ODLSKQ2P9020250624203045795.400x225.png",
-		"description": "",
-		"content_id": "14151",
-		"new_tag": false,
-		"added": "2026-03-06"
-	},
-	"6968": {
-		"title": "검은사막 PC방 혜택 안내",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
-		"description": "",
-		"content_id": "6968",
-		"new_tag": false,
-		"added": "2026-03-22"
-	},
-	"2783": {
-		"title": "신규&복귀 모험가님을 위한 놓칠 수 없는 혜택!",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2783&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/4KM094V3X82N5SE720220630143044011.400x225.jpg",
-		"description": "",
-		"content_id": "2783",
-		"new_tag": false,
-		"added": "2026-04-01"
 	}
 }
