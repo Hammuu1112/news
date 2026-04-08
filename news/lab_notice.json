@@ -1,6 +1,16 @@
 {
+	"13082": {
+		"title": "4월 10일(금) 서비스 정기점검 안내",
+		"date": "2026.04.08 (UTC+3)",
+		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=13082",
+		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/board/2026/04/08/fb5808b057d20260408071659186.400x225.jpg",
+		"desc": "공지사항",
+		"description": "",
+		"content_id": "13082",
+		"added": "2026-04-08"
+	},
 	"13051": {
-		"title": "4월 3일(금) 서비스 정기점검 안내",
+		"title": "[완료] 4월 3일(금) 서비스 정기점검 안내",
 		"date": "2026.04.01 (UTC+3)",
 		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=13051",
 		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/board/2026/04/01/f0287320e1120260401061518060.400x225.jpg",
@@ -10,7 +20,7 @@
 		"added": "2026-04-01"
 	},
 	"13024": {
-		"title": "3월 27일(금) 서비스 정기점검 안내",
+		"title": "[완료] 3월 27일(금) 서비스 정기점검 안내",
 		"date": "2026.03.25 (UTC+3)",
 		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=13024",
 		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/board/2026/03/25/23972557fd520260325080646120.400x225.jpg",
@@ -20,7 +30,7 @@
 		"added": "2026-03-25"
 	},
 	"12991": {
-		"title": "3월 20일(금) 서비스 정기점검 안내",
+		"title": "[완료] 3월 20일(금) 서비스 정기점검 안내",
 		"date": "2026.03.18 (UTC+3)",
 		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=12991",
 		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/board/2026/03/18/056199162b520260318060335079.400x225.jpg",
@@ -40,7 +50,7 @@
 		"added": "2026-01-09"
 	},
 	"12969": {
-		"title": "3월 13일(금) 서비스 정기점검 안내",
+		"title": "[완료] 3월 13일(금) 서비스 정기점검 안내",
 		"date": "2026.03.11 (UTC+3)",
 		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=12969",
 		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/board/2026/03/11/9cb74a4013520260311052017189.400x225.jpg",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "8176",
 		"added": "2025-11-05"
-	},
-	"8161": {
-		"title": "[완료] 10월 31일(금) 서비스 정기점검 안내",
-		"date": "2025.10.29 (UTC+3)",
-		"url": "https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=8161",
-		"thumbnail": "https://s1.pearlcdn.com/bdo/brand/Board/2025/10/29/bc582463ce820251029051306852.400x225.jpg",
-		"desc": "공지사항",
-		"description": "",
-		"content_id": "8161",
-		"added": "2025-10-29"
 	}
 }

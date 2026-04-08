@@ -1,4 +1,15 @@
 {
+	"15430": {
+		"title": "4월 8일(수) 최신 버전 업데이트 안내",
+		"date": "2026.04.08",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15430&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/CK0CSULXWBC1KIUX20260408150931001.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15430",
+		"major": false,
+		"added": "2026-04-08"
+	},
 	"15427": {
 		"title": "4월 8일(수) 업데이트 안내",
 		"date": "2026.04.08",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "15141",
 		"major": false,
-		"added": "2026-01-28"
-	},
-	"15136": {
-		"title": "1월 28일(수) 업데이트 안내",
-		"date": "2026.01.28",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15136&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/X8IWIMWZPAML7UFD20260127224601283.400x225.jpg",
-		"desc": "길드 개선, 탑승물 성장 방식 변경, 올비아 아카데미 개선, 이펙트 불투명도 옵션 개선 등의 업데이트",
-		"description": "",
-		"content_id": "15136",
-		"major": true,
 		"added": "2026-01-28"
 	}
 }
