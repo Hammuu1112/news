@@ -1,4 +1,26 @@
 {
+	"15460": {
+		"title": "4월 15일(수) 최신 버전 업데이트 안내",
+		"date": "2026.04.15",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15460&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/BLP0GDJYXUG2LA7A20260415150823176.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15460",
+		"major": false,
+		"added": "2026-04-15"
+	},
+	"15459": {
+		"title": "4월 15일(수) 일부 서버 점검 업데이트 안내",
+		"date": "2026.04.15",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15459&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/YCE61HJ4A0V7L2Y420260415145821378.400x225.jpg",
+		"desc": "4월 15일(수) 일부 서버 점검 업데이트 사항을 안내드립니다.",
+		"description": "",
+		"content_id": "15459",
+		"major": false,
+		"added": "2026-04-15"
+	},
 	"15451": {
 		"title": "4월 15일(수) 업데이트 안내",
 		"date": "2026.04.15",
@@ -240,27 +262,5 @@
 		"content_id": "15185",
 		"major": false,
 		"added": "2026-02-05"
-	},
-	"15184": {
-		"title": "2월 4일(수) 임시 점검 업데이트 안내",
-		"date": "2026.02.04",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15184&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/U7EYW1MEYZ0EP4C920260204173846570.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15184",
-		"major": false,
-		"added": "2026-02-04"
-	},
-	"15169": {
-		"title": "2월 4일(수) 업데이트 안내",
-		"date": "2026.02.04",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15169&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/YMS1PJV39RLCXLSG20260203185412119.400x225.jpg",
-		"desc": "방어력 세팅 밸런스 조정, 푸른 전장 개선, 월드 우두머리 개선 등의 업데이트",
-		"description": "",
-		"content_id": "15169",
-		"major": true,
-		"added": "2026-02-04"
 	}
 }
