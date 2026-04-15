@@ -10,6 +10,61 @@
 		"new_tag": true,
 		"added": "2025-03-26"
 	},
+	"15452": {
+		"title": "530 기념! 모험가 오아시스 : 길드의 밤",
+		"deadline": "2026-04-26",
+		"count": "12 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15452&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/22IH8QG146XCNHO120260414224915270.400x225.png",
+		"description": "",
+		"content_id": "15452",
+		"new_tag": true,
+		"added": "2026-04-15"
+	},
+	"15447": {
+		"title": "나의 동아리를 뽐내봐! 동아리 스냅샷 이벤트",
+		"deadline": "2026-04-26",
+		"count": "12 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15447&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/99X6FLL1IS49MCC820260414175433646.400x225.jpg",
+		"description": "",
+		"content_id": "15447",
+		"new_tag": true,
+		"added": "2026-04-15"
+	},
+	"15446": {
+		"title": "네모네모 선글라스와 함께, 데일리 스페셜 패스",
+		"deadline": "2026-06-17",
+		"count": "64 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15446&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/U5JISNJYL3SAV9SD20260415101623639.400x225.png",
+		"description": "",
+		"content_id": "15446",
+		"new_tag": true,
+		"added": "2026-04-15"
+	},
+	"15445": {
+		"title": "[조련] 말과 함께 성장하는 모험",
+		"deadline": "2026-04-29",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15445&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/2U30C1NUWZY99GZ320260414175216901.400x225.jpg",
+		"description": "",
+		"content_id": "15445",
+		"new_tag": true,
+		"added": "2026-04-15"
+	},
+	"15444": {
+		"title": "[항해/교역] 핫타임과 빠르게 등장하는 선원",
+		"deadline": "2026-04-29",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15444&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/VMASZH9ZK66ZBTMW20260414175114487.400x225.jpg",
+		"description": "",
+		"content_id": "15444",
+		"new_tag": true,
+		"added": "2026-04-15"
+	},
 	"15425": {
 		"title": "[선택의 길] 선택의 인장",
 		"deadline": "2026-05-06",
@@ -18,7 +73,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/IFRQI2NQBYJ45PHE20260407192305142.400x225.jpg",
 		"description": "",
 		"content_id": "15425",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-08"
 	},
 	"15403": {
@@ -29,7 +84,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/UGA65B4QP65NKZCG20260407191130249.400x225.jpg",
 		"description": "",
 		"content_id": "15403",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-08"
 	},
 	"15424": {
@@ -40,7 +95,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/17409JHHUIK4125L20260407191543295.400x225.png",
 		"description": "",
 		"content_id": "15424",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-08"
 	},
 	"15423": {
@@ -51,7 +106,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/PKWN3ATMZPHVT44820260407191440444.400x225.png",
 		"description": "",
 		"content_id": "15423",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-08"
 	},
 	"15420": {
@@ -62,7 +117,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/KHDOB8XFA94XK5AG20260407191253469.400x225.jpg",
 		"description": "",
 		"content_id": "15420",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-08"
 	},
 	"15399": {
@@ -98,39 +153,6 @@
 		"new_tag": false,
 		"added": "2026-04-01"
 	},
-	"15385": {
-		"title": "사냥터에 등장한 알록달록 달걀의 흔적",
-		"deadline": "2026-04-15",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15385&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/89HUSTVMBYLTUJZP20260331173538983.400x225.jpg",
-		"description": "",
-		"content_id": "15385",
-		"new_tag": false,
-		"added": "2026-04-01"
-	},
-	"15383": {
-		"title": "구름 위를 걷는 당나귀, 꿈같은 비행",
-		"deadline": "2026-04-15",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15383&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/KUDFDPCT0NB92PZT20260331173305615.400x225.png",
-		"description": "",
-		"content_id": "15383",
-		"new_tag": false,
-		"added": "2026-04-01"
-	},
-	"15382": {
-		"title": "세상을 물들인 알록달록한 신비한 알 (feat. 달걀왕)",
-		"deadline": "2026-04-15",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15382&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/HU3L8XPS7DHETAPO20260331173207715.400x225.jpg",
-		"description": "",
-		"content_id": "15382",
-		"new_tag": false,
-		"added": "2026-04-01"
-	},
 	"15350": {
 		"title": "설렘 가득한 날씨와 함께, 일일 접속 보상",
 		"deadline": "2026-04-30",
@@ -139,17 +161,6 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/2QVR50PBR43SKXCI20260324160323758.400x225.png",
 		"description": "",
 		"content_id": "15350",
-		"new_tag": false,
-		"added": "2026-03-25"
-	},
-	"15347": {
-		"title": "전이 로테이션 : 두 개의 어둠",
-		"deadline": "2026-04-15",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15347&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/B1KHESJSTALGWGD220260324155906973.400x225.jpg",
-		"description": "",
-		"content_id": "15347",
 		"new_tag": false,
 		"added": "2026-03-25"
 	},
@@ -185,17 +196,6 @@
 		"content_id": "15131",
 		"new_tag": false,
 		"added": "2026-01-28"
-	},
-	"15100": {
-		"title": "올비아 아카데미 개교, 아카데미 패스",
-		"deadline": "2026-04-15",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15100&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/S6YN6JBJBLRN5E0R20260120200309359.400x225.png",
-		"description": "",
-		"content_id": "15100",
-		"new_tag": false,
-		"added": "2026-01-21"
 	},
 	"10977": {
 		"title": "[리뉴얼] 초고속 성장 지원, 시즌 패스",
