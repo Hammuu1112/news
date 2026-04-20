@@ -1,7 +1,17 @@
 {
+	"15467": {
+		"title": "4월 22일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2026.04.20",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15467&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/Z5XL7Y2XDCCRJE9P20260420174049700.400x225.jpg",
+		"desc": "4월 22일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "15467",
+		"added": "2026-04-20"
+	},
 	"2989": {
 		"title": "알려진 문제점",
-		"date": "2026.04.19",
+		"date": "2026.04.20",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
 		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
@@ -9,11 +19,21 @@
 		"content_id": "2989",
 		"added": "2024-05-20"
 	},
+	"15466": {
+		"title": "운영정책 위반 사용자 조치 안내 (2026/04/20)",
+		"date": "2026.04.20",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15466&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/XI0ETQORQWTAIWSK20260420155854778.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15466",
+		"added": "2026-04-20"
+	},
 	"15453": {
 		"title": "2026 월드교류전이 찾아옵니다",
 		"date": "2026.04.15",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15453&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/N5HQNHGZHG6RV9IJ20260414202727084.400x225.png",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/LO89SZWCS9KV90AL20260420142726646.400x225.png",
 		"desc": "4개의 월드가 참여하는 월드교류전이 4월 22일부터 참가 신청이 시작됩니다.",
 		"description": "",
 		"content_id": "15453",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "15318",
 		"added": "2026-03-16"
-	},
-	"15317": {
-		"title": "운영정책 위반 사용자 조치 안내 (2026/03/16)",
-		"date": "2026.03.16",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15317&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/873CY1KAWME8MLAX20260316145520302.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15317",
-		"added": "2026-03-16"
-	},
-	"15311": {
-		"title": "[완료] 검은사막 런처 실행 불가 현상 안내",
-		"date": "2026.03.11",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15311&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/Q9RMD6B5V4CZUXQ420260311192142838.400x225.jpg",
-		"desc": "일부 환경에서 런처 실행이 불가하다는 모험가님들의 제보가 있어 자세한 내용을 확인하고 있습니다.",
-		"description": "",
-		"content_id": "15311",
-		"added": "2026-03-11"
 	}
 }
