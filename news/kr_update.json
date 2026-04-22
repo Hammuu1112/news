@@ -1,4 +1,15 @@
 {
+	"15483": {
+		"title": "4월 22일(수) 업데이트 안내",
+		"date": "2026.04.22",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15483&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/5OKX09IXX0I6NH5820260421200746277.400x225.jpg",
+		"desc": "신비한 씨앗류 개선, '모든 종족 추가 공격력' 표기 변경, 피의 제단 신규 난이도 등의 업데이트",
+		"description": "",
+		"content_id": "15483",
+		"major": true,
+		"added": "2026-04-22"
+	},
 	"15461": {
 		"title": "4월 17일(금) 최신 버전 업데이트 안내",
 		"date": "2026.04.17",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "15217",
 		"major": false,
-		"added": "2026-02-11"
-	},
-	"15215": {
-		"title": "2월 11일(수) 업데이트 안내",
-		"date": "2026.02.11",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15215&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/TKRMIH01TGL478X220260211060208976.400x225.jpg",
-		"desc": "클래스 밸런스 조정, 올비아 아카데미 졸업, 파티/부대 모집 시스템 개선 등의 업데이트",
-		"description": "",
-		"content_id": "15215",
-		"major": true,
 		"added": "2026-02-11"
 	}
 }

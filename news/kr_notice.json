@@ -1,7 +1,27 @@
 {
+	"15448": {
+		"title": "2026 월드교류전 대회 안내 및 일정",
+		"date": "2026.04.22",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15448&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/7ZLGTJHUS2MLCD3C20260421194043174.400x225.png",
+		"desc": "4개의 월드가 참여하는 월드교류전이 4월 22일부터 참가 신청이 시작됩니다.",
+		"description": "",
+		"content_id": "15448",
+		"added": "2026-04-22"
+	},
+	"15480": {
+		"title": "페이스북 오픈 아이디 로그인 지원 종료 사전 안내",
+		"date": "2026.04.22",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15480&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/RAL2QTD3ZT14DEHF20260421185600439.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15480",
+		"added": "2026-04-22"
+	},
 	"2989": {
 		"title": "알려진 문제점",
-		"date": "2026.04.21",
+		"date": "2026.04.22",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
 		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
@@ -10,7 +30,7 @@
 		"added": "2024-05-20"
 	},
 	"15467": {
-		"title": "4월 22일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"title": "[완료] 4월 22일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2026.04.20",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15467&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/Z5XL7Y2XDCCRJE9P20260420174049700.400x225.jpg",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "15337",
 		"added": "2026-03-20"
-	},
-	"15319": {
-		"title": "[완료] IDC 네트워크 장비 모듈 교체 작업 안내",
-		"date": "2026.03.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15319&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/J20VLBMAWL38BGLY20260317144327236.400x225.jpg",
-		"desc": "3월 17일 화요일, IDC 장비 모듈 교체 작업이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "15319",
-		"added": "2026-03-17"
-	},
-	"15318": {
-		"title": "[완료] 3월 18일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2026.03.16",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15318&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/P93KHQ2OSVT4K9OK20260316165234436.400x225.jpg",
-		"desc": "3월 18일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "15318",
-		"added": "2026-03-16"
 	}
 }
