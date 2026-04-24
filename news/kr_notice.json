@@ -1,7 +1,17 @@
 {
+	"15490": {
+		"title": "거점전, 점령전 정보 및 터전 서버 초기화 안내",
+		"date": "2026.04.24",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15490&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/WLCFRRDYBHC0IZCH20260424180317579.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15490",
+		"added": "2026-04-24"
+	},
 	"2989": {
 		"title": "알려진 문제점",
-		"date": "2026.04.23",
+		"date": "2026.04.24",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
 		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
@@ -227,16 +237,6 @@
 		"desc": "3월 25일 수요일 검은사막 정기점검이 진행될 예정입니다.",
 		"description": "",
 		"content_id": "15344",
-		"added": "2026-03-23"
-	},
-	"15343": {
-		"title": "운영정책 위반 사용자 조치 안내 (2026/03/23)",
-		"date": "2026.03.23",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15343&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/D9OP2LQ5I6FPB1BE20260323170549868.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15343",
 		"added": "2026-03-23"
 	}
 }
