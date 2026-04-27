@@ -1,13 +1,33 @@
 {
 	"15490": {
 		"title": "거점전, 점령전 정보 및 터전 서버 초기화 안내",
-		"date": "2026.04.24",
+		"date": "2026.04.27",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15490&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/WLCFRRDYBHC0IZCH20260424180317579.400x225.jpg",
 		"desc": "",
 		"description": "",
 		"content_id": "15490",
 		"added": "2026-04-24"
+	},
+	"15495": {
+		"title": "4월 29일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2026.04.27",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15495&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/7JJ3RXAJE2B6K5S820260427133917771.400x225.jpg",
+		"desc": "4월 29일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "15495",
+		"added": "2026-04-27"
+	},
+	"15497": {
+		"title": "운영정책 위반 사용자 조치 안내 (2026/04/27)",
+		"date": "2026.04.27",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15497&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/2974HSU77WURO3Y420260427162443499.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15497",
+		"added": "2026-04-27"
 	},
 	"2989": {
 		"title": "알려진 문제점",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "15370",
 		"added": "2026-03-27"
-	},
-	"15354": {
-		"title": "운영정책 위반 사용자 조치 안내 (2026/03/25)",
-		"date": "2026.03.25",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15354&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/JLR8IHJC0RJLLD8Y20260324183812673.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15354",
-		"added": "2026-03-25"
-	},
-	"15344": {
-		"title": "[완료] 3월 25일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2026.03.23",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15344&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/UEJI1K9N9VLX9NXM20260323170556705.400x225.jpg",
-		"desc": "3월 25일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "15344",
-		"added": "2026-03-23"
 	}
 }
