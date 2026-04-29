@@ -1,4 +1,15 @@
 {
+	"15505": {
+		"title": "4월 29일(수) 업데이트 안내",
+		"date": "2026.04.29",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15505&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/N18ZU9ZTUZ1BM2QW20260428184616892.400x225.png",
+		"desc": "클래스 밸런스 조정, 거점/점령전 개편, 솔라레의 창 신규 시즌 등의 업데이트",
+		"description": "",
+		"content_id": "15505",
+		"major": true,
+		"added": "2026-04-29"
+	},
 	"15489": {
 		"title": "4월 23일(목) 임시 점검 업데이트 안내",
 		"date": "2026.04.23",
@@ -251,16 +262,5 @@
 		"content_id": "15263",
 		"major": true,
 		"added": "2026-02-25"
-	},
-	"15230": {
-		"title": "2월 13일(금) 임시 점검 업데이트 안내",
-		"date": "2026.02.13",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15230&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/YHUYMJUM7PJXBUNO20260213194544297.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15230",
-		"major": false,
-		"added": "2026-02-13"
 	}
 }
