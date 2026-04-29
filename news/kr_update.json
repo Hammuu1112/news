@@ -1,4 +1,15 @@
 {
+	"15523": {
+		"title": "4월 29일(수) 임시 점검 업데이트 안내",
+		"date": "2026.04.29",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15523&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/06Y3GNL8YU28QHZ020260429180247806.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15523",
+		"major": false,
+		"added": "2026-04-29"
+	},
 	"15505": {
 		"title": "4월 29일(수) 업데이트 안내",
 		"date": "2026.04.29",
@@ -251,16 +262,5 @@
 		"content_id": "15287",
 		"major": false,
 		"added": "2026-03-04"
-	},
-	"15263": {
-		"title": "2월 25일(수) 업데이트 안내",
-		"date": "2026.02.25",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15263&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/UYZ7RSX1R7EE9HY420260224205944610.400x225.png",
-		"desc": "시크라이아 해저 유적 리메이크, 에다니아 수렵 몬스터 추가, 어둠 포식 효율 개선, 클래스 밸런스 조정 등의 업데이트",
-		"description": "",
-		"content_id": "15263",
-		"major": true,
-		"added": "2026-02-25"
 	}
 }
