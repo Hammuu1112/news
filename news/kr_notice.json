@@ -1,4 +1,14 @@
 {
+	"15529": {
+		"title": "서버 불안정 현상 안내",
+		"date": "2026.05.01",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15529&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/CZJNW254CHLZDTI620260501223723790.400x225.jpg",
+		"desc": "서버 불안정 현상 안내",
+		"description": "",
+		"content_id": "15529",
+		"added": "2026-05-01"
+	},
 	"15448": {
 		"title": "2026 월드교류전 대회 안내 및 일정",
 		"date": "2026.04.30",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "15404",
 		"added": "2026-04-03"
-	},
-	"15377": {
-		"title": "[완료] 4월 1일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2026.03.30",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15377&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/FRN4LNEXXAK18YSX20260330141340441.400x225.jpg",
-		"desc": "4월 1일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "15377",
-		"added": "2026-03-30"
 	}
 }
