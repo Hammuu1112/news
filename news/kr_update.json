@@ -1,4 +1,15 @@
 {
+	"15531": {
+		"title": "5월 2일(토) 일부 서버 점검 업데이트 안내",
+		"date": "2026.05.02",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15531&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/58ZV2S76TGB10UBB20260502105715635.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15531",
+		"major": false,
+		"added": "2026-05-02"
+	},
 	"15526": {
 		"title": "4월 30일(목) 최신 버전 업데이트 안내",
 		"date": "2026.04.30",
@@ -251,16 +262,5 @@
 		"content_id": "15332",
 		"major": true,
 		"added": "2026-03-18"
-	},
-	"15308": {
-		"title": "3월 11일(수) 업데이트 안내",
-		"date": "2026.03.11",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15308&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/ITFDAUFCSP0JMTWU20260310195544745.400x225.png",
-		"desc": "클래스 밸런스 조정, 장미 전쟁 개선, 무역품 개별 판매, 월드맵 단축키 설정 등의 업데이트",
-		"description": "",
-		"content_id": "15308",
-		"major": true,
-		"added": "2026-03-11"
 	}
 }
