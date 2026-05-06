@@ -1,4 +1,15 @@
 {
+	"13733": {
+		"title": "[진행중인 이벤트 모아보기]",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EMYV5KS2ZGA35MJP20250829171413462.400x225.jpg",
+		"description": "",
+		"content_id": "13733",
+		"new_tag": true,
+		"added": "2025-03-26"
+	},
 	"15541": {
 		"title": "[GM과 함께] 솔라레의 창 속성 기초 강의 : 초급 병사의 창",
 		"deadline": "2026-05-07",
@@ -21,27 +32,16 @@
 		"new_tag": true,
 		"added": "2026-05-04"
 	},
-	"15528": {
-		"title": "[검사데이] 월드교류전 한국 대표팀에게 보내는 응원 채팅 미션",
-		"deadline": "2026-05-06",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15528&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/RSSFDT4BERA0JE6Z20260430190018366.400x225.png",
+	"15499": {
+		"title": "[아이템 획득 확률 50% 추가!] 모험을 더욱 풍성하게, 행운의 핫타임",
+		"deadline": "2026-05-13",
+		"count": "8 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15499&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/9T7481B9W3G5Y1VM20260428183123622.400x225.jpg",
 		"description": "",
-		"content_id": "15528",
-		"new_tag": true,
-		"added": "2026-04-30"
-	},
-	"13733": {
-		"title": "[진행중인 이벤트 모아보기]",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EMYV5KS2ZGA35MJP20250829171413462.400x225.jpg",
-		"description": "",
-		"content_id": "13733",
-		"new_tag": true,
-		"added": "2025-03-26"
+		"content_id": "15499",
+		"new_tag": false,
+		"added": "2026-04-29"
 	},
 	"15503": {
 		"title": "승리를 향한 끝없는 도전, 솔라레 스페셜 패스",
@@ -51,7 +51,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/QNC04R0U7FRP85KC20260428183919843.400x225.jpg",
 		"description": "",
 		"content_id": "15503",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-29"
 	},
 	"15502": {
@@ -62,7 +62,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/WFJQ52A1QXB2FMWH20260428183807800.400x225.jpg",
 		"description": "",
 		"content_id": "15502",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-29"
 	},
 	"15501": {
@@ -73,7 +73,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/O175TAM61D65UDAO20260428183646250.400x225.png",
 		"description": "",
 		"content_id": "15501",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-29"
 	},
 	"15500": {
@@ -84,18 +84,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/6XELT9LW4FK9QG1320260428183548822.400x225.jpg",
 		"description": "",
 		"content_id": "15500",
-		"new_tag": true,
-		"added": "2026-04-29"
-	},
-	"15499": {
-		"title": "모험을 더욱 풍성하게, 행운의 핫타임",
-		"deadline": "2026-05-13",
-		"count": "8 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15499&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/9T7481B9W3G5Y1VM20260428183123622.400x225.jpg",
-		"description": "",
-		"content_id": "15499",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-29"
 	},
 	"15498": {
@@ -106,18 +95,18 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/9PG3E2EB4790A8FN20260428182712864.400x225.jpg",
 		"description": "",
 		"content_id": "15498",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-29"
 	},
 	"15425": {
 		"title": "[선택의 길] 선택의 인장 (2차 통합 재화 품목 추가)",
-		"deadline": "2026-05-06",
-		"count": "1 일 남음",
+		"deadline": "2026-05-13",
+		"count": "8 일 남음",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15425&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/IFRQI2NQBYJ45PHE20260407192305142.400x225.jpg",
 		"description": "",
 		"content_id": "15425",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-04-08"
 	},
 	"15403": {
@@ -128,19 +117,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/UGA65B4QP65NKZCG20260407191130249.400x225.jpg",
 		"description": "",
 		"content_id": "15403",
-		"new_tag": true,
-		"added": "2026-04-08"
-	},
-	"15469": {
-		"title": "[선택의 길] 참여율 달성 추가 이벤트",
-		"deadline": "2026-05-06",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15469&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/VZN9RRRIYKWNG14420260422100709832.400x225.png",
-		"description": "",
-		"content_id": "15469",
 		"new_tag": false,
-		"added": "2026-04-22"
+		"added": "2026-04-08"
 	},
 	"15446": {
 		"title": "네모네모 선글라스와 함께, 데일리 스페셜 패스",
@@ -262,5 +240,27 @@
 		"content_id": "14151",
 		"new_tag": false,
 		"added": "2026-04-22"
+	},
+	"6968": {
+		"title": "검은사막 PC방 혜택 안내",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
+		"description": "",
+		"content_id": "6968",
+		"new_tag": false,
+		"added": "2026-05-06"
+	},
+	"2783": {
+		"title": "신규&복귀 모험가님을 위한 놓칠 수 없는 혜택!",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2783&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/4KM094V3X82N5SE720220630143044011.400x225.jpg",
+		"description": "",
+		"content_id": "2783",
+		"new_tag": false,
+		"added": "2026-05-06"
 	}
 }

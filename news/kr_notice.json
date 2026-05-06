@@ -1,6 +1,26 @@
 {
+	"15543": {
+		"title": "2026 월드교류전 선발전 대진표 추첨 방송 안내",
+		"date": "2026.05.06",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15543&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/9UX13LZBT73L2YM520260504195045759.400x225.png",
+		"desc": "4개의 월드에서 진행되는 선발전 대진표 추첨이 시작됩니다.",
+		"description": "",
+		"content_id": "15543",
+		"added": "2026-05-06"
+	},
+	"2989": {
+		"title": "알려진 문제점",
+		"date": "2026.05.06",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
+		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
+		"description": "",
+		"content_id": "2989",
+		"added": "2024-05-20"
+	},
 	"15532": {
-		"title": "5월 6일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"title": "[완료] 5월 6일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2026.05.04",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15532&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/CT4Z9ZUI5OL2M0H320260504164202688.400x225.jpg",
@@ -8,16 +28,6 @@
 		"description": "",
 		"content_id": "15532",
 		"added": "2026-05-04"
-	},
-	"2989": {
-		"title": "알려진 문제점",
-		"date": "2026.05.04",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
-		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
-		"description": "",
-		"content_id": "2989",
-		"added": "2024-05-20"
 	},
 	"15530": {
 		"title": "[완료] 5월 2일(토) 일부 서버 점검 안내",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "15429",
 		"added": "2026-04-08"
-	},
-	"15412": {
-		"title": "[완료] 4월 8일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2026.04.06",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15412&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/68OFVNKNDK4U99EO20260406165805170.400x225.jpg",
-		"desc": "4월 8일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "15412",
-		"added": "2026-04-06"
 	}
 }
