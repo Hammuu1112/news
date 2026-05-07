@@ -1,4 +1,15 @@
 {
+	"15548": {
+		"title": "5월 7일(목) 임시 점검 업데이트 안내",
+		"date": "2026.05.07",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15548&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/BLJVK0UZNOSI3AQC20260507062702543.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15548",
+		"major": false,
+		"added": "2026-05-07"
+	},
 	"15531": {
 		"title": "5월 2일(토) 일부 서버 점검 업데이트 안내",
 		"date": "2026.05.02",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "15334",
 		"major": false,
-		"added": "2026-03-18"
-	},
-	"15332": {
-		"title": "3월 18일(수) 업데이트 안내",
-		"date": "2026.03.18",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15332&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/ZHA0IJHKIT3LS8ZL20260317200947925.400x225.png",
-		"desc": "검은 기운 범람지, 가공 UI 개선 등의 업데이트",
-		"description": "",
-		"content_id": "15332",
-		"major": true,
 		"added": "2026-03-18"
 	}
 }
