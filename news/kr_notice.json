@@ -1,4 +1,24 @@
 {
+	"15556": {
+		"title": "[2026 월드교류전] 선발전 대진표 안내",
+		"date": "2026.05.08",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15556&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/53SHHPC2RDG3S85J20260508191418301.400x225.png",
+		"desc": "",
+		"description": "",
+		"content_id": "15556",
+		"added": "2026-05-08"
+	},
+	"15555": {
+		"title": "5월 9일(토) 일부 서버 점검 안내",
+		"date": "2026.05.08",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15555&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/T2ZT8TV1NFE5CQSG20260508183039506.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15555",
+		"added": "2026-05-08"
+	},
 	"15553": {
 		"title": "[완료] 5월 8일(금) 통합 거래소 점검 안내",
 		"date": "2026.05.08",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "15439",
 		"added": "2026-04-13"
-	},
-	"15437": {
-		"title": "[완료] 4월 15일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2026.04.13",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15437&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/OJ0P6R5EYT4AI8G020260413165923841.400x225.jpg",
-		"desc": "4월 15일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "15437",
-		"added": "2026-04-13"
-	},
-	"15436": {
-		"title": "2026 여름 하이델 연회로 다함께 로그인!",
-		"date": "2026.04.10",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15436&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/26YA4W12803ZH3FN20260410184003903.400x225.png",
-		"desc": "모험가님을 위한 2026 하이델 연회가 7월 26일, 미국 캘리포니아에 찾아옵니다.",
-		"description": "",
-		"content_id": "15436",
-		"added": "2026-04-10"
 	}
 }
