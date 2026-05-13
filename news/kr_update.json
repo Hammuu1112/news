@@ -1,4 +1,15 @@
 {
+	"15570": {
+		"title": "5월 13일(수) 업데이트 안내",
+		"date": "2026.05.13",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15570&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/C6HCVEHW3A4GFQV020260512204022928.400x225.png",
+		"desc": "클래스 밸런스 조정, 노스토스의 별, 월드맵 통합 검색 기능 개선 등의 업데이트",
+		"description": "",
+		"content_id": "15570",
+		"major": true,
+		"added": "2026-05-13"
+	},
 	"15557": {
 		"title": "5월 9일(토) 일부 서버 점검 업데이트 안내",
 		"date": "2026.05.09",
@@ -251,16 +262,5 @@
 		"content_id": "15352",
 		"major": true,
 		"added": "2026-03-25"
-	},
-	"15346": {
-		"title": "3월 23일(월) 웹 업데이트 안내",
-		"date": "2026.03.23",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15346&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/QKQ6TFM8ESTPOJ0S20260323220132105.400x225.jpg",
-		"desc": "3월 23일(월) 웹 업데이트 사항을 안내드립니다.",
-		"description": "",
-		"content_id": "15346",
-		"major": false,
-		"added": "2026-03-23"
 	}
 }
