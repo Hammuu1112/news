@@ -1,4 +1,14 @@
 {
+	"15591": {
+		"title": "[완료] 5월 14일(목) 서버 임시 점검 안내",
+		"date": "2026.05.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15591&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/BHHHCOV07S480I6W20260514032225127.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15591",
+		"added": "2026-05-14"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.05.13",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "15466",
 		"added": "2026-04-20"
-	},
-	"15453": {
-		"title": "2026 월드교류전이 찾아옵니다",
-		"date": "2026.04.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15453&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/LO89SZWCS9KV90AL20260420142726646.400x225.png",
-		"desc": "4개의 월드가 참여하는 월드교류전이 4월 22일부터 참가 신청이 시작됩니다.",
-		"description": "",
-		"content_id": "15453",
-		"added": "2026-04-15"
 	}
 }
