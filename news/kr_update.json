@@ -1,4 +1,15 @@
 {
+	"15594": {
+		"title": "5월 14일(목) 일부 서버 점검 업데이트 안내",
+		"date": "2026.05.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15594&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/CQIH1KQ0EXARPEWK20260514170105718.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15594",
+		"major": false,
+		"added": "2026-05-14"
+	},
 	"15592": {
 		"title": "5월 14일(목) 임시 점검 업데이트 안내",
 		"date": "2026.05.14",
@@ -251,16 +262,5 @@
 		"content_id": "15368",
 		"major": false,
 		"added": "2026-03-27"
-	},
-	"15366": {
-		"title": "3월 25일(수) 최신 버전 업데이트 안내",
-		"date": "2026.03.25",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15366&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/LMRIOI4YJAARI5OH20260325135116838.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15366",
-		"major": false,
-		"added": "2026-03-25"
 	}
 }

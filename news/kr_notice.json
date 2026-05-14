@@ -1,4 +1,24 @@
 {
+	"2989": {
+		"title": "알려진 문제점",
+		"date": "2026.05.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
+		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
+		"description": "",
+		"content_id": "2989",
+		"added": "2024-05-20"
+	},
+	"15593": {
+		"title": "[완료] 5월 14일(목) 일부 서버 점검 안내",
+		"date": "2026.05.14",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15593&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/6K0HCJFUP0F6OQ7420260514153437491.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15593",
+		"added": "2026-05-14"
+	},
 	"15591": {
 		"title": "[완료] 5월 14일(목) 서버 임시 점검 안내",
 		"date": "2026.05.14",
@@ -8,16 +28,6 @@
 		"description": "",
 		"content_id": "15591",
 		"added": "2026-05-14"
-	},
-	"2989": {
-		"title": "알려진 문제점",
-		"date": "2026.05.13",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
-		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
-		"description": "",
-		"content_id": "2989",
-		"added": "2024-05-20"
 	},
 	"15574": {
 		"title": "운영정책 위반 사용자 조치 안내 (2026/05/13)",
@@ -227,16 +237,6 @@
 		"desc": "4월 22일 수요일 검은사막 정기점검이 진행될 예정입니다.",
 		"description": "",
 		"content_id": "15467",
-		"added": "2026-04-20"
-	},
-	"15466": {
-		"title": "운영정책 위반 사용자 조치 안내 (2026/04/20)",
-		"date": "2026.04.20",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15466&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/XI0ETQORQWTAIWSK20260420155854778.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15466",
 		"added": "2026-04-20"
 	}
 }
