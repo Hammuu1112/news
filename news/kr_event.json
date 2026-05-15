@@ -241,6 +241,17 @@
 		"new_tag": false,
 		"added": "2026-04-15"
 	},
+	"15600": {
+		"title": "[2026 월드교류전] 선발전 생중계 (feat. 드롭스)",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15600&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/PGMANSV297OYEGM020260515174302539.400x225.jpg",
+		"description": "",
+		"content_id": "15600",
+		"new_tag": false,
+		"added": "2026-05-15"
+	},
 	"14151": {
 		"title": "365일, 상시 적용되는 특별한 이벤트 혜택 모아보기",
 		"deadline": "-",
@@ -251,16 +262,5 @@
 		"content_id": "14151",
 		"new_tag": false,
 		"added": "2026-04-22"
-	},
-	"6968": {
-		"title": "검은사막 PC방 혜택 안내",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
-		"description": "",
-		"content_id": "6968",
-		"new_tag": false,
-		"added": "2026-05-06"
 	}
 }

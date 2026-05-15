@@ -1,4 +1,34 @@
 {
+	"15599": {
+		"title": "[완료] 5월 15일(금) 통합 거래소 점검 안내",
+		"date": "2026.05.15",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15599&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/AWJ6DY1XEFY80B0I20260515160232939.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15599",
+		"added": "2026-05-15"
+	},
+	"15597": {
+		"title": "운영정책 위반 사용자 조치 안내 (2026/05/15)",
+		"date": "2026.05.15",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15597&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/4B8G6IM70L4A4DF420260515155000290.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15597",
+		"added": "2026-05-15"
+	},
+	"15595": {
+		"title": "[완료] 5월 15일(금) 일부 서버 점검 안내",
+		"date": "2026.05.15",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15595&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/9LFVOD0D25EWCPXJ20260515142758088.400x225.jpg",
+		"desc": "5월 15일(금) 일부 서버 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "15595",
+		"added": "2026-05-15"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.05.15",
@@ -208,35 +238,5 @@
 		"description": "",
 		"content_id": "15497",
 		"added": "2026-04-27"
-	},
-	"15488": {
-		"title": "[완료] 4월 23일(목) 서버 임시 점검 안내",
-		"date": "2026.04.23",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15488&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/C22LBI3I39STMDUV20260423004224842.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15488",
-		"added": "2026-04-23"
-	},
-	"15480": {
-		"title": "페이스북 오픈 아이디 로그인 지원 종료 사전 안내",
-		"date": "2026.04.22",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15480&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/RAL2QTD3ZT14DEHF20260421185600439.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15480",
-		"added": "2026-04-22"
-	},
-	"15467": {
-		"title": "[완료] 4월 22일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2026.04.20",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15467&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/Z5XL7Y2XDCCRJE9P20260420174049700.400x225.jpg",
-		"desc": "4월 22일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "15467",
-		"added": "2026-04-20"
 	}
 }
