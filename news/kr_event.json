@@ -1,4 +1,15 @@
 {
+	"15600": {
+		"title": "[2026 월드교류전] 선발전 생중계 (feat. 드롭스)",
+		"deadline": "2026-05-16",
+		"count": "1 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15600&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/PGMANSV297OYEGM020260515174302539.400x225.jpg",
+		"description": "",
+		"content_id": "15600",
+		"new_tag": true,
+		"added": "2026-05-15"
+	},
 	"13733": {
 		"title": "[진행중인 이벤트 모아보기]",
 		"deadline": "-",
@@ -229,17 +240,6 @@
 		"content_id": "11432",
 		"new_tag": false,
 		"added": "2026-04-15"
-	},
-	"15600": {
-		"title": "[2026 월드교류전] 선발전 생중계 (feat. 드롭스)",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15600&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/PGMANSV297OYEGM020260515174302539.400x225.jpg",
-		"description": "",
-		"content_id": "15600",
-		"new_tag": false,
-		"added": "2026-05-15"
 	},
 	"14151": {
 		"title": "365일, 상시 적용되는 특별한 이벤트 혜택 모아보기",

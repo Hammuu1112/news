@@ -1,4 +1,14 @@
 {
+	"15602": {
+		"title": "[2026 월드교류전] 한국 대표 진출팀 안내",
+		"date": "2026.05.16",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15602&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/RQDUZN08RMFAJT6E20260516195358659.400x225.png",
+		"desc": "한국을 대표하여 일본 월드와 경기를 펼칠 최강의 4팀이 탄생했습니다!",
+		"description": "",
+		"content_id": "15602",
+		"added": "2026-05-16"
+	},
 	"15599": {
 		"title": "[완료] 5월 15일(금) 통합 거래소 점검 안내",
 		"date": "2026.05.15",
@@ -227,16 +237,6 @@
 		"desc": "4월 29일 수요일 검은사막 정기점검이 진행될 예정입니다.",
 		"description": "",
 		"content_id": "15495",
-		"added": "2026-04-27"
-	},
-	"15497": {
-		"title": "운영정책 위반 사용자 조치 안내 (2026/04/27)",
-		"date": "2026.04.27",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15497&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/2974HSU77WURO3Y420260427162443499.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15497",
 		"added": "2026-04-27"
 	}
 }
