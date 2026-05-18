@@ -1,4 +1,24 @@
 {
+	"2989": {
+		"title": "알려진 문제점",
+		"date": "2026.05.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
+		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
+		"description": "",
+		"content_id": "2989",
+		"added": "2024-05-20"
+	},
+	"15607": {
+		"title": "5월 20일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2026.05.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15607&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/3QICIJGFUG89JCL720260518170806751.400x225.jpg",
+		"desc": "5월 20일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "15607",
+		"added": "2026-05-18"
+	},
 	"15602": {
 		"title": "[2026 월드교류전] 한국 대표 진출팀 안내",
 		"date": "2026.05.16",
@@ -38,16 +58,6 @@
 		"description": "",
 		"content_id": "15595",
 		"added": "2026-05-15"
-	},
-	"2989": {
-		"title": "알려진 문제점",
-		"date": "2026.05.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
-		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
-		"description": "",
-		"content_id": "2989",
-		"added": "2024-05-20"
 	},
 	"15593": {
 		"title": "[완료] 5월 14일(목) 일부 서버 점검 안내",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "15490",
 		"added": "2026-04-24"
-	},
-	"15495": {
-		"title": "[완료] 4월 29일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2026.04.27",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15495&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/7JJ3RXAJE2B6K5S820260427133917771.400x225.jpg",
-		"desc": "4월 29일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "15495",
-		"added": "2026-04-27"
 	}
 }
