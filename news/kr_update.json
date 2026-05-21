@@ -1,4 +1,15 @@
 {
+	"15630": {
+		"title": "5월 21일(목) 임시 점검 업데이트 안내",
+		"date": "2026.05.21",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15630&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/HJD6E38YDS78DDHP20260521062502650.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15630",
+		"major": false,
+		"added": "2026-05-21"
+	},
 	"15614": {
 		"title": "5월 20일(수) 업데이트 안내",
 		"date": "2026.05.20",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "15402",
 		"major": false,
-		"added": "2026-04-01"
-	},
-	"15388": {
-		"title": "4월 1일(수) 업데이트 안내",
-		"date": "2026.04.01",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15388&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/RZ7OHR73M7X1NDTB20260331183713770.400x225.jpg",
-		"desc": "클래스 밸런스 조정, 벨/가모스 토벌 보상 상향, 일부 아이템의 통합 거래소 가격 조정, 푸른 전장 부활지 추가 등의 업데이트",
-		"description": "",
-		"content_id": "15388",
-		"major": true,
 		"added": "2026-04-01"
 	}
 }
