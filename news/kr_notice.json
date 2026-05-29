@@ -1,13 +1,43 @@
 {
 	"2989": {
 		"title": "알려진 문제점",
-		"date": "2026.05.28",
+		"date": "2026.05.29",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
 		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
 		"description": "",
 		"content_id": "2989",
 		"added": "2024-05-20"
+	},
+	"15671": {
+		"title": "[완료] 5월 29일(금) 일부 서버 점검 안내",
+		"date": "2026.05.29",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15671&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/8GLTUKX9LEM51NHM20260529173708387.400x225.jpg",
+		"desc": "5월 29일(금) 일부 서버 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "15671",
+		"added": "2026-05-29"
+	},
+	"15670": {
+		"title": "[완료] 5월 29일(금) 통합 거래소 점검 안내",
+		"date": "2026.05.29",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15670&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/9LH4W3W34CCC8SAW20260529162840154.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15670",
+		"added": "2026-05-29"
+	},
+	"15668": {
+		"title": "운영정책 위반 사용자 조치 안내 (2026/05/29)",
+		"date": "2026.05.29",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15668&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/EAYWDZ6CAC64094B20260529151117900.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15668",
+		"added": "2026-05-29"
 	},
 	"15664": {
 		"title": "[완료] 5월 28일(목) 일부 서버 점검 안내",
@@ -208,35 +238,5 @@
 		"description": "",
 		"content_id": "15555",
 		"added": "2026-05-08"
-	},
-	"15553": {
-		"title": "[완료] 5월 8일(금) 통합 거래소 점검 안내",
-		"date": "2026.05.08",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15553&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/IN0PF7MX93TWU9JT20260508162332905.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15553",
-		"added": "2026-05-08"
-	},
-	"15547": {
-		"title": "[완료] 5월 7일(목) 서버 임시 점검 안내",
-		"date": "2026.05.06",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15547&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/GQH1UKNF1VB6SG3220260506225841749.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15547",
-		"added": "2026-05-07"
-	},
-	"15543": {
-		"title": "2026 월드교류전 선발전 대진표 추첨 방송 안내",
-		"date": "2026.05.06",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15543&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/9UX13LZBT73L2YM520260504195045759.400x225.png",
-		"desc": "4개의 월드에서 진행되는 선발전 대진표 추첨이 시작됩니다.",
-		"description": "",
-		"content_id": "15543",
-		"added": "2026-05-06"
 	}
 }
