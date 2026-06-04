@@ -1,4 +1,15 @@
 {
+	"15694": {
+		"title": "6월 4일(목) 업데이트 안내",
+		"date": "2026.06.04",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15694&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/UCKIJCODCEJQ8AYR20260602200239115.400x225.jpg",
+		"desc": "재배 콘텐츠 개선, 생산 노드 및 공헌도 수치 개선, 두억시니 팔/구/십재시니, 검은사당 여섯번째 보옥 등의 업데이트",
+		"description": "",
+		"content_id": "15694",
+		"major": true,
+		"added": "2026-06-04"
+	},
 	"15672": {
 		"title": "5월 29일(금) 일부 서버 점검 업데이트 안내",
 		"date": "2026.05.29",
@@ -251,16 +262,5 @@
 		"content_id": "15483",
 		"major": true,
 		"added": "2026-04-22"
-	},
-	"15461": {
-		"title": "4월 17일(금) 최신 버전 업데이트 안내",
-		"date": "2026.04.17",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15461&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/9E4WBY4SXJHNKS3G20260417142327236.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15461",
-		"major": false,
-		"added": "2026-04-17"
 	}
 }
