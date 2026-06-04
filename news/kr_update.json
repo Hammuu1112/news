@@ -1,4 +1,15 @@
 {
+	"15698": {
+		"title": "6월 4일(목) 최신 버전 업데이트 안내",
+		"date": "2026.06.04",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15698&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/K5C45EGP4OF4LLQQ20260604174134655.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15698",
+		"major": false,
+		"added": "2026-06-04"
+	},
 	"15694": {
 		"title": "6월 4일(목) 업데이트 안내",
 		"date": "2026.06.04",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "15484",
 		"major": false,
-		"added": "2026-04-22"
-	},
-	"15483": {
-		"title": "4월 22일(수) 업데이트 안내",
-		"date": "2026.04.22",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15483&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/5OKX09IXX0I6NH5820260421200746277.400x225.jpg",
-		"desc": "신비한 씨앗류 개선, '모든 종족 추가 공격력' 표기 변경, 피의 제단 신규 난이도 등의 업데이트",
-		"description": "",
-		"content_id": "15483",
-		"major": true,
 		"added": "2026-04-22"
 	}
 }
