@@ -1,4 +1,14 @@
 {
+	"15702": {
+		"title": "[2026 월드교류전] 본선 대진표 안내",
+		"date": "2026.06.05",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15702&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/FZ2TK98SE7FMSVWU20260605214449348.400x225.png",
+		"desc": "월드교류전 본선이 6월 13일(토) 14시부터 시작됩니다.",
+		"description": "",
+		"content_id": "15702",
+		"added": "2026-06-06"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.06.05",
@@ -227,16 +237,6 @@
 		"desc": "5월 13일 수요일 검은사막 정기점검이 진행될 예정입니다.",
 		"description": "",
 		"content_id": "15560",
-		"added": "2026-05-11"
-	},
-	"15559": {
-		"title": "운영정책 위반 사용자 조치 안내 (2026/05/11)",
-		"date": "2026.05.11",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15559&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/RFURREG8P9LQ0GSY20260511144231354.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15559",
 		"added": "2026-05-11"
 	}
 }
