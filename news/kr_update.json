@@ -1,4 +1,15 @@
 {
+	"15725": {
+		"title": "6월 12일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2026.06.12",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15725&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/YSLDS49QIXUUFFFH20260612104842273.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15725",
+		"major": false,
+		"added": "2026-06-12"
+	},
 	"15722": {
 		"title": "6월 10일(수) 최신 버전 업데이트 안내",
 		"date": "2026.06.10",
@@ -250,17 +261,6 @@
 		"description": "",
 		"content_id": "15523",
 		"major": false,
-		"added": "2026-04-29"
-	},
-	"15505": {
-		"title": "4월 29일(수) 업데이트 안내",
-		"date": "2026.04.29",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15505&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/N18ZU9ZTUZ1BM2QW20260428184616892.400x225.png",
-		"desc": "클래스 밸런스 조정, 거점/점령전 개편, 솔라레의 창 신규 시즌 등의 업데이트",
-		"description": "",
-		"content_id": "15505",
-		"major": true,
 		"added": "2026-04-29"
 	}
 }
