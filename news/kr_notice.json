@@ -1,4 +1,14 @@
 {
+	"15728": {
+		"title": "[2026 월드교류전] 우승팀 안내",
+		"date": "2026.06.13",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15728&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/4G6ZO6H6U439VV2K20260613175030433.400x225.png",
+		"desc": "다른 월드와의 실력을 겨루는 최고의 무대,  ' 2026 월드교류전 우승팀 '을 소개합니다.",
+		"description": "",
+		"content_id": "15728",
+		"added": "2026-06-13"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.06.12",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "15595",
 		"added": "2026-05-15"
-	},
-	"15593": {
-		"title": "[완료] 5월 14일(목) 일부 서버 점검 안내",
-		"date": "2026.05.14",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15593&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/6K0HCJFUP0F6OQ7420260514153437491.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15593",
-		"added": "2026-05-14"
 	}
 }
