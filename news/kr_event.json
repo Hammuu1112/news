@@ -98,17 +98,6 @@
 		"new_tag": false,
 		"added": "2026-06-04"
 	},
-	"15683": {
-		"title": "[2026 월드교류전] 팀 소개 방송 시청하고, 응원팀을 선택하세요!",
-		"deadline": "2026-06-13",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15683&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/O8YKYQZ2BEXI39N120260602184441316.400x225.png",
-		"description": "",
-		"content_id": "15683",
-		"new_tag": false,
-		"added": "2026-06-04"
-	},
 	"15682": {
 		"title": "[530] 축하 케이크로 특별해진 사냥터 (feat. 크론석 53개)",
 		"deadline": "2026-06-17",
@@ -262,5 +251,16 @@
 		"content_id": "13326",
 		"new_tag": false,
 		"added": "2026-06-10"
+	},
+	"11432": {
+		"title": "[검은별 무기] 동(V) + 유(IV) 검은별, 앞으로 펼쳐질 도전의 시작",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=11432&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O4OVKJY55THQWQ5J20250618061612608.400x225.gif",
+		"description": "",
+		"content_id": "11432",
+		"new_tag": false,
+		"added": "2026-06-13"
 	}
 }
