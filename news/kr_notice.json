@@ -1,4 +1,14 @@
 {
+	"15754": {
+		"title": "[완료] 검은사막 런처 로그인이 원활하지 않은 현상 안내",
+		"date": "2026.06.18",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15754&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/L178JPR0JEKCO3UI20260618004212263.400x225.jpg",
+		"desc": "검은사막 런처에서 로그인이 원활하게 진행되지 않는 현상에 대한 자세한 내용 및 원인 파악을 진행하고 있습니다.",
+		"description": "",
+		"content_id": "15754",
+		"added": "2026-06-18"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.06.17",
@@ -228,15 +238,5 @@
 		"description": "",
 		"content_id": "15602",
 		"added": "2026-05-16"
-	},
-	"15599": {
-		"title": "[완료] 5월 15일(금) 통합 거래소 점검 안내",
-		"date": "2026.05.15",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15599&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/AWJ6DY1XEFY80B0I20260515160232939.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15599",
-		"added": "2026-05-15"
 	}
 }
