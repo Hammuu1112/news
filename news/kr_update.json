@@ -1,4 +1,26 @@
 {
+	"15753": {
+		"title": "6월 17일(수) 최신 버전 업데이트 안내",
+		"date": "2026.06.17",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15753&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/995DYVZ8TCV7VFXU20260617104731014.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15753",
+		"major": false,
+		"added": "2026-06-17"
+	},
+	"15751": {
+		"title": "6월 17일(수) 업데이트 안내",
+		"date": "2026.06.17",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15751&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/073FB7JQ02Z1LGRB20260616193012526.400x225.jpg",
+		"desc": "클래스 밸런스 조정, 푸른 전장 개선, 불멸의 나락 개선, 두더지 출현 및 수익 개선 등의 업데이트",
+		"description": "",
+		"content_id": "15751",
+		"major": true,
+		"added": "2026-06-17"
+	},
 	"15729": {
 		"title": "[검은사막+] 6월 15일(월) 업데이트 안내",
 		"date": "2026.06.15",
@@ -240,27 +262,5 @@
 		"content_id": "15531",
 		"major": false,
 		"added": "2026-05-02"
-	},
-	"15526": {
-		"title": "4월 30일(목) 최신 버전 업데이트 안내",
-		"date": "2026.04.30",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15526&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/5A2EX3M0574QHWDM20260430153518821.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15526",
-		"major": false,
-		"added": "2026-04-30"
-	},
-	"15525": {
-		"title": "4월 30일(목) 일부 서버 점검 업데이트 안내",
-		"date": "2026.04.30",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15525&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/ZYLSDKYCL2NUSJWC20260430113401107.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15525",
-		"major": false,
-		"added": "2026-04-30"
 	}
 }
