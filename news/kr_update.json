@@ -1,4 +1,26 @@
 {
+	"15784": {
+		"title": "6월 24일(수) 최신 버전 업데이트 안내",
+		"date": "2026.06.24",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15784&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/X0QIDO3MHH8OJICL20260624132424961.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15784",
+		"major": false,
+		"added": "2026-06-24"
+	},
+	"15783": {
+		"title": "6월 24일(수) 업데이트 안내",
+		"date": "2026.06.24",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15783&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/CFD67MF53HDKUU2Y20260624084218792.400x225.png",
+		"desc": "클래스 밸런스 조정, 솔라레의 창 정규 시즌 종료, 노스토스의 별 연출 개선, 에다니아 우두머리 토벌 보상 개선 등의 업데이트",
+		"description": "",
+		"content_id": "15783",
+		"major": true,
+		"added": "2026-06-24"
+	},
 	"15753": {
 		"title": "6월 17일(수) 최신 버전 업데이트 안내",
 		"date": "2026.06.17",
@@ -240,27 +262,5 @@
 		"content_id": "15552",
 		"major": false,
 		"added": "2026-05-08"
-	},
-	"15548": {
-		"title": "5월 7일(목) 임시 점검 업데이트 안내",
-		"date": "2026.05.07",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15548&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/BLJVK0UZNOSI3AQC20260507062702543.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15548",
-		"major": false,
-		"added": "2026-05-07"
-	},
-	"15531": {
-		"title": "5월 2일(토) 일부 서버 점검 업데이트 안내",
-		"date": "2026.05.02",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15531&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/58ZV2S76TGB10UBB20260502105715635.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15531",
-		"major": false,
-		"added": "2026-05-02"
 	}
 }
