@@ -1,4 +1,24 @@
 {
+	"15790": {
+		"title": "[완료] 6월 26일(금) 통합 거래소 점검 안내",
+		"date": "2026.06.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15790&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/7N4X9B4CSA5Q1EOY20260626163228234.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15790",
+		"added": "2026-06-26"
+	},
+	"15789": {
+		"title": "운영정책 위반 사용자 조치 안내 (2026/06/26)",
+		"date": "2026.06.26",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15789&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/H3FGOH0D9LP6R4ZU20260626144331690.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15789",
+		"added": "2026-06-26"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.06.26",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "15641",
 		"added": "2026-05-25"
-	},
-	"15640": {
-		"title": "운영정책 위반 사용자 조치 안내 (2026/05/22)",
-		"date": "2026.05.22",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15640&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/VLG5K2KOE0LACZTW20260522183306073.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15640",
-		"added": "2026-05-22"
-	},
-	"15639": {
-		"title": "[완료] 5월 22일(금) 통합 거래소 점검 안내",
-		"date": "2026.05.22",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15639&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/6NK8WL8BHOKH5MEV20260522154821025.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15639",
-		"added": "2026-05-22"
 	}
 }
