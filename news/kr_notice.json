@@ -1,4 +1,24 @@
 {
+	"15792": {
+		"title": "7월 1일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"date": "2026.06.29",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15792&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/L5OHRP4FTVSMP6KD20260629165940642.400x225.jpg",
+		"desc": "7월 1일 수요일 검은사막 정기점검이 진행될 예정입니다.",
+		"description": "",
+		"content_id": "15792",
+		"added": "2026-06-29"
+	},
+	"15791": {
+		"title": "운영정책 위반 사용자 조치 안내 (2026/06/29)",
+		"date": "2026.06.29",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15791&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/7XI25GFRG4JRT28H20260629162241624.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15791",
+		"added": "2026-06-29"
+	},
 	"15790": {
 		"title": "[완료] 6월 26일(금) 통합 거래소 점검 안내",
 		"date": "2026.06.26",
@@ -218,25 +238,5 @@
 		"description": "",
 		"content_id": "15660",
 		"added": "2026-05-27"
-	},
-	"15624": {
-		"title": "특정 아이템 회수 처리 방안 안내",
-		"date": "2026.05.26",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15624&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/3X77VMX54MOAQG5I20260520100303384.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15624",
-		"added": "2026-05-20"
-	},
-	"15641": {
-		"title": "[완료] 5월 27일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2026.05.25",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15641&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/LO2IVCKOL31OGJ3I20260525163647498.400x225.jpg",
-		"desc": "5월 27일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "15641",
-		"added": "2026-05-25"
 	}
 }
