@@ -1,4 +1,15 @@
 {
+	"15804": {
+		"title": "7월 1일(수) 업데이트 안내",
+		"date": "2026.07.01",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15804&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/K8OE94CSAN4892VG20260630183224354.400x225.jpg",
+		"desc": "클래스 밸런스 조정, 일부 아이템의 통합 거래소 상한가 변경, 점령전 활약 보상 시스템 개선 등의 업데이트",
+		"description": "",
+		"content_id": "15804",
+		"major": true,
+		"added": "2026-07-01"
+	},
 	"15784": {
 		"title": "6월 24일(수) 최신 버전 업데이트 안내",
 		"date": "2026.06.24",
@@ -251,16 +262,5 @@
 		"content_id": "15557",
 		"major": false,
 		"added": "2026-05-09"
-	},
-	"15552": {
-		"title": "5월 8일(금) 최신 버전 업데이트 안내",
-		"date": "2026.05.08",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15552&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/B0XZ5JR44ED0TO0B20260508111203283.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15552",
-		"major": false,
-		"added": "2026-05-08"
 	}
 }

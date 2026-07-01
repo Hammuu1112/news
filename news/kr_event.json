@@ -1,4 +1,37 @@
 {
+	"13733": {
+		"title": "[진행중인 이벤트 모아보기]",
+		"deadline": "-",
+		"count": "상시",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EMYV5KS2ZGA35MJP20250829171413462.400x225.jpg",
+		"description": "",
+		"content_id": "13733",
+		"new_tag": true,
+		"added": "2025-03-26"
+	},
+	"15800": {
+		"title": "파트리지오 상점 : 더 강력해진 라인업",
+		"deadline": "2026-07-15",
+		"count": "15 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15800&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/4M4XOJ9U4K01TH3620260630181449098.400x225.jpg",
+		"description": "",
+		"content_id": "15800",
+		"new_tag": true,
+		"added": "2026-07-01"
+	},
+	"15785": {
+		"title": "솔라레 시즌 피날레 특별전 : 우당탕탕 협동 대전",
+		"deadline": "2026-07-22",
+		"count": "22 일 남음",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15785&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/7USMRZR6NVN8RPA920260630181358800.400x225.jpg",
+		"description": "",
+		"content_id": "15785",
+		"new_tag": true,
+		"added": "2026-07-01"
+	},
 	"15799": {
 		"title": "[크리에이터 Live] 복귀 콘텐츠 1순위 토너먼트, 모험가님의 선택은?",
 		"deadline": "2026-07-01",
@@ -18,19 +51,8 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/AD0VLZM17MQI1WWL20260624192814349.400x225.jpg",
 		"description": "",
 		"content_id": "15786",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-06-24"
-	},
-	"13733": {
-		"title": "[진행중인 이벤트 모아보기]",
-		"deadline": "-",
-		"count": "상시",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EMYV5KS2ZGA35MJP20250829171413462.400x225.jpg",
-		"description": "",
-		"content_id": "13733",
-		"new_tag": true,
-		"added": "2025-03-26"
 	},
 	"15782": {
 		"title": "엘리트 안경으로 스타일 완성, 데일리 스페셜 패스!",
@@ -40,18 +62,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/ZWZ4R6QMVC0Q872M20260623175625240.400x225.png",
 		"description": "",
 		"content_id": "15782",
-		"new_tag": true,
-		"added": "2026-06-24"
-	},
-	"15779": {
-		"title": "붉은 전장 매칭 시작, 치열한 전장으로 출발",
-		"deadline": "2026-07-01",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15779&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/X6VPGY5NOE2KCRKN20260623175506599.400x225.png",
-		"description": "",
-		"content_id": "15779",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-06-24"
 	},
 	"15776": {
@@ -62,7 +73,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/1QCEA1VHQ8S1VIQJ20260623175317559.400x225.jpg",
 		"description": "",
 		"content_id": "15776",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-06-24"
 	},
 	"15774": {
@@ -73,7 +84,7 @@
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/0LU0NEHSM8NYXG5F20260623175156116.400x225.jpg",
 		"description": "",
 		"content_id": "15774",
-		"new_tag": true,
+		"new_tag": false,
 		"added": "2026-06-24"
 	},
 	"15739": {
@@ -130,17 +141,6 @@
 		"content_id": "15667",
 		"new_tag": false,
 		"added": "2026-05-30"
-	},
-	"15681": {
-		"title": "내륙 거점전 집중 지원 기간, 다 함께 전장으로",
-		"deadline": "2026-07-01",
-		"count": "1 일 남음",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15681&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/YSA5Q5DKBFETXTLD20260602184026608.400x225.jpg",
-		"description": "",
-		"content_id": "15681",
-		"new_tag": false,
-		"added": "2026-06-04"
 	},
 	"15248": {
 		"title": "[신규/복귀] 접속 보상",
