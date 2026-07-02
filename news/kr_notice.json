@@ -1,13 +1,23 @@
 {
 	"2989": {
 		"title": "알려진 문제점",
-		"date": "2026.07.01",
+		"date": "2026.07.02",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
 		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
 		"description": "",
 		"content_id": "2989",
 		"added": "2024-05-20"
+	},
+	"15818": {
+		"title": "[완료] 7월 2일(목) 일부 서버 점검 안내",
+		"date": "2026.07.02",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15818&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/ERWB2IHXB1VRC8FQ20260702102201952.400x225.jpg",
+		"desc": "7월 2일(목) 일부 서버 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "15818",
+		"added": "2026-07-02"
 	},
 	"15812": {
 		"title": "운영정책 위반 사용자 조치 안내 (2026/07/01)",
@@ -227,16 +237,6 @@
 		"desc": "",
 		"description": "",
 		"content_id": "15670",
-		"added": "2026-05-29"
-	},
-	"15668": {
-		"title": "운영정책 위반 사용자 조치 안내 (2026/05/29)",
-		"date": "2026.05.29",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15668&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/EAYWDZ6CAC64094B20260529151117900.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15668",
 		"added": "2026-05-29"
 	}
 }

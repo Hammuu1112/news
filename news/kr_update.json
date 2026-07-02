@@ -1,4 +1,15 @@
 {
+	"15819": {
+		"title": "7월 2일(목) 최신 버전 업데이트 안내",
+		"date": "2026.07.02",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15819&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/8OQBY8KS8R25BLDK20260702114520745.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15819",
+		"major": false,
+		"added": "2026-07-02"
+	},
 	"15804": {
 		"title": "7월 1일(수) 업데이트 안내",
 		"date": "2026.07.01",
@@ -251,16 +262,5 @@
 		"content_id": "15570",
 		"major": true,
 		"added": "2026-05-13"
-	},
-	"15557": {
-		"title": "5월 9일(토) 일부 서버 점검 업데이트 안내",
-		"date": "2026.05.09",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15557&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/O1V4AOH09CTE5JO220260509095111982.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15557",
-		"major": false,
-		"added": "2026-05-09"
 	}
 }
