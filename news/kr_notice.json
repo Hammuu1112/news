@@ -1,4 +1,14 @@
 {
+	"15821": {
+		"title": "[완료] 7월 3일(금) 서버 순차 점검 안내",
+		"date": "2026.07.03",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15821&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/GXUX3MQ8W0OQQI4X20260703151304080.400x225.jpg",
+		"desc": "7월 3일 서버 순차 점검을 안내해드립니다.",
+		"description": "",
+		"content_id": "15821",
+		"added": "2026-07-03"
+	},
 	"2989": {
 		"title": "알려진 문제점",
 		"date": "2026.07.02",
@@ -227,16 +237,6 @@
 		"desc": "5월 29일(금) 일부 서버 점검을 안내해 드립니다.",
 		"description": "",
 		"content_id": "15671",
-		"added": "2026-05-29"
-	},
-	"15670": {
-		"title": "[완료] 5월 29일(금) 통합 거래소 점검 안내",
-		"date": "2026.05.29",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15670&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/9LH4W3W34CCC8SAW20260529162840154.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15670",
 		"added": "2026-05-29"
 	}
 }
