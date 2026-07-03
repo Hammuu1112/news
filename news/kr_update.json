@@ -1,4 +1,15 @@
 {
+	"15820": {
+		"title": "7월 3일(금) 보안 모듈 최신 버전 업데이트 안내",
+		"date": "2026.07.03",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15820&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/0XZ8S6PO0P5Y5BV620260703103955200.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15820",
+		"major": false,
+		"added": "2026-07-03"
+	},
 	"15819": {
 		"title": "7월 2일(목) 일부 서버 점검 업데이트 안내",
 		"date": "2026.07.02",
@@ -251,16 +262,5 @@
 		"content_id": "15592",
 		"major": false,
 		"added": "2026-05-14"
-	},
-	"15570": {
-		"title": "5월 13일(수) 업데이트 안내",
-		"date": "2026.05.13",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15570&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/C6HCVEHW3A4GFQV020260512204022928.400x225.png",
-		"desc": "클래스 밸런스 조정, 노스토스의 별, 월드맵 통합 검색 기능 개선 등의 업데이트",
-		"description": "",
-		"content_id": "15570",
-		"major": true,
-		"added": "2026-05-13"
 	}
 }
