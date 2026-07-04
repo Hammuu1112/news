@@ -1,4 +1,15 @@
 {
+	"15826": {
+		"title": "7월 4일(토) 임시 점검 업데이트 안내",
+		"date": "2026.07.04",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15826&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/1X27J919KWM9HUS320260704030927415.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15826",
+		"major": false,
+		"added": "2026-07-04"
+	},
 	"15820": {
 		"title": "7월 3일(금) 보안 모듈 최신 버전 업데이트 안내",
 		"date": "2026.07.03",
@@ -249,17 +260,6 @@
 		"desc": "",
 		"description": "",
 		"content_id": "15594",
-		"major": false,
-		"added": "2026-05-14"
-	},
-	"15592": {
-		"title": "5월 14일(목) 임시 점검 업데이트 안내",
-		"date": "2026.05.14",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15592&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/M40RKQPWSXVSE3K720260514064016381.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15592",
 		"major": false,
 		"added": "2026-05-14"
 	}
