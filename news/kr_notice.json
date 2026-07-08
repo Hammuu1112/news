@@ -1,7 +1,17 @@
 {
+	"15858": {
+		"title": "7월 8일(수) 일부 서버 점검 안내",
+		"date": "2026.07.08",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15858&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/0FEWEA80IC4XH1W620260708114219676.400x225.jpg",
+		"desc": "7월 8일(수) 일부 서버 점검을 안내해 드립니다.",
+		"description": "",
+		"content_id": "15858",
+		"added": "2026-07-08"
+	},
 	"2989": {
 		"title": "알려진 문제점",
-		"date": "2026.07.07",
+		"date": "2026.07.08",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2989&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/b095d15c59620200604162521642.jpg",
 		"desc": "현재 확인 중인 게임 내 주요 안내 사항과 알려진 문제점에 대해 안내 드립니다.",
@@ -9,8 +19,28 @@
 		"content_id": "2989",
 		"added": "2024-05-20"
 	},
+	"15843": {
+		"title": "일부 운영체제 및 DirectX 9 지원 중단 예정 안내",
+		"date": "2026.07.08",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15843&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/0D3QJRZJ034ZY0QB20260707191312564.400x225.jpg",
+		"desc": "일부 운영체제 및 DirectX 9 지원이 중단됩니다.",
+		"description": "",
+		"content_id": "15843",
+		"added": "2026-07-08"
+	},
+	"15836": {
+		"title": "운영정책 위반 사용자 조치 안내 (2026/07/08)",
+		"date": "2026.07.08",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15836&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/JU16J8ANSRKEN4CJ20260707185841839.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15836",
+		"added": "2026-07-08"
+	},
 	"15829": {
-		"title": "7월 8일(수) 서비스 정기점검 및 홈페이지 점검 안내",
+		"title": "[완료] 7월 8일(수) 서비스 정기점검 및 홈페이지 점검 안내",
 		"date": "2026.07.06",
 		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15829&countryType=ko-KR",
 		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/3I8UC0UTPD91THKR20260706165754223.400x225.jpg",
@@ -208,35 +238,5 @@
 		"description": "",
 		"content_id": "15726",
 		"added": "2026-06-12"
-	},
-	"15719": {
-		"title": "운영정책 위반 사용자 조치 안내 (2026/06/10)",
-		"date": "2026.06.10",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15719&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/WIG0DVLPCV0RRA8C20260609192147291.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15719",
-		"added": "2026-06-10"
-	},
-	"15709": {
-		"title": "[완료] 6월 10일(수) 서비스 정기점검 및 홈페이지 점검 안내",
-		"date": "2026.06.08",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15709&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/7OP7EE0I8866K9WP20260608165927426.400x225.jpg",
-		"desc": "6월 10일 수요일 검은사막 정기점검이 진행될 예정입니다.",
-		"description": "",
-		"content_id": "15709",
-		"added": "2026-06-08"
-	},
-	"15702": {
-		"title": "[2026 월드교류전] 본선 대진표 안내",
-		"date": "2026.06.05",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15702&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/FZ2TK98SE7FMSVWU20260605214449348.400x225.png",
-		"desc": "월드교류전 본선이 6월 13일(토) 14시부터 시작됩니다.",
-		"description": "",
-		"content_id": "15702",
-		"added": "2026-06-06"
 	}
 }

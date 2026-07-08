@@ -1,4 +1,15 @@
 {
+	"15844": {
+		"title": "7월 8일(수) 업데이트 안내",
+		"date": "2026.07.08",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15844&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/UYR5LF14QSH984N920260707191330640.400x225.jpg",
+		"desc": "클래스 밸런스 조정, 올비아 아카데미 2기 기간 연장, 손각시 팔/구/십재시니, 점령전 현황 UI 개선 등의 업데이트",
+		"description": "",
+		"content_id": "15844",
+		"major": true,
+		"added": "2026-07-08"
+	},
 	"15826": {
 		"title": "7월 4일(토) 임시 점검 업데이트 안내",
 		"date": "2026.07.04",
@@ -251,16 +262,5 @@
 		"content_id": "15598",
 		"major": false,
 		"added": "2026-05-15"
-	},
-	"15594": {
-		"title": "5월 14일(목) 일부 서버 점검 업데이트 안내",
-		"date": "2026.05.14",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15594&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/CQIH1KQ0EXARPEWK20260514170105718.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15594",
-		"major": false,
-		"added": "2026-05-14"
 	}
 }
