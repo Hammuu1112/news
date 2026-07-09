@@ -1,4 +1,15 @@
 {
+	"15860": {
+		"title": "7월 9일(목) 최신 버전 업데이트 안내",
+		"date": "2026.07.09",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15860&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/RKT9S8YGXJIVPI7720260709184547515.400x225.jpg",
+		"desc": "",
+		"description": "",
+		"content_id": "15860",
+		"major": false,
+		"added": "2026-07-09"
+	},
 	"15859": {
 		"title": "7월 8일(수) 일부 서버 점검 업데이트 안내",
 		"date": "2026.07.08",
@@ -251,16 +262,5 @@
 		"content_id": "15630",
 		"major": false,
 		"added": "2026-05-21"
-	},
-	"15614": {
-		"title": "5월 20일(수) 업데이트 안내",
-		"date": "2026.05.20",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15614&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/FTJJZVSZ3NV9XF9520260519185006472.400x225.jpg",
-		"desc": "클래스 밸런스 조정, 월드 우두머리 귄트/무라카 리뉴얼, 물물교환 개선, 사냥터 정보 UI 개선, 솔라레의 창 아군 위치 표시 기능 등의 업데이트",
-		"description": "",
-		"content_id": "15614",
-		"major": true,
-		"added": "2026-05-20"
 	}
 }
