@@ -1,4 +1,15 @@
 {
+	"15878": {
+		"title": "7월 15일(수) 업데이트 안내",
+		"date": "2026.07.15",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15878&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/8ITXY6D0QS5HRVKK20260714191452266.400x225.jpg",
+		"desc": "야생마 개체 수 증가, 야르 미니게임 매칭, 피의 제단 제3 심연의 환상 등의 업데이트",
+		"description": "",
+		"content_id": "15878",
+		"major": true,
+		"added": "2026-07-15"
+	},
 	"15871": {
 		"title": "[검은사막+] 7월 14일(화) 업데이트 안내",
 		"date": "2026.07.14",
@@ -251,16 +262,5 @@
 		"content_id": "15651",
 		"major": true,
 		"added": "2026-05-27"
-	},
-	"15637": {
-		"title": "5월 22일(금) 보안 모듈 최신 버전 업데이트 안내",
-		"date": "2026.05.22",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15637&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/YIICXSL33Z69DT1R20260522111030311.400x225.jpg",
-		"desc": "",
-		"description": "",
-		"content_id": "15637",
-		"major": false,
-		"added": "2026-05-22"
 	}
 }
