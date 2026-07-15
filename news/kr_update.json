@@ -1,4 +1,15 @@
 {
+	"15890": {
+		"title": "7월 15일(수) 순차 점검 업데이트 안내",
+		"date": "2026.07.15",
+		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15890&countryType=ko-KR",
+		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/QJDE02P7B8BO9CNY20260715182029695.400x225.jpg",
+		"desc": "7월 15일 수요일 순차 점검 업데이트 사항을 안내드립니다.",
+		"description": "",
+		"content_id": "15890",
+		"major": false,
+		"added": "2026-07-15"
+	},
 	"15878": {
 		"title": "7월 15일(수) 업데이트 안내",
 		"date": "2026.07.15",
@@ -251,16 +262,5 @@
 		"content_id": "15662",
 		"major": false,
 		"added": "2026-05-28"
-	},
-	"15651": {
-		"title": "5월 27일(수) 업데이트 안내",
-		"date": "2026.05.27",
-		"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15651&countryType=ko-KR",
-		"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/DI4DNH5PXWXL3YU820260526210821363.400x225.jpg",
-		"desc": "클래스 밸런스 조정, 피의 제단 '제 2의 심연의 환상', 아이템 습득 환호 동작 삭제, 솔라레의 창 페널티 시스템 등의 업데이트",
-		"description": "",
-		"content_id": "15651",
-		"major": true,
-		"added": "2026-05-27"
 	}
 }
