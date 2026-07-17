@@ -9,7 +9,7 @@ from config import Config
 
 logger = logging.getLogger(__name__)
 
-WEBHOOK_TIMEOUT = 10  # seconds
+WEBHOOK_TIMEOUT = 120  # seconds — 대량 배치(백로그) 처리 시간을 고려한 여유값
 
 
 def send_notify(config: Config, items: List[dict]) -> requests.Response:
