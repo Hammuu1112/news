@@ -11,5 +11,5 @@ class JpCrawler(BaseRegionCrawler):
     country_type = "ja-JP"
 
     def _is_major(self, title: str) -> bool:
-        # 명세 §4-3: 제목에 "最新バージョン" 이 포함되면 false, 나머지는 true.
+        # 제목에 "最新バージョン" 이 포함되면 false, 나머지는 true.
         return "最新バージョン" not in title

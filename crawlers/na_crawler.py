@@ -11,5 +11,5 @@ class NaCrawler(BaseRegionCrawler):
     country_type = "en-US"
 
     def _is_major(self, title: str) -> bool:
-        # 명세 §4-2: 제목이 "Patch Notes" 로 시작하면 true, 나머지는 false.
+        # 제목이 "Patch Notes" 로 시작하면 true, 나머지는 false.
         return title.strip().startswith("Patch Notes")
