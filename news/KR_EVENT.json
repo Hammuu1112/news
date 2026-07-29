@@ -1,15 +1,99 @@
 [
   {
-    "id": "KR_EVENT_15941",
+    "id": "KR_EVENT_15957",
     "region": "KR",
     "category": "EVENT",
-    "title": "[검은사막 연구소] 신규 클래스, 에이전트 사전 체험",
-    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15941&countryType=ko-KR",
-    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/WUDOQ3GV0PRI9U4G20260726133330920.400x225.png",
-    "publishedAt": "2026-07-26",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "title": "하이퍼부스트 시즌 패스,막힘없이 성장! (feat. 신규 인장)",
+    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15957&countryType=ko-KR",
+    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/QM8JG2A04MCVCGXI20260728184148688.400x225.jpg",
+    "publishedAt": "2026-07-29",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
-    "deadline": "2026-07-29"
+    "deadline": null
+  },
+  {
+    "id": "KR_EVENT_15956",
+    "region": "KR",
+    "category": "EVENT",
+    "title": "[신규 클래스 출시] 에이전트의 모험, 인장으로 완성",
+    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15956&countryType=ko-KR",
+    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/4F0P7JLGW1BQ08TE20260728183632722.400x225.jpg",
+    "publishedAt": "2026-07-29",
+    "crawledAt": "2026-07-29T04:11:32Z",
+    "isMajor": false,
+    "deadline": "2026-08-27"
+  },
+  {
+    "id": "KR_EVENT_15955",
+    "region": "KR",
+    "category": "EVENT",
+    "title": "[신규 클래스 출시] 에이전트 레벨 UP, 도전과제 임무 완료",
+    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15955&countryType=ko-KR",
+    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/7KOD9BLND32RZHYJ20260728183317897.400x225.jpg",
+    "publishedAt": "2026-07-29",
+    "crawledAt": "2026-07-29T04:11:32Z",
+    "isMajor": false,
+    "deadline": "2026-08-27"
+  },
+  {
+    "id": "KR_EVENT_15954",
+    "region": "KR",
+    "category": "EVENT",
+    "title": "[신규 클래스 출시] 매일 받아가는 치지직 드롭스",
+    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15954&countryType=ko-KR",
+    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/AJ64077A4HID74EH20260728183136279.400x225.jpg",
+    "publishedAt": "2026-07-29",
+    "crawledAt": "2026-07-29T04:11:32Z",
+    "isMajor": false,
+    "deadline": "2026-08-17"
+  },
+  {
+    "id": "KR_EVENT_15953",
+    "region": "KR",
+    "category": "EVENT",
+    "title": "데일리 스페셜 패스, 최애 외형 액세서리 PICK!",
+    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15953&countryType=ko-KR",
+    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/B0DJ4CXA63X02BW720260728182921821.400x225.png",
+    "publishedAt": "2026-07-29",
+    "crawledAt": "2026-07-29T04:11:32Z",
+    "isMajor": false,
+    "deadline": "2026-09-03"
+  },
+  {
+    "id": "KR_EVENT_15952",
+    "region": "KR",
+    "category": "EVENT",
+    "title": "단 1 은화, 카프라스의 돌 추출을 자유롭게!",
+    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15952&countryType=ko-KR",
+    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/VL54VOEUJPBIBDKM20260728182526087.400x225.jpg",
+    "publishedAt": "2026-07-29",
+    "crawledAt": "2026-07-29T04:11:32Z",
+    "isMajor": false,
+    "deadline": "2026-08-13"
+  },
+  {
+    "id": "KR_EVENT_15951",
+    "region": "KR",
+    "category": "EVENT",
+    "title": "8월, 매일 찾아오는 일일 접속 보상",
+    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15951&countryType=ko-KR",
+    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/C05MT2EYTWR2GUIV20260728182351616.400x225.png",
+    "publishedAt": "2026-07-29",
+    "crawledAt": "2026-07-29T04:11:32Z",
+    "isMajor": false,
+    "deadline": "2026-09-01"
+  },
+  {
+    "id": "KR_EVENT_15950",
+    "region": "KR",
+    "category": "EVENT",
+    "title": "월드 우두머리 벨/가모스 처치 보상 3배 UP",
+    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15950&countryType=ko-KR",
+    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/7L4DLNJ7HALY410020260728182241734.400x225.jpg",
+    "publishedAt": "2026-07-29",
+    "crawledAt": "2026-07-29T04:11:32Z",
+    "isMajor": false,
+    "deadline": "2026-08-13"
   },
   {
     "id": "KR_EVENT_15933",
@@ -19,9 +103,9 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15933&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/DZXFPIMU21WQ9FA520260726124843899.400x225.jpg",
     "publishedAt": "2026-07-26",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
-    "deadline": "2026-10-20"
+    "deadline": "2026-10-21"
   },
   {
     "id": "KR_EVENT_15904",
@@ -31,9 +115,9 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15904&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/WR8CPL54V11B23DC20260721180439034.400x225.jpg",
     "publishedAt": "2026-07-22",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
-    "deadline": "2026-08-05"
+    "deadline": "2026-08-06"
   },
   {
     "id": "KR_EVENT_15903",
@@ -43,9 +127,9 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15903&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/M8F5A5IUFGISUD7W20260721180303897.400x225.jpg",
     "publishedAt": "2026-07-22",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
-    "deadline": "2026-09-22"
+    "deadline": "2026-09-23"
   },
   {
     "id": "KR_EVENT_15901",
@@ -55,9 +139,9 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15901&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/G6DWFQH1A19YK75620260721175841679.400x225.png",
     "publishedAt": "2026-07-22",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
-    "deadline": "2026-08-05"
+    "deadline": "2026-08-06"
   },
   {
     "id": "KR_EVENT_15899",
@@ -67,9 +151,9 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15899&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/I9AYX53CZBDAIAVH20260721175517550.400x225.jpg",
     "publishedAt": "2026-07-22",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
-    "deadline": "2026-08-12"
+    "deadline": "2026-08-13"
   },
   {
     "id": "KR_EVENT_6968",
@@ -79,7 +163,7 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6968&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/IZIFYFPUNJPUI58W20230712114828633.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
     "deadline": null
   },
@@ -91,33 +175,9 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2783&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/4KM094V3X82N5SE720220630143044011.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
     "deadline": null
-  },
-  {
-    "id": "KR_EVENT_15875",
-    "region": "KR",
-    "category": "EVENT",
-    "title": "위기의 테르미안 해변, 날개인어의 습격",
-    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15875&countryType=ko-KR",
-    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/IUPEZMNOELK9J6Q420260714183502416.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
-    "isMajor": false,
-    "deadline": "2026-07-29"
-  },
-  {
-    "id": "KR_EVENT_15874",
-    "region": "KR",
-    "category": "EVENT",
-    "title": "하이델 분수대에 감도는 축제의 기운과 특별한 선물",
-    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15874&countryType=ko-KR",
-    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/PCZ6JB8B1IQ78YOG20260714183328228.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
-    "isMajor": false,
-    "deadline": "2026-07-29"
   },
   {
     "id": "KR_EVENT_15873",
@@ -127,45 +187,9 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15873&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/PERSJA06ETTHU6JO20260714183200757.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
-    "deadline": "2026-08-12"
-  },
-  {
-    "id": "KR_EVENT_15840",
-    "region": "KR",
-    "category": "EVENT",
-    "title": "테르미안 해변 GRAND OPEN, 여름 축제 속으로!",
-    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15840&countryType=ko-KR",
-    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/MEL1P10ZUP56MPEV20260707190102646.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
-    "isMajor": false,
-    "deadline": "2026-07-29"
-  },
-  {
-    "id": "KR_EVENT_15816",
-    "region": "KR",
-    "category": "EVENT",
-    "title": "하이델 축제의 서막! 모험을 새긴 인장",
-    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15816&countryType=ko-KR",
-    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/E69ZXPPHTMSK4CSW20260707185746736.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
-    "isMajor": false,
-    "deadline": "2026-07-29"
-  },
-  {
-    "id": "KR_EVENT_15782",
-    "region": "KR",
-    "category": "EVENT",
-    "title": "엘리트 안경으로 스타일 완성, 데일리 스페셜 패스!",
-    "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15782&countryType=ko-KR",
-    "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/ZWZ4R6QMVC0Q872M20260623175625240.400x225.png",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
-    "isMajor": false,
-    "deadline": "2026-07-29"
+    "deadline": "2026-08-13"
   },
   {
     "id": "KR_EVENT_15774",
@@ -175,9 +199,9 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15774&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/0LU0NEHSM8NYXG5F20260623175156116.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
-    "deadline": "2026-07-31"
+    "deadline": "2026-08-01"
   },
   {
     "id": "KR_EVENT_15131",
@@ -187,9 +211,9 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=15131&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2026/BJ6J72B5KLAKYPTM20260127174532557.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
-    "deadline": "2026-12-30"
+    "deadline": "2026-12-31"
   },
   {
     "id": "KR_EVENT_14795",
@@ -199,7 +223,7 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14795&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/10D9XUZXBSQRWYXY20251118182438178.400x225.png",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
     "deadline": null
   },
@@ -207,11 +231,11 @@
     "id": "KR_EVENT_14226",
     "region": "KR",
     "category": "EVENT",
-    "title": "군왕 주무기 개량, 역류한 가모스의 심장 지급!",
+    "title": "개량으로 무기 효과 UP, 역류한 가모스의 심장 도전과제",
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14226&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/WJBWTTZHLMWUXJWJ20250708185707100.400x225.png",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
     "deadline": null
   },
@@ -223,7 +247,7 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14188&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/VBT6STXF00VJ14YU20250701183238824.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
     "deadline": null
   },
@@ -235,7 +259,7 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=14151&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/MTPJD8ODLSKQ2P9020250624203045795.400x225.png",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
     "deadline": null
   },
@@ -247,7 +271,7 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13733&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/EMYV5KS2ZGA35MJP20250829171413462.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
     "deadline": null
   },
@@ -259,7 +283,7 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=13326&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/NLTFV2E11RQK64W620250305142723080.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
     "deadline": null
   },
@@ -271,7 +295,7 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=11432&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/O4OVKJY55THQWQ5J20250618061612608.400x225.gif",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
     "deadline": null
   },
@@ -283,7 +307,7 @@
     "url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10977&countryType=ko-KR",
     "thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2025/B98W9KIMAKY8VTN820251014143738323.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-07-28T15:20:49Z",
+    "crawledAt": "2026-07-29T04:11:32Z",
     "isMajor": false,
     "deadline": null
   }
