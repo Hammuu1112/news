@@ -1,5 +1,89 @@
 [
   {
+    "id": "EU_EVENT_10477",
+    "region": "EU",
+    "category": "EVENT",
+    "title": "Available All Year Long!",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10477&countryType=en-US",
+    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/DQ3VWWFAIBA70CWU20260820102828716.400x225.jpg",
+    "publishedAt": "2026-08-20",
+    "crawledAt": "2026-08-20T11:25:54Z",
+    "isMajor": false,
+    "deadline": "2026-08-20"
+  },
+  {
+    "id": "EU_EVENT_10476",
+    "region": "EU",
+    "category": "EVENT",
+    "title": "Progression Guild Benefits for a Week",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10476&countryType=en-US",
+    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/2GBJMB17MV0FJ8DH20260820102621902.400x225.png",
+    "publishedAt": "2026-08-20",
+    "crawledAt": "2026-08-20T11:25:54Z",
+    "isMajor": false,
+    "deadline": "2026-08-28"
+  },
+  {
+    "id": "EU_EVENT_10475",
+    "region": "EU",
+    "category": "EVENT",
+    "title": "Celebrate Edania ll with Special Drops",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10475&countryType=en-US",
+    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/AHBI6KW05GDTCDG620260820100118738.400x225.png",
+    "publishedAt": "2026-08-20",
+    "crawledAt": "2026-08-20T11:25:54Z",
+    "isMajor": false,
+    "deadline": "2026-09-01"
+  },
+  {
+    "id": "EU_EVENT_10472",
+    "region": "EU",
+    "category": "EVENT",
+    "title": "Build Faster with Sailing Special Pass",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10472&countryType=en-US",
+    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/BN7H9GTMJE19YQL420260820094058316.400x225.jpg",
+    "publishedAt": "2026-08-20",
+    "crawledAt": "2026-08-20T11:25:54Z",
+    "isMajor": false,
+    "deadline": "2026-09-24"
+  },
+  {
+    "id": "EU_EVENT_10471",
+    "region": "EU",
+    "category": "EVENT",
+    "title": "[Mysterious Ore] New Supplies for Crystals",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10471&countryType=en-US",
+    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/MR5UZT50KG81AT8A20260820093904131.400x225.png",
+    "publishedAt": "2026-08-20",
+    "crawledAt": "2026-08-20T11:25:54Z",
+    "isMajor": false,
+    "deadline": "2026-09-04"
+  },
+  {
+    "id": "EU_EVENT_10470",
+    "region": "EU",
+    "category": "EVENT",
+    "title": "Daily Login Combat Supplies",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10470&countryType=en-US",
+    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/SF71QWQUA0NBF56V20260820093650895.400x225.jpg",
+    "publishedAt": "2026-08-20",
+    "crawledAt": "2026-08-20T11:25:54Z",
+    "isMajor": false,
+    "deadline": "2026-08-27"
+  },
+  {
+    "id": "EU_EVENT_10469",
+    "region": "EU",
+    "category": "EVENT",
+    "title": "Push Further at the Altar of Blood!",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10469&countryType=en-US",
+    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/LD5TSZAGWTIULXX920260820093533462.400x225.jpg",
+    "publishedAt": "2026-08-20",
+    "crawledAt": "2026-08-20T11:25:54Z",
+    "isMajor": false,
+    "deadline": "2026-09-06"
+  },
+  {
     "id": "EU_EVENT_10450",
     "region": "EU",
     "category": "EVENT",
@@ -7,7 +91,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10450&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/XDFTMAGUWR7O7L2X20260813092731908.400x225.jpg",
     "publishedAt": "2026-08-13",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-09-18"
   },
@@ -19,7 +103,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10448&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/X98SKZQJQST81CFE20260813091738933.400x225.jpg",
     "publishedAt": "2026-08-13",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-10-16"
   },
@@ -31,7 +115,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10447&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/BNXN8P486DPKRTLC20260813091615021.400x225.jpg",
     "publishedAt": "2026-08-13",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-28"
   },
@@ -43,7 +127,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10446&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/WN5JV8O3JH4NISC420260813091458347.400x225.jpg",
     "publishedAt": "2026-08-13",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-28"
   },
@@ -55,7 +139,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10445&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/17IPXI1WZFPCWG4820260813091352641.400x225.jpg",
     "publishedAt": "2026-08-13",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-09-04"
   },
@@ -67,7 +151,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10444&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/F3PT5HTFPLD73E2120260813091218867.400x225.jpg",
     "publishedAt": "2026-08-13",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-28"
   },
@@ -79,7 +163,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10421&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/9ZGBE5T4OCVH11Y620260806092543629.400x225.jpg",
     "publishedAt": "2026-08-06",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-28"
   },
@@ -91,7 +175,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10419&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/S0ESQZT55HYH2F1X20260806091853100.400x225.jpg",
     "publishedAt": "2026-08-06",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-27"
   },
@@ -103,7 +187,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10400&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/7DEDYK4DYTMRYT2P20260730104645257.400x225.jpg",
     "publishedAt": "2026-07-30",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-26"
   },
@@ -115,7 +199,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10396&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/6QWBQXTHEAA0NX6J20260730100018712.400x225.jpg",
     "publishedAt": "2026-07-30",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-09-04"
   },
@@ -127,7 +211,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10394&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/LG3GPCZFV49YCIPA20260730094220906.400x225.jpg",
     "publishedAt": "2026-07-30",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-09-01"
   },
@@ -139,7 +223,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10387&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/RBK4QEW5J33AMIX320260730092409600.400x225.jpg",
     "publishedAt": "2026-07-30",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-28"
   },
@@ -151,7 +235,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10386&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/799L26ETHC5X25SA20260730092010512.400x225.jpg",
     "publishedAt": "2026-07-30",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-28"
   },
@@ -163,7 +247,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10385&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/FGHM5J5ELBFTMKY620260730091255583.400x225.jpg",
     "publishedAt": "2026-07-30",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-10-02"
   },
@@ -175,7 +259,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10352&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/THIK0VV8VG27UESE20260726044018499.400x225.jpg",
     "publishedAt": "2026-07-26",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-10-22"
   },
@@ -187,7 +271,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10340&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/ZI9QLED3DHE7EF5320260723100401567.400x225.jpg",
     "publishedAt": "2026-07-23",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-09-24"
   },
@@ -199,7 +283,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=9633&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/LGNAU0PYAPMTHLQP20260129110555496.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2027-01-01"
   },
@@ -211,69 +295,9 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=9527&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2025/VYBM9AKMU35TA7E720251231101728018.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2027-01-01"
-  },
-  {
-    "id": "EU_EVENT_8808",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "Available All Year Long!",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=8808&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2025/OCEOJSXAXZGMQAIQ20250711174620449.400x225.png",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-22"
-  },
-  {
-    "id": "EU_EVENT_8799",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "Transcending All Limits Upgrade Sovereign Main Weapon!",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=8799&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2025/IELAM9KAAYDHKG8T20250710090213925.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-22"
-  },
-  {
-    "id": "EU_EVENT_8753",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "10 Billion Silver for New Adventurers!",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=8753&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2025/5UBPTV08EHZH945520250702094302868.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-20"
-  },
-  {
-    "id": "EU_EVENT_7989",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "Start the Adventure of Your Dreams!",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=7989&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2025/AGD6V9ODZP8DOK8K20250711142125747.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-22"
-  },
-  {
-    "id": "EU_EVENT_7183",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "[PEN (V) Blackstar] A New Challenge Awaits",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=7183&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2024/33W3DYL21G917KEL20240626083504222.400x225.gif",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-23"
   },
   {
     "id": "EU_EVENT_6455",
@@ -283,45 +307,9 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=6455&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2024/S8LIGKVTTOH2N0OR20240112163524389.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-21"
-  },
-  {
-    "id": "EU_EVENT_6359",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "[TET (IV) Blackstar] Get Stronger with Blackstar Weapon!",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=6359&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2023/XTJOE93RIB732HU220231220102713549.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-20"
-  },
-  {
-    "id": "EU_EVENT_6358",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "[Dream Horse] A Dream Come True! ★",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=6358&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2023/1PVGUD1GHYC0C2J420231220102250648.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-21"
-  },
-  {
-    "id": "EU_EVENT_6335",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "Calling all New Adventurers!",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=6335&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2023/98V85JPUORUZXWXS20231222075415992.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-25"
   },
   {
     "id": "EU_EVENT_5878",
@@ -331,21 +319,9 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=5878&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2023/LEXHZR0J7PE5O3K420230906095516052.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-22"
-  },
-  {
-    "id": "EU_EVENT_5266",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "Adventure with Bigger Hot Time Benefits!",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=5266&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2023/9ZKQMPW5CHX83CYY20230517101400550.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-20"
   },
   {
     "id": "EU_EVENT_5073",
@@ -355,7 +331,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=5073&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2023/C9D9CT0CVSCRWYSV20230329095750394.400x225.png",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-22"
   },
@@ -367,55 +343,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=2276&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2021/DPKV7PGYDYY5LHKA20211213110117765.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-21"
-  },
-  {
-    "id": "EU_EVENT_205",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "Daily Ongoing Events!",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=205&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2021/28QFFNPZ75SBLR0B20210224185746715.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-20"
-  },
-  {
-    "id": "EU_EVENT_164",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "Black Desert Online Security Campaign",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=164&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2022/0FW6RBM2FI206IS920220318192400457.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-20"
-  },
-  {
-    "id": "EU_EVENT_160",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "Amazing Benefits for New and Returning Adventurers!",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=160&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2021/R8F7D2Z0SJZ4TBM920210223024744199.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
-    "isMajor": false,
-    "deadline": "2026-08-20"
-  },
-  {
-    "id": "EU_EVENT_1078",
-    "region": "EU",
-    "category": "EVENT",
-    "title": "Together at Last!",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=1078&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2022/633HJVFPI7TW6M4V20220318191851355.400x225.jpg",
-    "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-21"
   },
@@ -427,7 +355,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10308&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/ELXPPQP5WJ87AEVN20260716091036580.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-08-20T02:15:50Z",
+    "crawledAt": "2026-08-20T11:25:54Z",
     "isMajor": false,
     "deadline": "2026-08-31"
   }
