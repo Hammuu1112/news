@@ -1,5 +1,17 @@
 [
   {
+    "id": "NA_NOTICE_10513",
+    "region": "NA",
+    "category": "NOTICE",
+    "title": "Amendments to Black Desert Terms and Operational Policy",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10513&countryType=en-US",
+    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/DBEOY8ZYVMHHX54K20260827101857093.400x225.jpg",
+    "publishedAt": "2026-08-27",
+    "crawledAt": "2026-08-27T10:56:12Z",
+    "isMajor": false,
+    "deadline": null
+  },
+  {
     "id": "NA_NOTICE_10491",
     "region": "NA",
     "category": "NOTICE",
@@ -7,19 +19,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10491&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/HV2A7XKPW1HNQ45920260826034504823.400x225.jpg",
     "publishedAt": "2026-08-26",
-    "crawledAt": "2026-08-26T04:39:00Z",
-    "isMajor": false,
-    "deadline": null
-  },
-  {
-    "id": "NA_NOTICE_184",
-    "region": "NA",
-    "category": "NOTICE",
-    "title": "Known Issues",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=184&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2021/357BNSVET5PK6LX820210331143820744.400x225.jpg",
-    "publishedAt": "2026-08-25",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -31,7 +31,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10490&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/X5XVP4Q2OZ1BL9V620260825073747746.400x225.jpg",
     "publishedAt": "2026-08-25",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -43,7 +43,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10489&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/B24UBX9TJSPG6G5P20260823130602251.400x225.jpg",
     "publishedAt": "2026-08-23",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -55,7 +55,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10488&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/4LWH8R944I6W3BCM20260821224812835.400x225.jpg",
     "publishedAt": "2026-08-21",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -67,7 +67,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10487&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/WDSXA2Z01ZY25BC420260821071725727.400x225.jpg",
     "publishedAt": "2026-08-21",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -79,7 +79,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10484&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/1HQM7SKQ009X7KTK20260821023910872.400x225.jpg",
     "publishedAt": "2026-08-21",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -91,7 +91,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10481&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/JJH8VY92I4RWDZ9V20260820223139896.400x225.jpg",
     "publishedAt": "2026-08-21",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -103,7 +103,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10461&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/0F5S19Z9OFERIDLU20260818185947548.400x225.jpg",
     "publishedAt": "2026-08-18",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -115,7 +115,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10459&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/DI7VZ98C58YY2PGS20260818183356294.400x225.jpg",
     "publishedAt": "2026-08-18",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -127,7 +127,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10458&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/WFJ15JXU61EQ4HIH20260818082357406.400x225.jpg",
     "publishedAt": "2026-08-18",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -139,7 +139,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10456&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/Y2NDOFO4TSSU375P20260817231218757.400x225.jpg",
     "publishedAt": "2026-08-17",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -151,7 +151,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10452&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/00KULQU0RKT0RU5N20260814083414566.400x225.png",
     "publishedAt": "2026-08-14",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -163,7 +163,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10431&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/47JPP6FU26R3WIDU20260811083904478.400x225.jpg",
     "publishedAt": "2026-08-11",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -175,7 +175,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10429&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/67K5XUKV0CRYXS5D20260808013120027.400x225.jpg",
     "publishedAt": "2026-08-08",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -187,7 +187,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10426&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/HWJFKBFSBRKQ4N7E20260807080649700.400x225.jpg",
     "publishedAt": "2026-08-07",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -199,7 +199,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10425&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/QHEAPJP7A3P62BR820260806223528161.400x225.jpg",
     "publishedAt": "2026-08-07",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -211,7 +211,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10418&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/GFAR1SCWAIPW2VDR20260806091700769.400x225.jpg",
     "publishedAt": "2026-08-06",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -223,7 +223,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10409&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/64YEYL6X63J8RMYO20260804145414539.400x225.jpg",
     "publishedAt": "2026-08-04",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -235,7 +235,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10407&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/AK7ZPUOFVBY387KH20260804014813875.400x225.jpg",
     "publishedAt": "2026-08-04",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -247,7 +247,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10365&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/26XDO8KY1NQMPIU420260728084029162.400x225.jpg",
     "publishedAt": "2026-07-28",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -259,7 +259,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10353&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/RWX1LEH8SYI935L020260726044308882.400x225.jpg",
     "publishedAt": "2026-07-26",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -271,7 +271,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10347&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/MQR1GPAJK53GNUGF20260724070903583.400x225.jpg",
     "publishedAt": "2026-07-24",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -283,7 +283,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10346&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/5IDAA2DYQHZ41GUR20260723200215179.400x225.jpg",
     "publishedAt": "2026-07-23",
-    "crawledAt": "2026-08-26T04:39:00Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   }

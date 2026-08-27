@@ -1,5 +1,29 @@
 [
   {
+    "id": "JP_NOTICE_289",
+    "region": "JP",
+    "category": "NOTICE",
+    "title": "既に確認している現象についてのご案内",
+    "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=289&countryType=ja-JP",
+    "thumbnail": "https://s1.pearlcdn.com/JP/Upload/News/62d55ff820420200424013915872.jpg",
+    "publishedAt": "2026-08-27",
+    "crawledAt": "2026-08-27T10:56:12Z",
+    "isMajor": false,
+    "deadline": null
+  },
+  {
+    "id": "JP_NOTICE_12516",
+    "region": "JP",
+    "category": "NOTICE",
+    "title": "黒い砂漠利用規約違反ユーザー制裁のご案内(2026-08-27)",
+    "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12516&countryType=ja-JP",
+    "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/JCB0FBAEKSHHYVV220260827182359289.400x225.jpg",
+    "publishedAt": "2026-08-27",
+    "crawledAt": "2026-08-27T10:56:12Z",
+    "isMajor": false,
+    "deadline": null
+  },
+  {
     "id": "JP_NOTICE_12496",
     "region": "JP",
     "category": "NOTICE",
@@ -7,7 +31,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12496&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/KWY2Z35R6CK9TUUY20260826204916549.400x225.jpg",
     "publishedAt": "2026-08-26",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -19,7 +43,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12484&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/LT56AF42GJLSPCT520260826124229319.400x225.jpg",
     "publishedAt": "2026-08-26",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -31,19 +55,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12478&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/880O44CC55HAEX0A20260824142739294.400x225.jpg",
     "publishedAt": "2026-08-26",
-    "crawledAt": "2026-08-26T13:53:53Z",
-    "isMajor": false,
-    "deadline": null
-  },
-  {
-    "id": "JP_NOTICE_289",
-    "region": "JP",
-    "category": "NOTICE",
-    "title": "既に確認している現象についてのご案内",
-    "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=289&countryType=ja-JP",
-    "thumbnail": "https://s1.pearlcdn.com/JP/Upload/News/62d55ff820420200424013915872.jpg",
-    "publishedAt": "2026-08-25",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -55,7 +67,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12476&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/L1E7XQYOPSD6SPG020260821152541934.400x225.jpg",
     "publishedAt": "2026-08-25",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -67,7 +79,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12479&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/V3XJMQA2FHUHXZCI20260824185713651.400x225.jpg",
     "publishedAt": "2026-08-24",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -79,7 +91,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=7077&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2023/ETZO51U2LRV4JOIS20230802104240870.400x225.jpg",
     "publishedAt": "2026-08-23",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -91,7 +103,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12475&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/OPIUS26HUAH0QN9N20260821151349060.400x225.jpg",
     "publishedAt": "2026-08-21",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -103,7 +115,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12473&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/OIV0ER5SL3RFC9SM20260821141812220.400x225.jpg",
     "publishedAt": "2026-08-21",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -115,7 +127,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12470&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/HWCXSLI1828278GO20260820194207903.400x225.jpg",
     "publishedAt": "2026-08-20",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -127,7 +139,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12469&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/B8A51MHKWOCTDAOP20260820175611224.400x225.jpg",
     "publishedAt": "2026-08-20",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -139,7 +151,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12322&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/CBA4LR9TCBE0TRTQ20260726124532090.400x225.png",
     "publishedAt": "2026-08-20",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -151,7 +163,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12464&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/K10QZI747T1QW5PA20260819175846386.400x225.jpg",
     "publishedAt": "2026-08-19",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -163,7 +175,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12446&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/J9BMJZRDRQSN96HU20260818115502400.400x225.jpg",
     "publishedAt": "2026-08-19",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -175,7 +187,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12445&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/ZWQFV87W9KFKQCXW20260817164802897.400x225.jpg",
     "publishedAt": "2026-08-17",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -187,7 +199,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12443&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/Z0Y5KFKSBUAJVSCO20260814124837620.400x225.jpg",
     "publishedAt": "2026-08-14",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -199,7 +211,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12442&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/ACQ6H48AE8ZNL4NA20260814104337691.400x225.jpg",
     "publishedAt": "2026-08-14",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -211,7 +223,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12441&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/P8KK4Q9W4QOMFFSB20260813194638414.400x225.jpg",
     "publishedAt": "2026-08-13",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -223,7 +235,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12431&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/L6BT7RH1HMMGEULN20260813080644317.400x225.png",
     "publishedAt": "2026-08-13",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -235,7 +247,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12430&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/QMZKF8EPBTUVA7IY20260813154849601.400x225.jpg",
     "publishedAt": "2026-08-13",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -247,7 +259,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12425&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/7D29D1WD2EPSS6W920260812184810952.400x225.jpg",
     "publishedAt": "2026-08-12",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -259,7 +271,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12413&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/NIO9Y6F8BM3Q83SF20260810183127424.400x225.jpg",
     "publishedAt": "2026-08-12",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   },
@@ -271,19 +283,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12414&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/08RWFRSV7CW2MT2420260811185240483.400x225.jpg",
     "publishedAt": "2026-08-11",
-    "crawledAt": "2026-08-26T13:53:53Z",
-    "isMajor": false,
-    "deadline": null
-  },
-  {
-    "id": "JP_NOTICE_12412",
-    "region": "JP",
-    "category": "NOTICE",
-    "title": "黒い砂漠利用規約違反ユーザー制裁のご案内(2026-08-07)",
-    "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12412&countryType=ja-JP",
-    "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/K24J9Q4DBTRYMQJZ20260807180657141.400x225.jpg",
-    "publishedAt": "2026-08-07",
-    "crawledAt": "2026-08-26T13:53:53Z",
+    "crawledAt": "2026-08-27T10:56:12Z",
     "isMajor": false,
     "deadline": null
   }
