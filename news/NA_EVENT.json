@@ -1,5 +1,53 @@
 [
   {
+    "id": "NA_EVENT_10679",
+    "region": "NA",
+    "category": "EVENT",
+    "title": "MARNI’S SPOOKY PLAYGROUND · FASHION SHOW",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10679&countryType=en-US",
+    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/10/08/pwxfhfli6loh1dst20261008122223338.400x225.jpg",
+    "publishedAt": "2026-10-08",
+    "crawledAt": "2026-10-08T15:15:41Z",
+    "isMajor": false,
+    "deadline": "2026-11-01"
+  },
+  {
+    "id": "NA_EVENT_10675",
+    "region": "NA",
+    "category": "EVENT",
+    "title": "[Dream Horse] Awaken the Dream Aura",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10675&countryType=en-US",
+    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/10/08/ng0r8phrn9ld1nd720261008095449217.400x225.jpg",
+    "publishedAt": "2026-10-08",
+    "crawledAt": "2026-10-08T15:15:41Z",
+    "isMajor": false,
+    "deadline": "2026-11-06"
+  },
+  {
+    "id": "NA_EVENT_10673",
+    "region": "NA",
+    "category": "EVENT",
+    "title": "[EP. 1] Evil Stirs at Marni's Playground",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10673&countryType=en-US",
+    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/10/08/mqzbl4h9eja6nj0h20261008095212487.400x225.jpg",
+    "publishedAt": "2026-10-08",
+    "crawledAt": "2026-10-08T15:15:41Z",
+    "isMajor": false,
+    "deadline": "2026-11-06"
+  },
+  {
+    "id": "NA_EVENT_10665",
+    "region": "NA",
+    "category": "EVENT",
+    "title": "Celebrate 2026 Master Class with Twitch Drops",
+    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10665&countryType=en-US",
+    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/10/08/uisob86i6ehped7420261008100144649.400x225.jpg",
+    "publishedAt": "2026-10-08",
+    "crawledAt": "2026-10-08T15:15:41Z",
+    "isMajor": false,
+    "deadline": "2026-11-02"
+  },
+  {
     "id": "NA_EVENT_10340",
     "region": "NA",
     "category": "EVENT",
@@ -7,7 +55,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10340&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/ZI9QLED3DHE7EF5320260723100401567.400x225.jpg",
     "publishedAt": "2026-10-06",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-11-05"
   },
@@ -19,7 +67,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10658&countryType=en-US",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/10/01/qujiyd1g77c7xl2h20261001083841265.400x225.png",
     "publishedAt": "2026-10-01",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-29"
   },
@@ -31,7 +79,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10657&countryType=en-US",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/10/01/nxtfpi3yjbzpqn2z20261001083044837.400x225.jpg",
     "publishedAt": "2026-10-01",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-16"
   },
@@ -43,7 +91,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10656&countryType=en-US",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/10/01/cnzypnzysd016gst20261001082544417.400x225.jpg",
     "publishedAt": "2026-10-01",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-16"
   },
@@ -55,7 +103,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10620&countryType=en-US",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/09/23/nvnsnvviisq9wteo20260923092212033.400x225.jpg",
     "publishedAt": "2026-09-23",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-11-01"
   },
@@ -67,7 +115,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10602&countryType=en-US",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/09/17/ie1hqb4bttfiozxa20260917174048511.400x225.jpg",
     "publishedAt": "2026-09-18",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-31"
   },
@@ -79,33 +127,9 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=138&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2021/D2UFD3CAEBG8ONE620210125112347162.400x225.jpg",
     "publishedAt": "2026-09-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-08"
-  },
-  {
-    "id": "NA_EVENT_10596",
-    "region": "NA",
-    "category": "EVENT",
-    "title": "[Donghwa's Gift] Gift of Fortune",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10596&countryType=en-US",
-    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/09/17/zo8wxsqgmwfdg9n220260917094628729.400x225.png",
-    "publishedAt": "2026-09-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
-    "isMajor": false,
-    "deadline": "2026-10-09"
-  },
-  {
-    "id": "NA_EVENT_10594",
-    "region": "NA",
-    "category": "EVENT",
-    "title": "[Donghwa's Gift] Pearl-Bearing Clam Fishing Spot",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10594&countryType=en-US",
-    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/09/17/hjl9fed9vjrc6fur20260917090543452.400x225.jpg",
-    "publishedAt": "2026-09-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
-    "isMajor": false,
-    "deadline": "2026-10-09"
   },
   {
     "id": "NA_EVENT_10592",
@@ -115,45 +139,9 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10592&countryType=en-US",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/09/17/yhrp8dxaou7ae17d20260917085830332.400x225.jpg",
     "publishedAt": "2026-09-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-16"
-  },
-  {
-    "id": "NA_EVENT_10591",
-    "region": "NA",
-    "category": "EVENT",
-    "title": "[Path of Farmer/Hunter] Living off the Land",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10591&countryType=en-US",
-    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/09/17/2koqqrimc7anc4xp20260917085506197.400x225.jpg",
-    "publishedAt": "2026-09-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
-    "isMajor": false,
-    "deadline": "2026-10-09"
-  },
-  {
-    "id": "NA_EVENT_10590",
-    "region": "NA",
-    "category": "EVENT",
-    "title": "[Donghwa's Gift] Hot Time",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10590&countryType=en-US",
-    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/09/17/3c52rtjijqzmp7jp20260917084946861.400x225.jpg",
-    "publishedAt": "2026-09-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
-    "isMajor": false,
-    "deadline": "2026-10-09"
-  },
-  {
-    "id": "NA_EVENT_10589",
-    "region": "NA",
-    "category": "EVENT",
-    "title": "[Autumn Sale] Packages and Bundles Sale",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10589&countryType=en-US",
-    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_naeu/thumbnail/2026/09/17/xzhquxtgvhz1j4d120260917084629197.400x225.jpg",
-    "publishedAt": "2026-09-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
-    "isMajor": false,
-    "deadline": "2026-10-09"
   },
   {
     "id": "NA_EVENT_10545",
@@ -163,21 +151,9 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10545&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/P4YPWEVM6J7ADA7L20260903093443261.400x225.jpg",
     "publishedAt": "2026-09-03",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-22"
-  },
-  {
-    "id": "NA_EVENT_10544",
-    "region": "NA",
-    "category": "EVENT",
-    "title": "[Gathering Pass] Packed with Perks",
-    "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10544&countryType=en-US",
-    "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/E36UQ00HWF2JN7K620260903093102917.400x225.jpg",
-    "publishedAt": "2026-09-03",
-    "crawledAt": "2026-10-08T07:01:23Z",
-    "isMajor": false,
-    "deadline": "2026-10-09"
   },
   {
     "id": "NA_EVENT_10502",
@@ -187,7 +163,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10502&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/PK2JEWQA80OLXI5120260827091020050.400x225.jpg",
     "publishedAt": "2026-08-27",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-11-13"
   },
@@ -199,7 +175,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10477&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/DQ3VWWFAIBA70CWU20260820102828716.400x225.jpg",
     "publishedAt": "2026-08-20",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-10"
   },
@@ -211,7 +187,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10448&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/X98SKZQJQST81CFE20260813091738933.400x225.jpg",
     "publishedAt": "2026-08-13",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-16"
   },
@@ -223,7 +199,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10400&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/7DEDYK4DYTMRYT2P20260730104645257.400x225.jpg",
     "publishedAt": "2026-07-30",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-14"
   },
@@ -235,7 +211,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=10352&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/THIK0VV8VG27UESE20260726044018499.400x225.jpg",
     "publishedAt": "2026-07-26",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-22"
   },
@@ -247,7 +223,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=9633&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2026/LGNAU0PYAPMTHLQP20260129110555496.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2027-01-01"
   },
@@ -259,7 +235,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=9527&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2025/VYBM9AKMU35TA7E720251231101728018.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2027-01-01"
   },
@@ -271,7 +247,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=6455&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2024/S8LIGKVTTOH2N0OR20240112163524389.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-09"
   },
@@ -283,7 +259,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=5878&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2023/LEXHZR0J7PE5O3K420230906095516052.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-10"
   },
@@ -295,7 +271,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=5073&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2023/C9D9CT0CVSCRWYSV20230329095750394.400x225.png",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-10"
   },
@@ -307,7 +283,7 @@
     "url": "https://www.naeu.playblackdesert.com/News/Notice/Detail?groupContentNo=2276&countryType=en-US",
     "thumbnail": "https://s1.pearlcdn.com/NAEU/Upload/thumbnail/2021/DPKV7PGYDYY5LHKA20211213110117765.400x225.jpg",
     "publishedAt": "2026-07-17",
-    "crawledAt": "2026-10-08T07:01:23Z",
+    "crawledAt": "2026-10-08T15:15:41Z",
     "isMajor": false,
     "deadline": "2026-10-09"
   }
