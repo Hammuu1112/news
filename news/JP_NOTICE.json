@@ -1,13 +1,13 @@
 [
   {
-    "id": "JP_NOTICE_289",
+    "id": "JP_NOTICE_12749",
     "region": "JP",
     "category": "NOTICE",
-    "title": "既に確認している現象についてのご案内",
-    "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=289&countryType=ja-JP",
-    "thumbnail": "https://s1.pearlcdn.com/JP/Upload/News/62d55ff820420200424013915872.jpg",
-    "publishedAt": "2026-10-20",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "title": "黒い砂漠利用規約違反ユーザー制裁のご案内(2026-10-21)",
+    "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12749&countryType=ja-JP",
+    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/21/t628vnzcv2s1vige20261021170848824.400x225.jpg",
+    "publishedAt": "2026-10-21",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -18,8 +18,20 @@
     "title": "10月22日(木)メンテナンスのご案内",
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12741&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/19/cd4uqjlyr1q899lw20261019141947199.400x225.jpg",
+    "publishedAt": "2026-10-21",
+    "crawledAt": "2026-10-21T13:29:50Z",
+    "isMajor": false,
+    "deadline": null
+  },
+  {
+    "id": "JP_NOTICE_289",
+    "region": "JP",
+    "category": "NOTICE",
+    "title": "既に確認している現象についてのご案内",
+    "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=289&countryType=ja-JP",
+    "thumbnail": "https://s1.pearlcdn.com/JP/Upload/News/62d55ff820420200424013915872.jpg",
     "publishedAt": "2026-10-20",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -31,7 +43,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12706&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/13/b799e4szjfnq0v6p20261013210253717.400x225.png",
     "publishedAt": "2026-10-18",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -43,7 +55,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12739&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/17/6muz7v6ls29pccqs20261017111934941.400x225.jpg",
     "publishedAt": "2026-10-17",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -55,7 +67,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12738&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/16/65fysclxqka6cx5y20261016205157661.400x225.jpg",
     "publishedAt": "2026-10-16",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -67,7 +79,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12736&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/16/m8bc813jpnc73g3w20261016160120337.400x225.jpg",
     "publishedAt": "2026-10-16",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -79,7 +91,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12734&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/15/6tkmdnack3iqx53520261015200530070.400x225.jpg",
     "publishedAt": "2026-10-16",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -91,7 +103,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12723&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/15/89ehnygg3nk785rp20261015090850853.400x225.png",
     "publishedAt": "2026-10-15",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -103,7 +115,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=7077&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2023/ETZO51U2LRV4JOIS20230802104240870.400x225.jpg",
     "publishedAt": "2026-10-14",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -115,7 +127,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12703&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/13/as3u2428abwqrpu120261013142547682.400x225.jpg",
     "publishedAt": "2026-10-14",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -127,7 +139,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12658&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/09/30/jtoon3x7bzcwivc720260930113604284.400x225.jpg",
     "publishedAt": "2026-10-09",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -139,7 +151,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12675&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/06/khok5wnx9pro8bqq20261006104515141.400x225.jpg",
     "publishedAt": "2026-10-07",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -151,7 +163,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12430&countryType=ja-JP",
     "thumbnail": "https://s1.pearlcdn.com/JP/Upload/thumbnail/2026/9ZNTBOQ3L4Q8DPLS20260904155124552.400x225.png",
     "publishedAt": "2026-10-04",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -163,7 +175,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12674&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/01/olu478c81s4d0dgk20261001191203697.400x225.jpg",
     "publishedAt": "2026-10-01",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -175,7 +187,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12669&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/01/n8mfvtm7p9mwhcuq20261001120744793.400x225.png",
     "publishedAt": "2026-10-01",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -187,7 +199,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12659&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/09/30/u8s0n941699ya7bq20260930185452810.400x225.jpg",
     "publishedAt": "2026-09-30",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -199,7 +211,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12651&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/09/29/q6prsw8lo0xlqdq120260929104543725.400x225.jpg",
     "publishedAt": "2026-09-30",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -211,7 +223,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12650&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/09/28/cbo6oe0qiv0n5ap420260928191516598.400x225.jpg",
     "publishedAt": "2026-09-28",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -223,7 +235,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=8937&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/10/08/qrk77heakril6ltp20261008122211678.400x225.png",
     "publishedAt": "2026-09-25",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -235,7 +247,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12648&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/09/25/0zaj8ubxzruvhf3z20260925192533030.400x225.jpg",
     "publishedAt": "2026-09-25",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -247,7 +259,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12644&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/09/24/kw8ifequk1qfqa1e20260924154412617.400x225.jpg",
     "publishedAt": "2026-09-25",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -259,7 +271,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12646&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/09/24/w06wl1vyjz4b8naq20260924165735612.400x225.jpg",
     "publishedAt": "2026-09-24",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   },
@@ -271,19 +283,7 @@
     "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12621&countryType=ja-JP",
     "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/09/18/f829491b00z94jl220260918112742005.400x225.jpg",
     "publishedAt": "2026-09-22",
-    "crawledAt": "2026-10-20T13:22:10Z",
-    "isMajor": false,
-    "deadline": null
-  },
-  {
-    "id": "JP_NOTICE_12620",
-    "region": "JP",
-    "category": "NOTICE",
-    "title": "au PAY（auかんたん決済）/クレジットカード/決済メンテナンスのご案内",
-    "url": "https://www.jp.playblackdesert.com/News/Notice/Detail?groupContentNo=12620&countryType=ja-JP",
-    "thumbnail": "https://static.pearlcdn.com/files/portal/bdo_jp/thumbnail/2026/09/18/jmbtr9xle8qm7sl920260918112541328.400x225.jpg",
-    "publishedAt": "2026-09-18",
-    "crawledAt": "2026-10-20T13:22:10Z",
+    "crawledAt": "2026-10-21T13:29:50Z",
     "isMajor": false,
     "deadline": null
   }
